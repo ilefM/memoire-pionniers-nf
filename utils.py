@@ -19,7 +19,7 @@ def read_characters_file(filePath):
             character_name, town = line.strip().split(":", 1)
             characters.append((character_name.strip(), town.strip()))
             
-    return characters;
+    return characters
 
 def is_town_name(currentLine: str, nextLine: str):
     cleaned = currentLine.replace('-', '').replace(' ', '')
@@ -28,9 +28,5 @@ def is_town_name(currentLine: str, nextLine: str):
 
 def is_start_of_character(s: str):
     startOfCharacterPattern = r'^[A-ZÉÈÀÙÂÊÎÔÛÇ]+(?:\*|\s\(de\)|\sou\s[A-ZÉÈÀÙÂÊÎÔÛÇ]+)?(?:\sdit\s[A-ZÉÈÀÙÂÊÎÔÛÇ\-]+)?,\s[A-ZÉÈÀÙÂÊÎÔÛÇa-zéèàùâêîôûç\-]+(?:-[A-ZÉÈÀÙÂÊÎÔÛÇa-zéèàùâêîôûç]+)?\.$'
-    return re.match(startOfCharacterPattern, s);
+    return re.match(startOfCharacterPattern, s)
 
-def extract_characters_info():
-    characters = []
-
-#def snipe_character_lines(data_lines, characters):

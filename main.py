@@ -1,7 +1,8 @@
 from typing import List
+from characters import extract_characters
 from towns import Town, extract_towns
 from utils import read_characters_file, read_file
-from mistral import extract_characters_paragraph
+from mistral import extract_information_bio
     
 def main():
     files = [
@@ -12,12 +13,26 @@ def main():
         data_lines = read_file(file)
         characters = read_characters_file(file)
         towns: List[Town] = extract_towns(data_lines, characters)
+
+        for town in towns :
+            characters_text = town["characters_bio"]
+            known_characters = town["characters"]
+            extracted_characters = extract_characters(characters_text, known_characters, town["name"])
+
+            for char in extracted_characters:
+                extract_information_bio(char)
+
+        # Export to json
         
+
+
+
+
+
 
 
 if __name__ == "__main__":
     main()
-
 
 # TODO:
 #   AI to retreive data from character's bio

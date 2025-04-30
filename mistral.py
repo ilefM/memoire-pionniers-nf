@@ -1,19 +1,13 @@
 from ollama import chat
 from ollama import ChatResponse
 
-def extract_characters_paragraph(text):
+def extract_information_bio(text):
     prompt = f"""
-    Tu es un assistant qui lit un texte historique. Ton travail est d’extraire  les noms des personnages mentionnés ainsi que leur biographie. Pour chaque personnage le paragraph se termine toujours par un point suivi d'un code en majuscule entre parentheses puis un saut à la ligne. La premiere phrase d'un paragraphe represente le nom complet du personnage. Ensuite ce qui suit par la suite represente sa biographie.
-    Format attendu (retourne uniquement une liste JSON):
-    [
-    {{
-        "name": "nom au complet du personnage",
-        "bio": "biographie du personnage"
-    }}
-    ]
+    Tu es un assistant qui lit une bibliographie de pionniers de la Nouvelle-France. Ton travail est d’extraire  les lieux et dates de naissance et/ou de déces mentionnés dans le text fournis. J'aimerai avoir l'information bien structuée en format JSON
 
     Texte :
     \"\"\"{text}\"\"\"
+
     """
 
     response: ChatResponse = chat(

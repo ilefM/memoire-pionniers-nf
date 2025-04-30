@@ -8,9 +8,7 @@ class Town(TypedDict):
     population: str
     description: str
     characters: List[str]
-    characters_text: List[str]
-    charaters_bio: List[List[str]]
-
+    characters_bio: list[list[str]]
 
 def get_characters_of_town(current_town: str, characters: List[str]):
     town_characters = []
@@ -19,18 +17,14 @@ def get_characters_of_town(current_town: str, characters: List[str]):
             town_characters.append(character[0])
     return town_characters;
 
-#def is_end_of_description(current_line: str, characters: List[str]):
-    # uppercase_line = current_line.upper()
-    # upper_case_splitted = uppercase_line.split()[:2]
-    # first_two_words = " ".join(upper_case_splitted).replace("*", "")
-    # first_words_alt = re.sub(r"\s*\([^)]*\)", "", first_two_words).strip()
-    # first_word = upper_case_splitted[0].replace("*", "")
-    # for character in characters:
-    #     if first_two_words in character.upper() or first_words_alt in character.upper():
-    #         return True
-    #     if first_word in character.split()[0]:
-    #         return True
-    # return False
+def match_characters_name(line, actual_name):
+    first_word = line.split()[0].upper().replace("*", "").replace(",", "")
+    actual_name = actual_name.split()[0].replace(",", "")
+    if first_word == actual_name:
+        return True
+    return False
+
+
 
 def extract_towns(data_lines, characters):
     towns_texts = []
@@ -72,22 +66,49 @@ def extract_towns(data_lines, characters):
                 description = description + " " + town[i]
             i += 1
 
-        
-        
-        i = 0
-        characters_bio = []
-        bio = []
-        while i < len(characters_text):
-            bio.append(characters_text[i])
-            if re.search(r'\.\s\([A-Z-]+\)', characters_text[i]):
-                characters_bio.append(bio)
-                bio = []
-            elif i + 1 < len(characters_text) and re.search(r'\.\s\([A-Z-]*$', characters_text[i]) and re.match(r'^[A-Z-]*\)', characters_text[i+1]):
-                bio.append(characters_text[i + 1])
-                characters_bio.append(bio)
-                bio = []
-            i += 1
 
+        # i = 0
+        # all_characters_bio = []
+        # character_bio = []
+        # characters_left = len(current_town_characters)
+
+        # # Regex patterns
+        # bio_source_simple = re.compile(r"\. \([A-Z ]+-[A-Z ]+\)$")
+        # bio_source_reference = re.compile(r"\. \([A-Z0-9 ]+-[A-Z0-9 ]+\)$")
+        # bio_source_line = re.compile(r"^\([A-Z0-9 \-]+\)$")
+
+        # while i < len(characters_text):
+        #     if i == 1:
+        #         print("jere")
+        #     line = characters_text[i]
+        #     character_bio.append(line)
+
+            
+        #     if (bio_source_simple.match(line) or 
+        #         bio_source_reference.match(line) or 
+        #         bio_source_line.fullmatch(line)):
+                
+        #         characters_left -= 1
+        #         all_characters_bio.append(character_bio[:])
+        #         character_bio = []
+
+        #     if characters_left == 0 and i != len(characters_text) - 1:
+        #         raise Exception("Error extracting characters: extra lines found")
+
+        #     i += 1
+
+        # if len(current_town_characters) != len(all_characters_bio):
+        #     print(name)
+        # characters_string = ""
+        # i = 0
+        # while i < len(characters_text):
+        #     if i == 0:
+        #         characters_string = characters_text[0]
+        #     elif characters_text[i - 1].endswith("-"):
+        #         characters_string = characters_string + characters_text[i]
+        #     else:
+        #         characters_string = characters_string + " " + characters_text[i]
+        #     i += 1
 
         towns.append({
             "name": name,
@@ -95,53 +116,7 @@ def extract_towns(data_lines, characters):
             "population": population,
             "description": description,
             "characters": current_town_characters,
-            "characters_text": characters_text,
-            "characters_bio": characters_bio
+            "characters_bio": characters_text,
          })
-    
-    # for town in towns:
-    #     i = 0
-    #     textarr = town["town_text"]
-    #     text = ""
-        
-    #     while i < len(textarr):
-    #         if i > 0 and textarr[i - 1].endswith("-"):
-    #             text = text + textarr[i]
-    #         elif i == 0:
-    #             text = textarr[i]
-    #         else:
-    #             text = text + " " + textarr[i]
-    #         i += 1
-        
-    #     town["town_text"] = text
-
-            # name = data_lines[i].upper()
-            # postal_code = data_lines[i + 1].split("-")[0].replace("(", "").replace(")", "").replace(" ", "");
-            # population = data_lines[i + 1].split("-")[1]
-            
-            # # Extract all the text related to the current town (town description and characters)
-            # text = []
-            # for j in range(i + 2, len(data_lines)):
-            #     if len(data_lines) - (j + 1) > 0 and is_town_name(data_lines[j], data_lines[j + 1]):
-            #         i = j
-            #         break;
-            #     text.append(data_lines[j])
-            
-            # current_town_characters = get_characters_of_town(name, characters)
-
-            # # Get town description
-            # description = []
-            # for line in text:
-            #     if is_end_of_description(line, current_town_characters):
-            #         break;
-            #     description.append(line)     
-
-                
-            # town = {
-            #     "name": name,
-            #     "postal_code": postal_code,
-            #     "population": population,
-            #     "description": description,
-            # }
             
     return towns
