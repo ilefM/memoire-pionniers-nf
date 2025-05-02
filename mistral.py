@@ -1,12 +1,20 @@
+import json
 from ollama import chat
 from ollama import ChatResponse
 
 def extract_information_bio(text):
     prompt = f"""
-    Tu es un assistant qui lit une bibliographie de pionniers de la Nouvelle-France. Ton travail est d’extraire  les lieux et dates de naissance et/ou de déces mentionnés dans le text fournis. J'aimerai avoir l'information bien structuée en format JSON
+        Tu es un assistant chargé de lire des biographies de pionniers de la Nouvelle-France. Ton travail consiste à extraire certaines informations mentionnées dans le texte fourni. Voici le format de réponse attendu :
 
-    Texte :
-    \"\"\"{text}\"\"\"
+        {{
+            "lieu_naissance_ou_bapteme": "Nom du lieu",
+            "lieu_deces_ou_inhumation": "Nom du lieu"
+        }}
+
+        Si une information est introuvable alors juste laisser une valeur vide
+
+        Texte :
+        \"\"\"{text}\"\"\"
 
     """
 
@@ -16,4 +24,6 @@ def extract_information_bio(text):
         format="json"
     )
 
-    print(response.message.content)
+    data = json.loads(response.message.content)
+
+    return data

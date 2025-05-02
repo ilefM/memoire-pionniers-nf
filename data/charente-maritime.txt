@@ -2077,7 +2077,7 @@ Champlain , Samuel. Baptisé en
 Navigateur, géographe, fondateur de
 Port-Royal en Acadie et de Québec,
 père de la Nouvelle-France. Décédé en
-1635. (ILMPC-voir chap I)
+1635. (ILMPC-VOIR CHAP I)
 COTARD ou COTTARD, Jacques.
 Né vers 1692, paroisse Notre-Dame.
 Fils de Jean Cotard et d’Élisabeth
@@ -3047,7 +3047,7 @@ et de Marie Maudet. Marié à Louise-
 Marguerite Douaire de Bondy, à
 Québec, le 13-11-1685. Quatre
 enfants. Inhumé à Québec, le 27-05-
-1691. (IFGH-voir chap I)
+1691. (IFGH-VOIR CHAP I)
 ANCEAU* dit Berry, Benjamin.
 Baptisé le 12-05-1635, chapelle
 Sainte-Marguerite. Fils de Jean Anceau
@@ -6747,7 +6747,7 @@ vers 1673. Décédé, noyé à Beauport
 FORANT* (de), Isaac-Louis. Baptisé
 le 06-01-1689. Inhumé à Louisbourg
 (Nouvelle-Écosse), le 10-05-1740.
-(IFGH-voir chap I))
+(IFGH-VOIR CHAP I))
 GIRAUD, Marie. Née vers 1640.
 Mariée à Abel Turcot ou Turcault, à
 Château-Richer (Qc), le 27-11-1662.
@@ -8894,7 +8894,7 @@ de Lauzon, aux Herbiers, en Vendée
 (Fr.), le 25-05-1713. Officier de
 Marine, croix de Saint-Louis. Décédé
 à Nemours, Seine-et-Marne (Fr.), le
-26-10-1756. (ILMPC-voir chap. 1)
+26-10-1756. (ILMPC-VOIR CHAP. 1)
 BATAILLE, Jean. Né en 1688. Pilote
 du vaisseau « L’Éléphant ». Décédé
 à Hôtel-Dieu de Québec, le 28-03-
@@ -8947,7 +8947,7 @@ Il entre dans la Marine, en 1730 et
 devient contrôleur de la Marine à
 Québec, en 1748. Emprisonné à la
 Bastille, en 1762, suite à l’Affaire du
-Canada. (ILMPC-Voir chap.1)
+Canada. (ILMPC-VOIR CHAP.1)
 CHAUVET*, André ou Jean-André.
 Pilote. Baptisé le 02-12-1722, paroisse
 Saint-Louis. Fils de Pierre Chauvet
@@ -9093,7 +9093,7 @@ Versaille (Fr.), le 21-02-1735. Première
 mention à Québec, en 1738. Rentré
 en France, avec sa famille, en 1761.
 Décédé à Aubagne (Fr.), le 02-08-
-1784. (FO-voir livre N° 9)
+1784. (FO-VOIR LIVRE N° 9)
 MARCHET*, Pierre. Baptisé le 23-
 11-1705, paroisse Saint-Louis. Fils de
 Jean Marchet et de Marie Drugeon.
@@ -9249,7 +9249,7 @@ DU GUA De Mons, Pierre. Baptisé
 en 1558, au bourg de Saint-Pierre.
 Fondateur des premiers établissements
 permanents Français, en Amérique du
-Nord. (ILMPC-voir chapitres I et III)
+Nord. (ILMPC-VOIR CHAPITRES I ET III)
 PELISSIER dit Saint-Onge, Denis.
 Militaire. Né vers 1727. Fils de Jean-
 Denis Pelissier et de Marie Laserre.
@@ -9461,8 +9461,7 @@ DURAND, Pierre. Protestant. Marié
 pour la Nouvelle-Angleterre, en 1702.
 Membre de l’église française de New-
 York, le 04-08-1706. (IFGH)
-SAINT-GEORGESDES-
-COTEAUX
+SAINT-GEORGESDES-COTEAUX
 (17810) - 2 087 hab.
 Arrondissement de Saintes (7 km, par
 D 137). Commune actuellement en
@@ -9523,8 +9522,7 @@ de Jean Berbudeau et de Marie-Anne
 Duvivier. Marié à Marie-Gervaise
 Paris, à Louisbourg (Nouvelle-Écosse),
 le 19-09-1743. Décédé à Archigny
-(Fr.), le 04-01-1792. (ILMPC-voir
-chapitre I)
+(Fr.), le 04-01-1792. (ILMPC-VOIR CHAPITRE I)
 CARRIER*, Jean. Baptisé le 24-
 01-1638, église Saint-Georges. Fils
 de Jean Carrier et de Jeanne Dodin.
@@ -10379,8 +10377,7 @@ ALLEMAND ou LALEMAND,
 Pierre. Pilote, cartographe, explorateur,
 traiteur. Né vers 1662. Fils de Claude
 Allemand et de Marie Mandet. Décédé
-à Québec, en 1691. (ILMPC-voir
-chap. 1)
+à Québec, en 1691. (ILMPC-VOIR CHAP. 1)
 CHARTIER* dit Lamarche,
 Mathurin. Militaire. Baptisé le 08-
 11-1660. Fils de Mathurin Chartier
@@ -11596,6 +11593,3 @@ au Conseil supérieur, le 05-05-
 1710. Il a acheté le Comté de Saint-
 Laurent, Île-d’Orléans (Qc), à François
 Berthelot, le 20-03-1712. (IFGH)
-
-
-

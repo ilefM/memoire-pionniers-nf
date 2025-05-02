@@ -1,2 +1,4 @@
 pypdf
 ollama
+pandas
+openpyxl
