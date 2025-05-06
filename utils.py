@@ -2,7 +2,7 @@ import re
 
 def read_file(filePath):
     dataLines = []
-    with open(f"./data/{filePath}.txt", 'r', encoding="utf-8-sig") as file:
+    with open(f"./data/inputs/{filePath}.txt", 'r', encoding="utf-8-sig") as file:
         for line in file:
             if len(line.strip()) == 0:
                 continue
@@ -11,7 +11,7 @@ def read_file(filePath):
 
 def read_characters_file(filePath):
     characters = []
-    with open(f"./data/personnages-{filePath}.txt", 'r', encoding="utf-8-sig") as file:
+    with open(f"./data/inputs/personnages-{filePath}.txt", 'r', encoding="utf-8-sig") as file:
         for line in file:
             if line.startswith("•"):
                 continue

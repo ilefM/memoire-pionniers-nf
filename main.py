@@ -6,7 +6,6 @@ from towns import Town, extract_towns
 from utils import read_characters_file, read_file
 from mistral import extract_information_bio
 
-    
 def main():
     files = [
         "charente-maritime",
@@ -31,12 +30,12 @@ def main():
                 characters.append(char)
         
         # export to json
-        with open(f"{file}.json", "w", encoding="utf-8") as f:
+        with open(f"data/outputs/{file}.json", "w", encoding="utf-8") as f:
             json.dump(characters, f, indent=4, ensure_ascii=False)
 
-        # # export to excel
-        # df = pd.DataFrame(characters)
-        # df.to_excel("characters.xlsx", index=False)
+        # export to excel
+        df = pd.DataFrame(characters)
+        df.to_excel(f"data/outputs/file.xlsx", index=False)
         
         
 
