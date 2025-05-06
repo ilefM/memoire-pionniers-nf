@@ -1,3 +1,4 @@
+import re
 from typing import List, TypedDict
 from characters import Character
 from utils import is_town_name
@@ -12,8 +13,11 @@ class Town(TypedDict):
 
 def get_characters_of_town(current_town: str, characters: List[str]):
     town_characters = []
+
     for character in characters:
-        if character[1].upper() == current_town or character[1].upper() == current_town.split("-")[0]:
+        town_name = character[1].split(" - ")[-1]
+        cleaned_town_name = re.sub(r"[^a-zA-ZÀ-ÿ]", "", town_name).upper()
+        if character[1].upper() == current_town or cleaned_town_name == current_town:
             town_characters.append(character[0])
     return town_characters;
 

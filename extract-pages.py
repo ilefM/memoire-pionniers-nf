@@ -12,4 +12,4 @@ def extract_pages(input_pdf, output_pdf, start_page, end_page):
         writer.write(f)
 
 # Example usage
-extract_pages("livre-n11.pdf", "characters_charente.pdf", 276, 279)
+extract_pages("Livre-n11.pdf", "personnages_charente_maritime.pdf", 279, 291)

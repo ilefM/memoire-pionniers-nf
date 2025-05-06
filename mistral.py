@@ -11,7 +11,7 @@ def extract_information_bio(text):
             "lieu_deces_ou_inhumation": "Nom du lieu"
         }}
 
-        Si une information est introuvable alors juste laisser une valeur vide
+        TRÈS IMPORTANT: Si une information est introuvable/inconnue/ou non spécifiée, laisser une valeur vide
 
         Texte :
         \"\"\"{text}\"\"\"
