@@ -8,7 +8,7 @@ from mistral import extract_information_bio
 
 def main():
     files = [
-        "charente-maritime",
+        "deux-sevres",
     ]
 
     for file in files:
