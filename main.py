@@ -15,18 +15,20 @@ def main():
         data_lines = read_file(file)
         characters_index = read_characters_file(file)
         towns: List[Town] = extract_towns(data_lines, characters_index)
-
+       
         characters: List[Character] = []
 
         for town in towns :
+            print(town["name"])
             characters_partial = extract_characters(town["characters_text"], town["characters"], town["name"])
 
             for char in characters_partial:
-                # data = extract_information_bio(char)
-                # data_list = list(data.values())
-                # char["place_of_birth"] = data_list[0]
-                # char["place_of_death"] = data_list[1]
-                # char["principal_place"] = town["name"] + " (" + town["postal_code"] + ")"
+                data = extract_information_bio(char)
+                data_list = list(data.values())
+                char["place_of_birth"] = data_list[0]
+                if len(data_list) > 1:
+                    char["place_of_death"] = data_list[1]
+                char["principal_place"] = town["name"] + " (" + town["postal_code"] + ")"
                 characters.append(char)
         
         # export to json
