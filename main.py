@@ -35,7 +35,11 @@ def main():
     characters: List[Character] = []
     for town in towns :
         print(town["name"])
-        
+        data = extract_information_bio(char["bio"])
+        data_list = list(data.values())
+        char["place_of_birth"] = data_list[0]
+        if len(data_list) > 1:
+            char["place_of_death"] = data_list[1]
         characters_partial = extract_characters(town["characters_text"], town["characters"], town["name"])
         for char in characters_partial:
             char["principal_place"] = town["name"] + " (" + town["postal_code"] + ")"
@@ -51,14 +55,7 @@ def main():
                 characters_index.remove(char_i)
     if len(characters_index) > 0:
         raise Exception("CHARACTERS REMAINING")
-
-    # extract place_of_birth and place_of_death with LLM
-    for char in characters:
-        data = extract_information_bio(char)
-        data_list = list(data.values())
-        char["place_of_birth"] = data_list[0]
-        if len(data_list) > 1:
-            char["place_of_death"] = data_list[1]
+        
     
     # export to json
     with open(f"data/outputs/{file}.json", "w", encoding="utf-8") as f:
