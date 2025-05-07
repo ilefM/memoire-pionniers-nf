@@ -2,7 +2,7 @@ import json
 from ollama import chat
 from ollama import ChatResponse
 
-def extract_information_bio(text):
+def extract_information_bio(text: str):
     prompt = f"""
         Tu es un assistant chargé de lire des biographies de pionniers de la Nouvelle-France. Ton travail consiste à extraire certaines informations mentionnées dans le texte fourni. Voici le format de réponse attendu :
 
