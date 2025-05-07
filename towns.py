@@ -1,7 +1,5 @@
 import re
 from typing import List, TypedDict
-from characters import Character
-from utils import is_town_name
 
 class Town(TypedDict):
     name: str
@@ -28,7 +26,11 @@ def match_characters_name(line, actual_name):
         return True
     return False
 
-
+def is_town_name(currentLine: str, nextLine: str):
+    cleaned = currentLine.replace('-', '').replace(' ', '')
+    townStatsPattern1 = r'^\(\d{5}\) - (\d+( \d+)*) hab\.$'
+    townStatsPattern2 = r'^\(\d+\D+\) - (\d+( \d+)*) hab\.$'
+    return cleaned.isupper() and (bool(re.match(townStatsPattern1, nextLine)) or bool(re.match(townStatsPattern2, nextLine)))
 
 def extract_towns(data_lines, characters_index):
     towns_texts = []

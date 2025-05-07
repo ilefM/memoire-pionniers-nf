@@ -7,13 +7,13 @@ ANGO dit Vadeboncoeur, Nicolas - Thouars
 •
 ANTRADE, Jacques - Niort
 •
-ARDONIN, Louise - Aubigne
+ARDONIN, Louise - Aubigné
 •
 ASSAILLY dit Lajeunesse, Pierre - Saint-Jouin-de-Marnes
 •
- dit La Pointe, Nicolas* - Taizay
+AUDET dit La Pointe, Nicolas* - Taizay
 •
-AUDRY, Jean-Pierre - Melleran
+ANDRY, Jean-Pierre - Melleran
 •
 AUGER, Pierre - Lezay
 •
@@ -27,7 +27,7 @@ AYMARD ou EMARD, Madeleine - Niort
 •
 BABIN dit Paulet, Louis - Azay-sur-Thouet
 •
-BAREAU dit Bréliau, Jean - Beceleuf
+BAREAU dit Bréliau, Jean - BÉCELEUF
 •
 BAUDOIN, Henry - Celles-sur-Belle
 •
@@ -41,11 +41,9 @@ BEAUDRY, Toussaint-Auguste - Celles-sur-Belle
 •
 BEAULIEU, Joseph - Niort
 •
-BEAUMONT, Vincent - Aubigne
+BEAUMONT, Vincent - Aubigné
 •
 BELLEFEUILLE dit Bellefée, Louis - Pioussay
-•
-BELLEFEUILLE, Louis - Pioussay
 •
 BENETEAU dit Sans Peur, Jacques - Pioussay
 •
@@ -53,7 +51,7 @@ BERIAU, Jean - Magné
 •
 BERLOUIN dit Nantel, Jean - Saint-Maixent-l’École
 •
-BERNET ou BRENET dit Larose, Jean - Azay-le-Brulé
+BERNET ou BRENET dit Larose, Jean - Azay-le-Brûlé
 •
 BERNIER, André - Niort
 •
@@ -66,8 +64,6 @@ BIGOT dit Lagiroflée, Jacques - Béceleuf
 BILODEAU ou BILLAUDEAU, Jacques - Pioussay
 •
 BILODEAU, Jérôme - Saint-Maixent-l’École
-•
-BINEAU dit La Jeunesse, Jean - Le Busseau
 •
 BINEAU dit La Jeunesse, Jean - Le Busseau
 •
@@ -93,9 +89,9 @@ BORGNET dit Desgallois ou Châtillon, Jean-Joseph - Saint-Aubin-de-Baubigné
 •
 BOUCHER dit Belleville, Jean - Sainte-Verge
 •
-BOULAY, Jacqueline - Gournay-Loize
+BOULAY, Jacqueline - Gournay-Loizé
 •
-BOULAY, Robert - Gournay-Loize
+BOULAY, Robert - Gournay-Loizé
 •
 BOURDEAU dit Leroux, Isaac - Saint-Coutant
 •
@@ -123,7 +119,7 @@ CAILLE, Alexis - Melleran
 •
 CASSEGRAIN, Jean - Airvault
 •
-CAUCHETIERE, Claude - Bressuire
+CAUCHETIÈRE, Claude - Bressuire
 •
 CHAIGNON, Pierre - Beauvoir-sur-Niort
 •
@@ -177,8 +173,6 @@ EMERY dit Beauvais, Louis - Beauvoir-sur-Niort
 •
 FALIGNANT, Jean - Azay-sur-Thouet
 •
-FALIGNANT, Jean - Thouars
-•
 FERLAND, François - Saint-Vincent-la-Châtre
 •
 FERRIÈRE (de), Charles-François - Niort
@@ -188,8 +182,6 @@ FERRU, Thomas - Niort
 FIÉVRE, Catherine - Niort
 •
 FILIATRAULT dit Saint-Louis, Louis - La Bataille
-•
-FOUCHER dit Laforest, Louis - Les Fosses
 •
 FOUCHER dit Laforest, Louis - Les Fosses
 •
@@ -237,8 +229,6 @@ GOBEIL, Jeanne-Angélique - Niort
 •
 GOBEIL, Marie - Niort
 •
-GOBEIL, Marie - Niort
-•
 GOURDEAU Sieur de Beaulieu et de la Grosardière, Jacques - Niort
 •
 GRENARD dit Lachapelle, Sébastien - Niort
@@ -247,9 +237,9 @@ GUÉRINEAU, Marie-Jeanne - Pugny
 •
 GUICHARD, Jean-Baptiste - Niort
 •
-GUY dit Dégrois, Pierre - Azay-le-Brulé
+GUY dit Dégrois, Pierre - Azay-le-Brûlé
 •
-GUYET ou GUIET, Jeanne - Echire
+GUYET ou GUIET, Jeanne - Échiré
 •
 HILERET ou HILAIRET, François - Saint-Pompain
 •
@@ -293,7 +283,7 @@ MÉNARD dit Lachavanne, Pierre - Béceleuf
 •
 MERIAULT dit Laprairie, Pierre - Saint-André-sur-Sèvre
 •
-METIVIER, Louis - Azay-le-Brulé
+METIVIER, Louis - Azay-le-Brûlé
 •
 MEULLES (de), Jacques - Cerizay
 •
@@ -326,8 +316,6 @@ PELOQUIN dit Crédit, François - Niort
 PERRAULT ou PAYRAULT, Jean - Pugny
 •
 PERRAULT dit Poitevin, Jean (Père) - Pugny
-•
-PERRAULT, Jean (Fils) - Pugny
 •
 PICARD dit Laroche, François - Niort
 •
@@ -377,4 +365,4 @@ VARIN DE LAMARE, Jean-Victor - Niort
 •
 VEILLET, Jean - Niort
 •
-VIGNEROT DE PONTCOURLAY (de), Marie-Madeleine - Glenay
+VIGNEROT DE PONTCOURLAY (de), Marie-Madeleine - Glénay
