@@ -51,7 +51,7 @@ def extract_characters(characters_text, known_characters, name):
         
         i += 1
 
-    if nb_characters_left > 0 and name != "LA ROCHELLE":
+    if nb_characters_left != 0:
         raise Exception("Characters extraction failed")
     
     i = 0
