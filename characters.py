@@ -11,7 +11,7 @@ class Character(TypedDict):
 
 def extract_characters(characters_text, known_characters, name):
     extracted_characters = []
-    # character_left = known_characters
+    character_left = known_characters
     nb_characters_left = len(known_characters)
 
     bio_source_simple = re.compile(r"\. \(([A-ZÀ-Ý ]+([-&°.][A-ZÀ-Ý ]+)*)\)$")
@@ -31,7 +31,7 @@ def extract_characters(characters_text, known_characters, name):
 
         if i == len(characters_text) - 1:
             extracted_characters.append(char_string)
-            # character_left.remove(character_left[0])
+            character_left.remove(character_left[0])
             nb_characters_left -= 1
             break
 
@@ -39,13 +39,13 @@ def extract_characters(characters_text, known_characters, name):
               bio_source_reference.search(line) or
               (bio_source_line.search(line) and line.startswith("(") and line.endswith(")"))):
             extracted_characters.append(char_string)
-            # next_line = characters_text[i + 1].split(" ")[0].replace("*", " ").replace(",", "").upper().strip()
+            next_line = characters_text[i + 1].split(" ")[0].replace("*", " ").replace(",", "").upper().strip()
 
-            # for char in character_left:
-            #     char_name = char.split(" ")[0].replace(",", "").strip()
-            #     if next_line == char_name:
-            #         character_left.remove(char)
-            #         break;
+            for char in character_left:
+                char_name = char.split(" ")[0].replace(",", "").strip()
+                if next_line == char_name:
+                    character_left.remove(char)
+                    break;
             nb_characters_left -= 1
             char_string = ""
         

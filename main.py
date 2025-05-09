@@ -28,7 +28,7 @@ def read_characters_file(department):
     return characters
 
 def main():
-    file = "vienne"
+    file = "deux-sevres"
     data_lines = read_file(file)
     characters_index = read_characters_file(file)
     towns: List[Town] = extract_towns(data_lines, characters_index)
@@ -57,7 +57,6 @@ def main():
                 characters_index.remove(char_i)
     if len(characters_index) > 0:
         raise Exception("CHARACTERS REMAINING")
-        
     
 
     path = os.path.join(os.getcwd(), './data/outputs', file)

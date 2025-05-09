@@ -59,8 +59,13 @@ def extract_name_town_pairs(pdf_path):
 if __name__ == "__main__":
     pdf_path = "tmp/index.pdf"
     entries = extract_name_town_pairs(pdf_path)
-    for entry in entries:
-        print(entry)
-
-    with open("output.txt", "w", encoding="utf-8") as f:
+    department = "deux-sevres"
+    with open(f"data/inputs/{department}/{department}-characters.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(entries))
+
+    with open(f"./data/inputs/{department}/{department}-characters.txt", 'r', encoding="utf-8-sig") as file:
+        for line in file:
+            if not line.split()[0].isupper():
+                print(line)
+
+    
