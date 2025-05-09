@@ -1,4 +1,5 @@
 import re
+import copy
 from typing import TypedDict, List
 
 class Character(TypedDict):
@@ -11,7 +12,7 @@ class Character(TypedDict):
 
 def extract_characters(characters_text, known_characters, name):
     extracted_characters = []
-    character_left = known_characters
+    character_left = copy.deepcopy(known_characters)
     nb_characters_left = len(known_characters)
 
     bio_source_simple = re.compile(r"\. \(([A-ZÀ-Ý ]+([-&°.][A-ZÀ-Ý ]+)*)\)$")
