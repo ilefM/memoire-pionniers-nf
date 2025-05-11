@@ -1015,7 +1015,7 @@ LA QUINTINIE (de)*, Marie. Baptisée
 le 08-09-1706, église Saint-Sébastien.
 Fille de Jean de La Quintinie et de
 Jeanne Gilles. Mariée à Louis Fumas,
-à Québec, le 12-10-1730. (DGFQPRDH)
+à Québec, le 12-10-1730. (DGFQ-PRDH)
 SARGNAT* ou SARGNAC dit Lafond,
 Jean. Militaire. Baptisé le 02-01-
 1667 à Grenord, hameau faisant
@@ -1044,6 +1044,16 @@ qui vit naître et baptisé cette grande
 famille des Du-Pont-du-Vivier, est
 rattachée à Chalais. Concours hippique
 international à la mi-août.
+DUPONT-DUCHAMBON* sieur
+de Vergor, Louis. Militaire. Né le 20-
+09-1713 à Sérignac (Charente, Fr.).
+Fils de Louis Dupont-Duchambon
+et de Jeanne Mius d’Entremont de
+Pobomcoup. Marié à Marie-Josèphe
+Riverain, à Québec, le 08-07-1752.
+Comme son père et ses cousins,
+il embrasse une carrière militaire.
+Décédé en France après 1775. (DBC VOIR CHAPITRE 1)
 DUPONT*, sieur de Renon, Michel.
 Militaire. Né vers 1681. Fils d’Hugues
 Dupont, sieur du Vivier et de Marie
@@ -1075,16 +1085,7 @@ carrière militaire le mena en avril 1744
 au poste de lieutenant du Roy à l’Île
 Royale. Décédé à Curac (Charente Fr.),
 le 22-08-1775. (DBC-VOIR CHAPITRE 1)
-DUPONT-DUCHAMBON* sieur
-de Vergor, Louis. Militaire. Né le 20-
-09-1713 à Sérignac (Charente, Fr.).
-Fils de Louis Dupont-Duchambon
-et de Jeanne Mius d’Entremont de
-Pobomcoup. Marié à Marie-Josèphe
-Riverain, à Québec, le 08-07-1752.
-Comme son père et ses cousins,
-il embrasse une carrière militaire.
-Décédé en France après 1775. (DBC VOIR CHAPITRE 1)
+
 MOREL*, Jean. Baptisé le 08-
 09-1706. Fils de Bernard Morel
 et de Marie-Anne Paquet. Marié à
@@ -2842,11 +2843,6 @@ L’église paroissiale Saint-Saturnin est
 fondée au 12ème siècle, par la suite
 elle est considérablement restaurée aux
 15ème et 16ème siècles.
-GAUTREAU, Jacques. Fils de Jean
-Gautreau et de Jeanne Bouchery ou
-Boucherie. Marié à Marie Bertrand, à
-Beauséjour (Nouveau-Brunswick), en
-1754. (FG)
 CHAUVIN, Jacques. Forgeron,
 taillandier. Né vers 1656 ou 1660.
 Marié à 1) Jeanne Gignois ou Guinois,
@@ -2854,6 +2850,12 @@ lieu inconnu, en France, avant 1696.
 2) Marie Gauchon ou Cochon, à
 Québec, le 16-01-1696. Inhumé après,
 le 06-03-1721. (DGFQ-PRDH-FO)
+GAUTREAU, Jacques. Fils de Jean
+Gautreau et de Jeanne Bouchery ou
+Boucherie. Marié à Marie Bertrand, à
+Beauséjour (Nouveau-Brunswick), en
+1754. (FG)
+
 MANOT
 (16500) - 576 hab.
 Arrondissement de Confolens (9 km,
@@ -4646,7 +4648,7 @@ COUSSON dit Langoumois, François.
 Né vers 1641. Fils de Jean Cousson et
 Jeanne Paysot. Marié à Marguerite
 Poignet dite Beauregard, fille du Roy,
-à Québec, le 30-10-1671. (DGFQPRDH)
+à Québec, le 30-10-1671. (DGFQ-PRDH)
 VIGNOLLES
 (16300) - 183 hab.
 Arrondissement de Cognac (33 km, par

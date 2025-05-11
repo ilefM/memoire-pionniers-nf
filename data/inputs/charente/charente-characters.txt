@@ -16,9 +16,9 @@ BARDON, Jean - Cognac
 BARON, Léger - Charmant
 BASQUE ou BASQUET, François - Cognac
 BEAUCHAMP dit Laprairie, François - Angoulême
-BELLEAU DE SEGONZAC, Antoine-Joseph - Barbezieux
-BENOIT dit Laguerre, Jacques - Mareuil
-BENOIT, Pierre - Verteuil-sur-Charente
+BELLEAU DE SEGONZAC, Antoine-Joseph - Barbezieux-Saint-hilaire
+BENOÎT dit Laguerre, Jacques - Mareuil
+BENOIT, Pierre - Verteuil
 BÉRAU ou BERAUD, Jean - Magnac-Lavalette-Villars
 BERNARD dit Lafontaine, Pierre - Montbron
 BERNARD dit St-Pierre, Pierre-Luc - Cognac
@@ -55,7 +55,7 @@ BROUSSEAU, Louis - La Forêt-de-Tessé
 BRUNET, Antoine - Cognac
 BRUNET, François - Fouquebrune
 BUISSON, Catherine - Coulgens
-BUVETEAU, Charles - Lamérac
+BUVETEAU, Charles - Lamerac
 CARTIER dit Larose, Joseph - Angoulême
 CARTIER dit Larose, Joseph - Saint-Martial
 CATAFARD dit Blondin, Jean-Baptiste - Cognac
@@ -66,14 +66,14 @@ CHARBONNIER dit Lafleur, Louis - Cognac
 CHARRON, Léonard - Voulgézac
 CHATOUTEAU, Mathias - Moutonneau
 CHAUSSAT ou CHAUSSART dit Saintonge, Arnault - Juillac-le-Coq
-CHAUVIN, Jacques - Mallaville
+CHAUVIN, Jacques - Malaville
 CHÉNEAU, Antoine - Angoulême
 CHERLOT ou CHURLOT dit Desmoulins, Jean - Confolens
 CHESNE dit Saintonge, Pierre - Reignac
 CHEVALIER, Marie-Charlotte - Bonneuil
 CHOLET, dit Saint-André, Jean - Angoulême
 CIBARDIN, François - Angoulême
-CIBERT, Pierre - Cherves-Chatelard
+CIBERT, Pierre - Cherves-Châtelars
 COITEUX ou COYTEUX, Jacques - Villefagnan
 CONDÉ dit Cognac, Jacques - Cognac
 CONGÉ ou DUCONGÉ dit Lafortune, Claude - Gardes-le-Pontaroux
@@ -86,7 +86,7 @@ COUILLAUD ou COURRAUD dit Jolicœur, Pierre - Angoulême
 COURAULT DE LACOSTE, Cybard - Angoulême
 COURAULT DE LACOSTE, Pierre - Angoulême
 COUSIN dit Beauregard, Jean - Cognac
-COUSSON dit Langoumois, François - Verteuil-sur-Charente
+COUSSON dit Langoumois, François - Verteuil
 COUTURIER, Pierre - Tusson
 CROIZET, François - Angoulême
 CUREUX dit Saint-Germain, Michel - Esse
@@ -114,14 +114,14 @@ DUBOIS, Jean - Turgon
 DUFOURNEL dit Deslaurier, Jean-Baptiste - Torsac
 DULIGNON sieur de Lamirande, Jean - La Rochefoucauld
 DULIGNON sieur de Lamirande, Pierre - La Rochefoucauld
-DUMAS, Antoine - Châteauneuf
+DUMAS, Antoine - Châteauneuf-sur-charente
 DUMAS, François - Nanteuil-en-Vallée
 DUMAS, Pierre - Agris
 DUMERGUE, François - Touzac
-DUPONT DUCHAMBON sieur de Vergor, Louis - Chalais
+DUPONT-DUCHAMBON sieur de Vergor, Louis - Chalais
 DUPONT sieur de Renon, Michel - Chalais
 DUPONT sieur du Vivier, François - Chalais
-DUPONT sieur Duchambon, Louis - Chalais
+DUPONT sieur du Chambon, Louis - Chalais
 DUPUIS ou DUPUY, Pierre - Yvrac-et-Malleyrand
 DURAND, Nicolas - Chenommet
 ÉLIBON, Pierre - Bourg-Charente
@@ -133,17 +133,17 @@ FONJAMY ou FONGAURY dit Vadeboncoeur, Léonard - La Couronne
 FOREST, Pierre - Marcillac-Lanville
 FORT, Marguerite - Lussac
 FOUCHER dit Laviolette, Jacques - Reignac
-FOUCHER, Jean - Cressac-Saint-Génis
+FOUCHER, Jean - Cressac-Saint-Genis
 FOUGÈRE ou FUGÈRE, Pierre - Verrières
 GALAND, Pierre - Salles-Lavalette
 GAUTHIER dit Jolicoeur, Charles - Angoulême
-GAUTREAU, Jacques - Mallaville
+GAUTREAU, Jacques - Malaville
 GAUTRET ou GAUTRAY dit Jolibois, Jean - Javrezac
 GENETEAU ou JALETEAU, Louis - La Couronne
-GERMANEAU ou GERMANAUD, Pierre-Joachim - Confolens
+GERMANAU ou GERMANAUD, Pierre-Joachim - Confolens
 GIBOIN dit Tranquille, Jean-Jacques - Saint-Romain
 GILBERT ou GÉLIBERT dit Sanspeur, Simon - Lessac
-GILBERT, Pierre - Barbezieux
+GILBERT, Pierre - Barbezieux-saint-hilaire
 GLADU ou GLADUS dit Cognac, Jean - Cognac
 GLEMET, Pierre - Jarnac
 GLORIA dit Desroches, Antoine - Montigné
@@ -160,7 +160,6 @@ HUGON, Louis - Villefagnan
 JARNAC dit St-Germain, Jacques - Segonzac
 JETREAU ou GETREAU, Guillaume - Angoulême
 JOSEPH dit L’Angoumois, Pierre - Angoulême
-Index alphabétique - des personnages
 JOSEPH dit Langoumois, Pierre - Ruffec
 LABONNE dit Léveillé, Jean - Bouëx
 LABROSSE (de), Jean-Baptiste - Jauldes
@@ -171,7 +170,7 @@ LAGRANDE (de), Mathieu - Oradour-Fanais
 LAGRANGE, Jean-Léger - Abzac
 LAMOTHE, Élie - Villebois-Lavalette
 LAMOUREUX dit St-Germain, Pierre - Confolens
-LAQUINTINE (de), Marie - Chabanais
+LA QUINTINE (de), Marie - Chabanais
 LASALLE (de) ou LA SALLE dit Sanschagrain, François - Palluaud
 LAVAU ou LAVAUD, Antoine - Angoulême
 LEBRUN, Anne - Jarnac
@@ -187,10 +186,10 @@ LÉTARD, Pierre - Saint-Séverin
 LEVREAU ou LÉREAU, Pierre - Criteuil-la-Magdeleine
 LICIEUX ou LISIEUX dit Langoumois, Jean - Aigre
 LORGUEIL, Marie - Cognac
-LUNIAS ou LUYNANT dit Laforge, Pierre - Sainte-Sevère
-MACARD ou MACHART, Marie-Thérèse - Jarnac
+LUINAS ou LUYNANT dit Laforge, Pierre - Sainte-Sevère
+MACART ou MACHART, Marie-Thérèse - Jarnac
 MAGNAN dit Laville, Antoine - La Rochefoucauld
-MARCHAND dit Barbesyeux, Pierre - Barbezieux
+MARCHAND dit Barbesyeux, Pierre - Barbezieux-Saint-Hilaire
 MARET DE LATOUR, Jean - La Rochefoucauld
 MARET DE LATOUR, Pierre - La Rochefoucauld
 MARGNAT, Jean - Sigogne
@@ -208,7 +207,7 @@ MAURIN ou MORIN, François - Jarnac
 MERCERON ou MERCERAU, Jacques - Birac
 MEUNIER ou MAUNIER dit Lafleur, Gervais - Oradour-Fanais
 MICHELET, Pierre - Saint-Fraigne
-MICHELOT, François - Chasseneuil
+MICHELOT, François - Chasseneuil-sur-bonnieure
 MIOT, Élie - Gimeux
 MONET ou MOINET, Antoine - Couture
 MONET ou MOINET, Jean - Verneuil
@@ -229,11 +228,11 @@ NADEAU dit Lavigne, Ozanie-Joseph - Genouillac
 NADEAU, Antoine - Angoulême
 NEPARDEAU, Jean - Saint-Amant-de-Bonnieure
 NERVAUX ou NEVAUX dit Poitou, Nicolas - Ruffec
-ORILLART ou AURILLAC, Jean - Barbezieux
+ORILLART ou AURILLAC, Jean - Barbezieux-Saint-Hilaire
 PACRAU ou PAQUEREAU, Marie - Criteuil-la-Magdeleine
 PARIS dit Jolicoeur, Gilles - Curac
 PARIS, Pierre - Angoulême
-PASAUD ou PASCAUD, Antoine - Laprade
+PACAUD ou PASCAUD, Antoine - Laprade
 PEIRARD ou PERRAULT ou PERROT dit St-Pierre, Pierre - Saint-Claud
 PÉRODEAU dit Lafleur, Jean Baptiste - Montchaude
 PERRAULT ou PERROT dit Villedaigre, Jacques - Mons
@@ -243,7 +242,7 @@ PHILIPPE, Jean-Baptiste - Saint-Palais-du-Né
 PINARD dit Saint-Pierre, Pierre - Bassac
 POGNOT, Jean ou Jean-Baptiste - Aignes-et-Puyperoux
 PORCHERON dit Descombre, Charles - Dignac
-POTARD ou POTÈRE dit Chevalier, Simon - Angoulême
+POTART ou POTÈRE dit Chevalier, Simon - Angoulême
 POUILLAT ou POUILLAR, Pierre - Saint-Front
 POULIOT ou PUOILLOT ou POUYAUT, Charles-Antoine - Villefagnan
 PRÉVEREAU, Jacques - Ruffec
@@ -296,14 +295,14 @@ TESTOT, Geneviève - Blanzac-Porcheresse
 TÊVENIN ou THÉVENIN dit Rencontre, François - Rancogne
 THÉRIAULT ou TERRIOT dit Grandmaison, Guy - Bourg-Charente
 TIGRIN dit Labonté, Jean - Angoulême
-TILLARD, Jean - Barbezieux
+TILLARD, Jean - Barbezieux-Saint-Hilaire
 TINON dit Desroches, Émard ou Aimard - Montignac-Charente
 TONDU ou TONDUT, Jean - Chassors
 TOUCHETTE ou TOUCHET dit Laroche, André - La Rochefoucauld
 TOUPIN dit Lapierre, Pierre - Rouffiac
 TOUREAU ou TOURAULT, Jacquette - Saint-Amant-de-Boixe
 TOURNOIS, Jean-Baptiste - Confolens
-TOYON, sieur de Trotard, Élie-François - Barbezieux
+TOYON, sieur de Trotard, Élie-François - Barbezieux-Saint-Hilaire
 TRESNY dit Laverdure, Léonard - Lachaise
 TRILLAUD ou TRIAULT, Simon - Marcillac-Lanville
 TROY ou TROIE dit Lafranchise, Antoine - Linars
@@ -311,7 +310,7 @@ TRUD ou TRUT, Mathurin - Merpins
 TRUD ou TRUT, Jacques - Merpins
 VALLADE dit Lajeunesse, Jean - La Rochefoucauld
 VALLET ou VALET, Jean-Baptiste - Saint-Fort-sur-Le-Né
-VALLETEAU ou VALTEAU dit Lajeunesse, Jean - Hiersac
+VALTEAU ou VALLETEAU dit Lajeunesse, Jean - Hiersac
 VALLIÈRE ou VALIÈRE, Pierre - Segonzac
 VAUTOUR ou DEVAUTOUR, André - Exideuil-sur-Vienne
 VEILLON, Sébastienne - Verdille
