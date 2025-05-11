@@ -1,15 +1,16 @@
-import fitz  # PyMuPDF
+import fitz
+
+from main import DEPARTMENT
 
 def extract_name_town_pairs(pdf_path):
     doc = fitz.open(pdf_path)
     all_results = []
 
     for page in doc:
-        words = page.get_text("words")  # list of (x0, y0, x1, y1, "word", ...)
+        words = page.get_text("words")
         page_width = page.rect.width
         midpoint = page_width / 2
 
-        # Split into left and right main columns
         left_words = [w for w in words if w[0] < midpoint]
         right_words = [w for w in words if w[0] >= midpoint]
 
@@ -23,7 +24,6 @@ def extract_name_town_pairs(pdf_path):
             return lines
 
         def split_by_largest_gap(line):
-            """Split a line of (x, word) into two parts at largest gap"""
             if len(line) < 2:
                 return "", ""
 
@@ -55,15 +55,13 @@ def extract_name_town_pairs(pdf_path):
 
     return all_results
 
-# Example usage
 if __name__ == "__main__":
     pdf_path = "tmp/index.pdf"
     entries = extract_name_town_pairs(pdf_path)
-    department = "deux-sevres"
-    with open(f"data/inputs/{department}/{department}-characters.txt", "w", encoding="utf-8") as f:
+    with open(f"data/inputs/{DEPARTMENT}/{DEPARTMENT}-characters.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(entries))
 
-    with open(f"./data/inputs/{department}/{department}-characters.txt", 'r', encoding="utf-8-sig") as file:
+    with open(f"./data/inputs/{DEPARTMENT}/{DEPARTMENT}-characters.txt", 'r', encoding="utf-8-sig") as file:
         for line in file:
             if not line.split()[0].isupper():
                 print(line)

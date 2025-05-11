@@ -51,6 +51,13 @@ fermée. Construit au 12ème siècle par
 Philippe de Saint-Cassien et fortifié au
 13ème siècle. Il a appartenu au Cardinal
 de Richelieu.
+FILIATRAULT, René. Né vers 1623.
+Fils de Vincent Filiatrault et de Nicolle
+Robinelle. Marié à 1) Marie Sédillot,
+à Montréal (Qc), le 11-06-1657. 2)
+Jeanne Hérault, à Montréal (Qc), le
+22-10-1658. Inhumé à Montréal (Qc),
+le 27-06-1678. (FG)
 LORIN, Pierre. Baptisé en 1628.
 Marié à 1) Françoise Hulin, à Angliers
 (Fr.), vers 1654. 2) Françoise Duverdier
@@ -59,13 +66,6 @@ ou Saulnier, à Montréal (Qc), le 20-
 Montréal (Qc), en 1685. Première
 mention, en Nouvelle-France, en
 1655. (ILMPC-FG)
-FILIATRAULT, René. Né vers 1623.
-Fils de Vincent Filiatrault et de Nicolle
-Robinelle. Marié à 1) Marie Sédillot,
-à Montréal (Qc), le 11-06-1657. 2)
-Jeanne Hérault, à Montréal (Qc), le
-22-10-1658. Inhumé à Montréal (Qc),
-le 27-06-1678. (FG)
 
 
 ARCHIGNY
@@ -89,6 +89,13 @@ canadien, le chanoine Joseph-Marie
 Lacorne de Chapt, délégué en France
 par ses collègues du chapitre de Québec,
 diplomate à Londres et à Paris.
+BOUDROT, Marie. Fille de Pierre
+Boudrot et de Cécile Véco. Mariée à
+Christophe Delaune, à Archigny (Fr.),
+le 30-06-1774. Partie vers la Louisiane,
+avec sa famille, sur le navire « La
+Caroline » de Nantes, le 15-10-1785
+(ILMPC)
 BRAUD, Joseph-Gabriel. Marin. Fils
 de Joseph Braud et d’Ursulle Bourg.
 Marié à Marguerite Temple à Archigny
@@ -104,13 +111,6 @@ Pierre Poitier, Archigny (Fr.), le 25-11-
 1783. Partie vers la Louisane, sur le
 navire « Le Beaumont » de Paimboeuf,
 le 11-06-1785. (ILMPC)
-BOUDROT, Marie. Fille de Pierre
-Boudrot et de Cécile Véco. Mariée à
-Christophe Delaune, à Archigny (Fr.),
-le 30-06-1774. Partie vers la Louisiane,
-avec sa famille, sur le navire « La
-Caroline » de Nantes, le 15-10-1785
-(ILMPC)
 DELAUNE, Christophe. Fils de
 Christophe Delaune et de Marguerite
 Caissy. Marié à Marie Boudrot, à
@@ -305,7 +305,7 @@ Inhumé à Laprairie (Qc), le 08-07-
 1697. Première mention, en Nouvelle-
 France, en 1665, soldat au régiment de
 Carignan-Salières. (ILMPC)
-BRIGUEUIL-LE-CHANTRE
+BRIGUEIL-LE-CHANTRE
 (86290) - 674 hab.
 Arrondissement de Montmorillon
 (18 km, par D10). Petit village installé
@@ -1119,7 +1119,7 @@ Engagé chez le notaire Cherbonnier,
 navire « Le Taureau », le 15-06-1656.
 (ILMPC)
 LA PUYE
-(86260) - 581hab.
+(86260) - 581 hab.
 Arrondissement de Châtellerault (34 km,
 par D9, D3 et D749). Monastère des
 filles de la Croix, devenu Maison-Mère
@@ -1283,28 +1283,6 @@ d’Argenson, Ministre de la guerre de
 Louis XV. Inscrit au titre des monuments
 historiques, ouvert à la visite toute
 l’année.
-LE VOYER D’ARGENSON*
-DE PAULMY, Pierre-Marc. Né le
-16-08-1696. Chevalier comte de
-Veuil d’Argenson, baron des Ormes
-Sain-Martin, avocat au roi au Châtelet
-(Fr.), puis conseiller au parlement de
-Paris, maître
-des requêtes
-en 1718,
-lieutenant
-général de
-police en
-1720,
-intendant de Tours (Fr.), en 1721,
-conseiller d’Etat en 1724, secrétaire
-d’état au département de la guerre de
-1743 à 1757. Il vient trouver refuge
-dans son château des Ormes après
-avoir été exilé de la Cour du Roi. Dans
-ses mémoires on retrouve trace de
-décisions prises au sujet de la Nouvelle-
-France. Décédé en 1764. (ILMPC)
 LAURENT*, Charles. Navigateur.
 Baptisé le 28-06-1701, paroisse Saint-
 Martin, à Poisay le Jolly, commune
@@ -1328,6 +1306,28 @@ Anne Viniau, à Montréal (Qc), le 18-
 01-1751. 2) Marie-Madeleine Sainte-
 Foy, à Montréal (Qc) le 16-05-1774.
 (FG)
+VOYER D’ARGENSON*
+DE PAULMY, Pierre-Marc. Né le
+16-08-1696. Chevalier comte de
+Veuil d’Argenson, baron des Ormes
+Sain-Martin, avocat au roi au Châtelet
+(Fr.), puis conseiller au parlement de
+Paris, maître
+des requêtes
+en 1718,
+lieutenant
+général de
+police en
+1720,
+intendant de Tours (Fr.), en 1721,
+conseiller d’Etat en 1724, secrétaire
+d’état au département de la guerre de
+1743 à 1757. Il vient trouver refuge
+dans son château des Ormes après
+avoir été exilé de la Cour du Roi. Dans
+ses mémoires on retrouve trace de
+décisions prises au sujet de la Nouvelle-
+France. Décédé en 1764. (ILMPC)
 
 
 LEUGNY
@@ -1353,7 +1353,7 @@ et dont certaines caves troglodytiques
 sont creusées dans le tuffeau. Le bourg
 des Trois Moutiers possède de nombreux
 vestiges du passé.
-JANSON* dit Cimetière, Martin.
+JANSON dit Cimetière, Martin.
 Militaire. Baptisé le 10-10-1711, église
 Notre-Dame. Fils de Pierre Janson et
 de Louise Vervan. Marié à 1) Agnès
@@ -1405,8 +1405,8 @@ Dubeau, à Charlesbourg (Qc), en
 enfants. Décédé à Sainte-Rose (Qc),
 le 08-06-1788. Première mention,
 en Nouvelle-France, en 1734. (FO)
-LIGUGE
-(86133) - 2 823hab
+LIGUGÉ
+(86133) - 2 823 hab.
 Arrondissement de Poitiers (8 km, par
 D4). Abbaye, fondée par saint Martin
 en 361, sur un domaine reçu de saint
@@ -2630,7 +2630,7 @@ Marié à Perrine Coirier à Chaix
 avec son épouse, en 1668. Décédé à
 Charlesbourg (Qc), le 07-06-1711.
 (FO)
-GUERINEAU*, Pi e r re - Jean.
+GUÉRINEAU*, Pierre-Jean.
 Marchand pelletier. Baptisé le 13-
 02-1728, paroisse Saint-Didier. Fils
 de René Guérineau et de Catherine
@@ -3011,7 +3011,7 @@ Montréal (Qc), le 12-12-1749. Soldat
 des troupes de la Marine, compagnie
 de Saint-Ours, arrivé en Nouvelle-
 France, en 1742. (FO)
-PENISSAULT*, Louis-André-Joachim.
+PENISSEAUT*, Louis-André-Joachim.
 Négociant. Baptisé le 21-03-1724,
 paroisse Saint-Paul. Fils de Charles
 Pennisseaut et de Catherine Bry. Marié
@@ -3331,7 +3331,7 @@ Bordier. Marié à Marie-Madeleine
 Selle, à Québec, le 21-09-1673. Cinq
 enfants. Décédé en 1681. (FO)
 SAINT-CYR
-(86130) - 787 hab
+(86130) - 787 hab.
 Arrondissement de Poitiers (15 km, par
 D32 et N10). Entourée de forêts, la ville
 est située en bordure du Clain. Menhir
@@ -3394,8 +3394,7 @@ Marie-Françoise Desève, à Québec,
 le 08-10-1729. Décédé à Québec, le
 29-07-1753. Première mention, en
 Nouvelle-France, en 1728. (FO)
-SAINT-GEORGESLÈS-
-BAILLARGEAUX
+SAINT-GEORGES-LÈS-BAILLARGEAUX
 (86130) - 3 176 hab.
 Arrondissement de Poitiers (6 km, par
 N10). Vestiges d’une église romane,
@@ -3415,7 +3414,7 @@ Angélique Abéroux, à Varennes (Qc),
 le 19-06-1708. 2) Marie-Louise
 Lesiège, à Lanoraie (Qc), le 30-04-
 1743. Inhumé à verchères (Qc), le 25-
-02-1757.
+02-1757. (AUCUNE REF)
 TARDIF ou TARDY, Louis. Né vers
 1645. Fils de Jean Tardy et de Michelle
 Villain. Marié à Marie Allence, à
@@ -3598,7 +3597,7 @@ le 23-09-1676. Inhumé à Lachine
 Soldat au régiment de Carignan-
 Salières, parti pour la Nouvelle-France,
 en 1665. (FO)
-DEQUAIN*ou DEGUAIN, Anne.
+DEQUAIN* ou DEGUAIN, Anne.
 Fille du Roy. Baptisée le 23-05-1645,
 église Saint-Hilaire. Fille de Florimond
 Degain et d’Henriette Demellis.
