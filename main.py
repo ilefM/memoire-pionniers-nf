@@ -21,9 +21,6 @@ def read_characters_file(department):
     characters = []
     with open(f"./data/inputs/{department}/{department}-characters.txt", 'r', encoding="utf-8-sig") as file:
         for line in file:
-            if line.startswith("•"):
-                continue
-
             character_name, town = line.strip().split(" - ", 1)
             characters.append((character_name.strip(), town.strip()))
             
@@ -40,11 +37,11 @@ def main():
         
         characters_partial = extract_characters(town["characters_text"], town["characters"], town["name"])
         for char in characters_partial:
-            # data = extract_information_bio(char["bio"])
-            # data_list = list(data.values())
-            # char["place_of_birth"] = data_list[0]
-            # if len(data_list) > 1:
-            #     char["place_of_death"] = data_list[1]
+            data = extract_information_bio(char["bio"])
+            data_list = list(data.values())
+            char["place_of_birth"] = data_list[0]
+            if len(data_list) > 1:
+                char["place_of_death"] = data_list[1]
             char["principal_place"] = town["name"] + " (" + town["postal_code"] + ")"
             characters.append(char)
 
