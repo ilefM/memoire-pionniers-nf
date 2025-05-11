@@ -4,7 +4,7 @@
 
 - Poitou - Charentes
 
-  - Charente (manque vérification des personnages)
-  - Charente-maritime (manque vérification des personnages)
+  - Charente (manque AI)
+  - Charente-maritime (manque re-extraction info ville)
   - Deux-sèvres
   - Vienne
