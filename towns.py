@@ -1,13 +1,16 @@
 import re
 from typing import List, TypedDict
 
+from characters import Character
+
 class Town(TypedDict):
     name: str
     postal_code: str
     population: str
     description: str
-    characters: List[str]
-    characters_text: list[list[str]]
+    characters_name: List[str]
+    characters_text: List[List[str]]
+    characters: List[Character]
 
 def get_characters_of_town(current_town: str, characters: List[str]):
     town_characters = []
@@ -77,8 +80,9 @@ def extract_towns(data_lines, characters_index):
             "postal_code": postal_code,
             "population": population,
             "description": description,
-            "characters": current_town_characters,
+            "characters_name": current_town_characters,
             "characters_text": characters_text,
+            "characters": []
          })
             
     return towns

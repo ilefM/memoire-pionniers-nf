@@ -35,14 +35,15 @@ def main():
     for town in towns :
         print(town["name"])
         
-        characters_partial = extract_characters(town["characters_text"], town["characters"], town["name"])
+        characters_partial = extract_characters(town["characters_text"], town["characters_name"], town["name"])
         for char in characters_partial:
-            # data = extract_information_bio(char["bio"])
-            # data_list = list(data.values())
-            # char["place_of_birth"] = data_list[0]
-            # if len(data_list) > 1:
-            #     char["place_of_death"] = data_list[1]
+            data = extract_information_bio(char["bio"])
+            data_list = list(data.values())
+            char["place_of_birth"] = data_list[0]
+            if len(data_list) > 1:
+                char["place_of_death"] = data_list[1]
             char["principal_place"] = town["name"] + " (" + town["postal_code"] + ")"
+            town["characters"].append(char)
             characters.append(char)
 
     # verify the character extraction
@@ -59,12 +60,23 @@ def main():
 
     path = os.path.join(os.getcwd(), './data/outputs', DEPARTMENT)
     os.makedirs(path, exist_ok=True)
+
+    # export towns (with characters) to json
+    towns_selected_properties = ["name", "postal_code", "population", "description", "characters"]
+
+    towns_filtered_properties = [
+        {field: obj[field] for field in towns_selected_properties if field in obj}
+        for obj in towns
+    ]
+
+    with open(f"./data/outputs/{DEPARTMENT}/{DEPARTMENT}-towns.json", "w", encoding="utf-8") as f:
+        json.dump(towns_filtered_properties, f, indent=4, ensure_ascii=False)
     
-    # export to json
+    # export characters to json
     with open(f"./data/outputs/{DEPARTMENT}/{DEPARTMENT}.json", "w", encoding="utf-8") as f:
         json.dump(characters, f, indent=4, ensure_ascii=False)
 
-    # export to excel
+    # export characters to excel
     df = pd.DataFrame(characters)
     df.to_excel(f"./data/outputs/{DEPARTMENT}/{DEPARTMENT}.xlsx", index=False)
 

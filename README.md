@@ -2,7 +2,7 @@
 
 ## Departement traités
 
-- Poitou - Charentes
+- Poitou - Charentes (n11)
 
   - Charente (manque AI)
   - Charente-maritime (manque re-extraction info ville)
