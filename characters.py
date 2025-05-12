@@ -3,12 +3,12 @@ import copy
 from typing import TypedDict, List
 
 class Character(TypedDict):
-    family_name: str
-    first_name: str
+    lastname: str
+    firstname: str
+    mainplace: str
+    birthplace: str
+    deathplace: str
     bio: str
-    principal_place: str
-    place_of_birth: str
-    place_of_death: str
 
 def extract_characters(characters_text, known_characters, name):
     extracted_characters = []
@@ -57,7 +57,7 @@ def extract_characters(characters_text, known_characters, name):
     while i < len(known_characters):
         name = known_characters[i].split(",")
         characters.append({
-            "family_name": name[0].strip(),
+            "last_name": name[0].strip(),
             "first_name": name[1].strip(),
             "bio": extracted_characters[i].strip()
         })

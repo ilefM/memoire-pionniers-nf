@@ -5,10 +5,10 @@ from characters import Character
 
 class Town(TypedDict):
     name: str
-    postal_code: str
+    postcode: str
     population: str
     description: str
-    characters_name: List[str]
+    known_characters: List[str]
     characters_text: List[List[str]]
     characters: List[Character]
 
@@ -80,7 +80,7 @@ def extract_towns(data_lines, characters_index):
             "postal_code": postal_code,
             "population": population,
             "description": description,
-            "characters_name": current_town_characters,
+            "known_characters": current_town_characters,
             "characters_text": characters_text,
             "characters": []
          })

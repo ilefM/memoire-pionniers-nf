@@ -35,23 +35,23 @@ def main():
     for town in towns :
         print(town["name"])
         
-        characters_partial = extract_characters(town["characters_text"], town["characters_name"], town["name"])
+        characters_partial = extract_characters(town["characters_text"], town["known_characters"], town["name"])
         for char in characters_partial:
             data = extract_information_bio(char["bio"])
             data_list = list(data.values())
-            char["place_of_birth"] = data_list[0]
+            char["birthplace"] = data_list[0]
             if len(data_list) > 1:
-                char["place_of_death"] = data_list[1]
-            char["principal_place"] = town["name"] + " (" + town["postal_code"] + ")"
+                char["deathplace"] = data_list[1]
+            char["mainplace"] = town["name"] + " (" + town["postcode"] + ")"
             town["characters"].append(char)
             characters.append(char)
 
     # verify the character extraction
-    characters.sort(key=lambda char: char["family_name"])
+    characters.sort(key=lambda char: char["lastname"])
     for char in characters:
         for char_i in characters_index:
             known_name = char_i[0].split()[0].replace(',', '')
-            char_name = char["family_name"].split()[0].replace(',', '')
+            char_name = char["lastname"].split()[0].replace(',', '')
             if char_name == known_name:
                 characters_index.remove(char_i)
     if len(characters_index) > 0:
@@ -62,7 +62,7 @@ def main():
     os.makedirs(path, exist_ok=True)
 
     # export towns (with characters) to json
-    towns_selected_properties = ["name", "postal_code", "population", "description", "characters"]
+    towns_selected_properties = ["name", "postcode", "population", "description", "characters"]
 
     towns_filtered_properties = [
         {field: obj[field] for field in towns_selected_properties if field in obj}
