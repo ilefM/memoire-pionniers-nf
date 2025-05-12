@@ -4,7 +4,7 @@
 
 - Poitou - Charentes (n11)
 
-  - Charente (manque AI)
-  - Charente-maritime (manque re-extraction info ville)
+  - Charente
+  - Charente-maritime
   - Deux-sèvres
   - Vienne

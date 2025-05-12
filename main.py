@@ -6,7 +6,7 @@ from characters import Character, extract_characters
 from towns import Town, extract_towns
 from mistral import extract_information_bio
 
-DEPARTMENT = "charente"
+DEPARTMENT = "deux-sevres"
 
 def read_file(department):
     dataLines = []
@@ -73,7 +73,7 @@ def main():
         json.dump(towns_filtered_properties, f, indent=4, ensure_ascii=False)
     
     # export characters to json
-    with open(f"./data/outputs/{DEPARTMENT}/{DEPARTMENT}.json", "w", encoding="utf-8") as f:
+    with open(f"./data/outputs/{DEPARTMENT}/{DEPARTMENT}-characters.json", "w", encoding="utf-8") as f:
         json.dump(characters, f, indent=4, ensure_ascii=False)
 
     # export characters to excel

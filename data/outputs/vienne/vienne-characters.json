@@ -27,15 +27,15 @@
         "family_name": "ALLARD",
         "first_name": "Simon",
         "bio": "ALLARD*, Simon. Scieur de long. Baptisé le 09-11-1664, paroisse Saint-Germain. Fils d’Émery Allard et de Julienne Baillou. Marié à Catherine Lacombe, à Pointe-aux-Trembles, (Qc), le 12-01-1705. Huit enfants. Inhumé à Rivière-des-Prairies (Qc), le 26-09-1739. Première mention, en Nouvelle-France, en 1683. (FO)",
-        "place_of_birth": "Paroisse Saint-Germain",
-        "place_of_death": "Rivière-des-Prairies (Qc)",
+        "place_of_birth": "Saint-Germain",
+        "place_of_death": "Rivière-des-Prairies",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "ALOIGNY",
         "first_name": "Charles-Henri",
         "bio": "ALOIGNY*, Charles-Henri. Militaire. Baptisé le 25-10-1664. Fils de Louis Aloigny et de Charlotte Chasteigner. Marié à Marie Macart, à Québec, le 05-11-1703. Embarqué pour le Canada, en 1683, comme lieutenant des troupes de la Marine. Il est major des troupes, commandant, capitaine de vaisseau. Il prend le nom du marquis de la Groye, après la mort de son père. En 1695, il part pour le Fort Frontenac, dont il est nommé commandant, en 1700. Il est fait chevalier de l’ordre de Saint-Louis en 1705. Il rentre en France en 1708 pour des raisons de santé, mais revient, en Nouvelle-France, l’année suivante. Décédé lors du naufrage du « Saint-Jérôme », à l’île de Sable (Qc), en 1714. (ILMPC)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "Inconnu",
         "place_of_death": "Île de Sable (Qc)",
         "principal_place": "INGRANDES (86220)"
     },
@@ -51,7 +51,7 @@
         "family_name": "ANDRÉ",
         "first_name": "Louise",
         "bio": "ANDRÉ, Louise. Fille du Roy. Née vers 1629. Fille d’Étienne André et d’Adrienne Talon. Mariée à Nicolas Lebossu dit Leprince, à Trois-Rivières (Qc), le 18-01-1672. Inhumée à Boucherville (Qc), le 08-12-1687. (FG)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "",
         "place_of_death": "Boucherville (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -59,7 +59,7 @@
         "family_name": "ARNOU",
         "first_name": "Vincent",
         "bio": "ARNOU, Vincent. Domestique. Né vers 1673, paroisse de Notre-Dame. Engagé par le Père Jean, pour le sieur Aubert de la Chesnaye. Première mention en Nouvelle-France, dans les registres de l’Hôtel-Dieu de Québec, en 1696. (ILMPC)",
-        "place_of_birth": "Notre-Dame",
+        "place_of_birth": "Paroisse de Notre-Dame",
         "place_of_death": "",
         "principal_place": "MIREBEAU (86110)"
     },
@@ -83,7 +83,7 @@
         "family_name": "AUDOUART",
         "first_name": "François",
         "bio": "AUDOUART* ou AUDOUIN, François. Baptisé 02-01-1724, paroisse Saint-Hilaire. Fils de Jean Audouart et de Françoise Robichon. Marié à Jeanne Jalodin, à Québec, le 04-05-1750. (FO)",
-        "place_of_birth": "Paroisse Saint-Hilaire",
+        "place_of_birth": "paroisse Saint-Hilaire",
         "place_of_death": "",
         "principal_place": "ASNOIS (86250)"
     },
@@ -100,7 +100,7 @@
         "first_name": "Pierre",
         "bio": "BABIN* dit Lacroix, Pierre. Cuisinier du Gouverneur Frontenac. Baptisé le 12-11-1663, église Saint-Didier. Fils d’André Babin et de Geneviève Boudot. Marié à Madeleine Richaume, à Montréal (Qc), le 21-08-1691. Décédé en France, après 1700. Première mention, en Nouvelle-France, en 1689. (FO)",
         "place_of_birth": "Saint-Didier",
-        "place_of_death": "Inconnu",
+        "place_of_death": "France",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -115,7 +115,7 @@
         "family_name": "BARBEAU",
         "first_name": "François",
         "bio": "BAILLON, Élisabeth. Fille de François Baillon et d’Anne Cardon. Mariée à Pierre Consolin, à Louisbourg (Nouvelle-Écosse), le 10-02-1722. (FG)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "",
         "place_of_death": "Louisbourg, Nouvelle-Écosse",
         "principal_place": "POITIERS (86000)"
     },
@@ -156,7 +156,7 @@
         "first_name": "Jacques-Clément",
         "bio": "BARBEAU, Jacques. Né vers 1623. Fils de Jacques Barbeau et de Marie Trouvez. Marié à Jeanne Grenier, à L’Ange-Gardien (Qc), le 09-02-1681. Inhumé à L’Ange-Gardien (Qc), le 18-11-1687. (FG)",
         "place_of_birth": "",
-        "place_of_death": "L’Ange-Gardien (Qc)",
+        "place_of_death": "L'Ange-Gardien (Qc)",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -171,39 +171,39 @@
         "family_name": "BAUDOUIN",
         "first_name": "Michel",
         "bio": "BATREAU* ou BATTERAU dit Saint-Amand, Jacques-Clément. Cordonnier. Baptisé le 01-11-1669, paroisse Saint-Didier. Fils de Michel Batreau et de Marguerite Rat. Marié à Charlotte Voisin, à Repentigny ou Québec, vers 1686. Décédé entre le 07-03-1695 et le 10-11-1698. Première mention, en Nouvelle-France, en 1689. (FO)",
-        "place_of_birth": "Paroisse Saint-Didier",
-        "place_of_death": "Entre le 07-03-1695 et le 10-11-1698",
+        "place_of_birth": "Saint-Didier",
+        "place_of_death": "Inconnu entre le 07-03-1695 et le 10-11-1698",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "BEAUMONT",
         "first_name": "Vincente",
         "bio": "BAUDOUIN, Michel. Né en 1691. Prêtre, jésuite, missionnaire. Décédé en 1768. Entre au noviciat des jésuites à Bordeaux (Fr.), en 1713, puis enseigne à Angoulême, Pau, la Rochelle, Fontenay-le-Comte (Fr.). Ordonné prêtre en 1725, il part pour Marennes (Fr.), en 1726, et enseigne à Luçon (Fr.). En 1728, on le retrouve en Louisiane, où il prononce ses voeux de coadjuteur spirituel. Il enseigne aux Chactas. Grande source de renseignements au sujet de cette nation, il était présent à chaque remise de présents à Mobile. Mais il est en situation délicate, à cause des affrontements entre Français et Chactas. Nommé supérieur de toutes les missions de la Louisiane, en 1751, il a l’autorisation de rester en Nouvelle-France, après 1763, malgré le devenir anglais de la colonie, car il n’a aucune famille en France. (ILMPC)",
-        "place_of_birth": "N'est pas spécifié",
-        "place_of_death": "Non spécifié",
+        "place_of_birth": "Inconnu",
+        "place_of_death": "Inconnu",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "BELLINIER",
         "first_name": "Etienne",
         "bio": "BELLINIER dit La Ruine, Étienne. Domestique. Né vers 1645. Fils de Pierre Bellinier et de Catherine Nourisson. Marié à Jeanne Lambert, à l’Île-d’Orléans (Qc), le 04-10-1669. Décédé après 1673. Confirmé à Québec, en 1664. (ILMPC)",
-        "place_of_birth": "Lieu non spécifié",
-        "place_of_death": "Lieu non spécifié",
+        "place_of_birth": "",
+        "place_of_death": "",
         "principal_place": "LUSIGNAN (86600)"
     },
     {
         "family_name": "BENOIST",
         "first_name": "Marguerite",
         "bio": "BENOIST, Marguerite. Fille de Claude Benoist et d’Elisabeth Terriot. Mariée à Joseph Précieux, à Châtellerault (Fr.), le 07-02-1775. Veuve à 32 ans, elle part de Nantes, pour la Louisiane, sur le navire « L’Amitié », le 12-08-1785. (ILMPC)",
-        "place_of_birth": "Inconnu",
-        "place_of_death": "Inconnu",
+        "place_of_birth": "Inconnue",
+        "place_of_death": "Inconnue",
         "principal_place": "CHÂTELLERAULT (86100)"
     },
     {
         "family_name": "BERGER",
         "first_name": "François",
         "bio": "BERGER, François. Fils de Mathurin Berger et de Françoise Servant. Marié à Agnès Ratier, à Québec, le 02-07-1733. (FG)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "",
         "place_of_death": "Québec",
         "principal_place": "SAINT-GENEST-D’AMBIÈRE (86140)"
     },
@@ -219,7 +219,7 @@
         "family_name": "BERNARD",
         "first_name": "Jean",
         "bio": "BERNARD, Jean. Né en 1710, paroisse Notre-Dame. Fils de jacques Bernard et de Marie Braud. Marié à 1) Jeanne Bibeau, en France, avant 1739. 2) Angélique Chauret, à Québec le 12-01-1739. 3) Geneviève Maranda, à Québec, le 30-10-1742. Décédé à Québec, en 1744. (ILMPC)",
-        "place_of_birth": "Nom de la paroisse Notre-Dame",
+        "place_of_birth": "Notre-Dame",
         "place_of_death": "Québec",
         "principal_place": "LUSIGNAN (86600)"
     },
@@ -291,8 +291,8 @@
         "family_name": "BIZARD",
         "first_name": "Charles",
         "bio": "BIZARD* dit Lagiroflée, Charles. Militaire. Baptisé le 20-10-1702, paroisse Notre-Dame. Fils de Charles Bizard et de Marie Charbonnier. Marié à Angélique Grégoire, à Sainte-Foy (Qc), le 10-11-1737. Canonnier des troupes de la Marine. Première mention, en Nouvelle-France, en 1731. (ILMPC)",
-        "place_of_birth": "Notre-Dame",
-        "place_of_death": "Sainte-Foy (Qc)",
+        "place_of_birth": "Paroisse Notre-Dame",
+        "place_of_death": "Vide",
         "principal_place": "MIREBEAU (86110)"
     },
     {
@@ -307,7 +307,7 @@
         "family_name": "BLANCHARD",
         "first_name": "François",
         "bio": "BLANCHARD*, François. Militaire. Baptisé le 28-02-1731, paroisse Saint-Clément et Saint-Jean. Fils de René Blanchard et de Marie-Françoise Brault. Marié à Marie-Josèphe Robin, à Montréal (Qc), le 30-08-1762. Inhumé à Montréal (Qc), le 15-04-1790. Soldat au régiment de La Sarre, arrivé, en Nouvelle-France, en 1756. (FO)",
-        "place_of_birth": "Paroisse Saint-Clément et Saint-Jean",
+        "place_of_birth": "Saint-Clément et Saint-Jean",
         "place_of_death": "Montréal (Qc)",
         "principal_place": "SAINT-JEAN-DE-SAUVES (86330)"
     },
@@ -315,7 +315,7 @@
         "family_name": "BLANCHARD dit Turenne",
         "first_name": "Pierre",
         "bio": "BIZET*, Jean. Domestique des sulpiciens. Baptisé le 11-02-1663, paroisse Saint-jean-de-Montierneuf. Fils de Jacques Bizet et de Françoise Coualier. Marié à Catherine Quenneville, à Montréal (Qc), le 18-02-1697. Décédé à l’Hôpital Général de Québec, le 21-08-1734. Première mention, en Nouvelle-France, en 1685. (FO)",
-        "place_of_birth": "Saint-jean-de-Montierneuf",
+        "place_of_birth": "Paroisse Saint-jean-de-Montierneuf",
         "place_of_death": "Hôpital Général de Québec",
         "principal_place": "POITIERS (86000)"
     },
@@ -379,7 +379,7 @@
         "family_name": "BOUCHET dit Saint-Amour",
         "first_name": "Jacques",
         "bio": "BOUCHET* dit Saint-Amour, Jacques. Artisan maçon, tailleur de pierres. Baptisé le 20-07-1664, église Saint-Cybard. Fils de Pierre Bouchet et de Renée Groleau. Marié à Marie-Renée Laverti, à Montréal (Qc), le 16-06-1709. Décédé à Saint-Laurent, Montréal (Qc), le 30-08-1739. Mentionné pour la première fois, en Nouvelle-France, en 1700. (ILMPC)",
-        "place_of_birth": "Saint-Cybard",
+        "place_of_birth": "église Saint-Cybard",
         "place_of_death": "Saint-Laurent, Montréal (Qc)",
         "principal_place": "LATILLÉ (86190)"
     },
@@ -387,8 +387,8 @@
         "family_name": "BOUDROT",
         "first_name": "Marie",
         "bio": "BOUDROT, Marie. Fille de Pierre Boudrot et de Cécile Véco. Mariée à Christophe Delaune, à Archigny (Fr.), le 30-06-1774. Partie vers la Louisiane, avec sa famille, sur le navire « La Caroline » de Nantes, le 15-10-1785 (ILMPC)",
-        "place_of_birth": "Non spécifié",
-        "place_of_death": "Non spécifié",
+        "place_of_birth": "",
+        "place_of_death": "",
         "principal_place": "ARCHIGNY (86210)"
     },
     {
@@ -403,7 +403,7 @@
         "family_name": "BOURBEAU",
         "first_name": "Simon ou Jean",
         "bio": "BOURBEAU, Simon ou Jean. Né vers 1620, paroisse Saint-Pierre-aux-Liens. Fils de Sébastien Bourbeau et de Marie Gobin. Marié à Françoise Letard, à Poitiers (Fr.), le 01-12-1657. Cinq enfants. Décédé à Charlesbourg (Qc), le 12-03-1692. Première mention en 1663. (FO)",
-        "place_of_birth": "Paroisse Saint-Pierre-aux-Liens",
+        "place_of_birth": "Saint-Pierre-aux-Liens",
         "place_of_death": "Charlesbourg (Qc)",
         "principal_place": "CISSÉ (86170)"
     },
@@ -411,7 +411,7 @@
         "family_name": "BOURBEAU",
         "first_name": "Adrienne",
         "bio": "BOUART*, Marie. Fille du Roy. Baptisée le 22-02-1649, paroisse Saint-Savin. Fille de François Bouard et de Jacquette Billaud. Mariée à 1) Jacques Antrade, à Québec, le 16-08-1668. 2) François Dessureaux, en 1672. 3) Jean Boismené dit Laplante, le 07-02-1689. Décédée à Batiscan (Qc), le 15-09-1712. Arrivée, en Nouvelle-France, en 1668. (ILMPC)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "",
         "place_of_death": "Batiscan (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -419,7 +419,7 @@
         "family_name": "BOURGINE",
         "first_name": "Hilaire",
         "bio": "BOURBEAU, Adrienne. Née vers 1678. Fille de Simon Bourbeau et de Françoise Letard. Mariée à Jacques Jobin, à Charlesbourg (Qc), le 23-11-1694. Dix enfants. Inhumée à Charlesbourg (Qc), le 15-12-1746. (FG)",
-        "place_of_birth": "",
+        "place_of_birth": "Inconnu",
         "place_of_death": "Charlesbourg (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -460,7 +460,7 @@
         "first_name": "Marguerite",
         "bio": "BOYLEAU*, Marguerite. Baptisée le 11-08-1638, église Saint-Hilaire. Mariée à Jean Serreau dit Saint-Aubin, à Château-Richer (Qc), vers 1663. Décédée à Saint-Jean, Île-d’Orléans (Qc), après 1692. (ILMPC)",
         "place_of_birth": "Saint-Hilaire",
-        "place_of_death": "Saint-Jean, Île-d’Orléans (Qc)",
+        "place_of_death": "Saint-Jean, Île-d’Orléans",
         "principal_place": "ORCHES (86230)"
     },
     {
@@ -499,23 +499,23 @@
         "family_name": "BRUNEAU dit Jolicoeur",
         "first_name": "René",
         "bio": "BOURGINE*, Hilaire. Greffier. Baptisé le 05-01-1650, paroisse Saint-Jean-Baptiste. Fils de Jean Bourgine et de Mathurine Poitier ou Potet. Marié à Marie Bellette, à La Rochelle(Fr.), le 09-06-1687. Décédé à La Rochelle (Fr.), en 1725. Première mention, en Nouvelle-France, en 1669, il est greffier de la juridiction de Montréal (Qc). En 1693 il achète à La Rochelle (Fr.), une maison rue Chaudrier. (ILMPC-FO)",
-        "place_of_birth": "Saint-Jean-Baptiste",
-        "place_of_death": "La Rochelle",
+        "place_of_birth": "Paroisse Saint-Jean-Baptiste",
+        "place_of_death": "La Rochelle (Fr.)",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "BRUNEAU dit Pelletier",
         "first_name": "Pierre-Guillaume",
         "bio": "BRUNEAU* dit Jolicoeur, René. Tisserand. Baptisé le 09-06-1641, paroisse Saint-Jean-Baptiste. Fils de Georges Bruneau et de Blaisette Martin. Marié à Anne Poitraud, à Québec, le 17-09-1668. Décédé après, le 15-02-1699. Première mention, en Nouvelle-France, en 1666. (FO)",
-        "place_of_birth": "paroisse Saint-Jean-Baptiste",
-        "place_of_death": "non spécifié",
+        "place_of_birth": "Paroisse Saint-Jean-Baptiste",
+        "place_of_death": "Vide",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "CAILLAULT ou CAILLOT",
         "first_name": "Jean",
         "bio": "CAILLAULT* ou CAILLOT, Jean. Baptisé le 26-05-1715, paroisse Saint-Antoine. Fils de Jean Caillot et d’Anne Girault. Marié à Marie-Anne-Catherine Roy, à Montréal (Qc), le 24-05-1758. Décédé à Montréal (Qc), le 30-11-1782. Première mention en Nouvelle-France, en 1746. (FO)",
-        "place_of_birth": "Paroisse Saint-Antoine",
+        "place_of_birth": "Saint-Antoine",
         "place_of_death": "Montréal (Qc)",
         "principal_place": "QUINÇAY (86190)"
     },
@@ -539,8 +539,8 @@
         "family_name": "CHALOU ou CHALLEAU dit Château",
         "first_name": "Jacques",
         "bio": "CHALOU* ou CHALLEAU dit Château, Jacques. Baptisé le 02-06-1695, église Saint-André. Fils de Jacques Chalou ou Challeau et de Gabrielle Boussin. Marié à Félicité Berthiaume, à La Pérade (Qc), le 12-11-1736. Trois enfants. Décédé à Saint-Augustin (Qc), le 10-12-1746. Première mention, en Nouvelle-France, en 1735. (FO)",
-        "place_of_birth": "Saint-André",
-        "place_of_death": "Saint-Augustin",
+        "place_of_birth": "Église Saint-André",
+        "place_of_death": "Saint-Augustin (Qc)",
         "principal_place": "MIREBEAU (86110)"
     },
     {
@@ -571,7 +571,7 @@
         "family_name": "CHAPELAIN ou CHAPELLAIN dit Le Tourneur",
         "first_name": "Louis",
         "bio": "BRUNEAU* dit Pelletier, Pierre-Guillaume. Marchand. Baptisé le 11-04-1732, paroisse Notre-Damela-Petite. Fils de Jacques Bruneau et de Brigitte Mampeau. Marié à Marie Élisabeth Morin dit Chênevert, à Québec, le 30-01-1758. Décédé à Saint-Cuthbert (Qc), le 29-05-1809. Première mention, en Nouvelle-France, en 1754. (FO)",
-        "place_of_birth": "Paroisse Notre-Dame la Petite",
+        "place_of_birth": "Notre-Dame la Petite",
         "place_of_death": "Saint-Cuthbert (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -579,8 +579,8 @@
         "family_name": "CHAPELIN",
         "first_name": "Jacques",
         "bio": "CHAPELAIN* ou CHAPELLAIN dit le tourneur, Louis. Baptisé le 19-09-1617, paroisse Saint-Porchaire. Fils de Hilaire Chapelain et de Marguerite Pain. Marié à Françoise Laschault, à Poitiers (Fr.) ou Lubersac en Corrèze (Fr.), vers 1642. Décédé à l’Hôtel-Dieu de Québec, le 01-02-1700. Engagé, il part en Nouvelle-France, en 1658. (FO)",
-        "place_of_birth": "Paroisse Saint-Porchaire",
-        "place_of_death": "Hôtel-Dieu de Québec",
+        "place_of_birth": "Saint-Porchaire",
+        "place_of_death": "Québec",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -595,15 +595,15 @@
         "family_name": "CHARDON",
         "first_name": "Jean-Baptiste",
         "bio": "CHARAUX dit Laliberté, André. Né vers 1731. Fils de François Charaux et de Catherine Maugot. Marié à Marie Catherine Amiot dite Lincour, à Québec, le 15-05-1752. Deux enfants. (FG)",
-        "place_of_birth": "Inconnu",
-        "place_of_death": "Inconnu",
+        "place_of_birth": "",
+        "place_of_death": "",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "CHARET",
         "first_name": "Étienne",
         "bio": "CHARET*, Étienne. Baptisé le 15-04-1635, paroisse Saint-Jean-Baptiste. Fils de Pierre Charet et Renée Merle. Marié à Catherine Bissot, à Québec, le 27-11-1670. Décédé à Pointe-de-Lévy, Lauzon (Qc), le 05-05-1699. Première mention, en Nouvelle-France, en 1665. (FO)",
-        "place_of_birth": "Paroisse Saint-Jean-Baptiste",
+        "place_of_birth": "Saint-Jean-Baptiste",
         "place_of_death": "Pointe-de-Lévy, Lauzon (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -619,7 +619,7 @@
         "family_name": "CHARET ou CHAREST",
         "first_name": "Jean",
         "bio": "CHARDON, Jean-Baptiste. Né en 1671. Prêtre, jésuite, missionnaire. Décédé à Québec en 1743. Novice à Bordeaux (Fr.), il complète ses études à Poitiers (Fr.), de 1695 à 1699, après être passé par la Rochelle (Fr.). Il embarque en 1699 pour la Nouvelle-France, il étudie les langues indiennes des régions des Grands Lacs. Envoyé au Saguenay, en 1700 et 1701, vers le poste de Michillimakinac et la baie des Puants, il y reste 32 années. (ILMPC)",
-        "place_of_birth": "",
+        "place_of_birth": "Bordeaux",
         "place_of_death": "Québec",
         "principal_place": "POITIERS (86000)"
     },
@@ -643,7 +643,7 @@
         "family_name": "CHARTIER",
         "first_name": "Martin",
         "bio": "CHARTIER*, Jeanne-Renée. Baptisée le 09-08-1652, paroisse Saint-Jean-de-Montierneuf. Fille de René Chartier et de Madeleine Ranger. Mariée à 1) Pierre Durand dit Desmarchais, à Québec, le 17-10-1673. 2) René Baudouin, à Champlain (Qc), le 01-09-1710. Décédée à Champlain (Qc), le 03-01-1746. Parti en Nouvelle-France, avec sa famille, en 1667. (FO)",
-        "place_of_birth": "Paroisse Saint-Jean-de-Montierneuf",
+        "place_of_birth": "Saint-Jean-de-Montierneuf",
         "place_of_death": "Champlain (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -652,14 +652,14 @@
         "first_name": "Pierre",
         "bio": "CHARTIER*, Martin. Marchand de fourrures. Baptisé le 01-06-1650, paroisse Saint-Jean-de-Montierneuf. Fils de René Chartier et de Madeleine Ranger. Marié à la soeur du chef des Chawaneese, au Manoir Conestoga (Maryland), en 1693. Décédé dans la région de Pittsburgh (Pennsylvanie), vers 1725. Parti en Nouvelle-France, avec sa famille, en 1667. (ILMPC)",
         "place_of_birth": "Saint-Jean-de-Montierneuf",
-        "place_of_death": "région de Pittsburgh (Pennsylvanie)",
+        "place_of_death": "Pittsburgh (Pennsylvanie)",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "CHARTIER",
         "first_name": "René",
         "bio": "CHARTIER*, Pierre. Marchand de fourrures. Baptisé le 16-09-1646, paroisse Saint-Jean-de-Montierneuf. Fils de René Chartier et de Madeleine Ranger. Décédé au Fort Saint-Louis (Illinois), en avril 1684. Parti en Nouvelle-France, avec sa famille, en 1667. (ILMPC)",
-        "place_of_birth": "Paroisse Saint-Jean-de-Montierneuf",
+        "place_of_birth": "Saint-Jean-de-Montierneuf",
         "place_of_death": "Fort Saint-Louis (Illinois)",
         "principal_place": "POITIERS (86000)"
     },
@@ -667,7 +667,7 @@
         "family_name": "CHAUCHETIÈRE",
         "first_name": "Claude",
         "bio": "CHARTIER*, René. Meunier. Baptisé le 26-07-1625, paroisse Saint-Savin. Fils de Pierre Chartier et Marie Paillé. Marié à 1) Madeleine Ranger, à Poitiers (Fr.), le 07-08-1645. 2) Marguerite Delorme, à Québec, le 01-10-1669. 3) Louise Neple, en 1679. Décédé à Lachine (Qc), le 05-08-1689. Parti pour la Nouvelle-France, avec sa famille, en 1667. (ILMPC-FO)",
-        "place_of_birth": "Paroisse Saint-Savin",
+        "place_of_birth": "Saint-Savin",
         "place_of_death": "Lachine (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -675,7 +675,7 @@
         "family_name": "CHEBRAT",
         "first_name": "Jeanne",
         "bio": "CHEBRAT*, Jeanne. Baptisée le 05-02-1627. Fille d’Antoine Chebrat et de Françoise Chaumoret. Mariée à 1) Jean Poirier, en France, en 1647. 2) Antoine Gougeon, à Port-Royal (NouvelleÉcosse), vers 1655. Un enfant. Décédée à Port-Royal (Nouvelle-Écosse), entre 1678 et 1686. (FG)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "Inconnu",
         "place_of_death": "Port-Royal, Nouvelle-Écosse",
         "principal_place": "LA CHAUSSÉE (86330)"
     },
@@ -707,8 +707,8 @@
         "family_name": "COGNARD",
         "first_name": "Pierre-Charles",
         "bio": "COGNARD* ou CHOCARD, Pierre-Charles. Faux saunier. Baptisé le 16-10-1714, paroisse Saint-Germain. Fils de Pierre Cognard et de Françoise Gerbeault. Marié à Angélique Pineault, à Verchères (Qc), le 04-03-1737. Première mention, en Nouvelle-France, en 1733. (ILMPC)",
-        "place_of_birth": "Paroisse Saint-Germain",
-        "place_of_death": "Valeur non spécifiée",
+        "place_of_birth": "paroisse Saint-Germain",
+        "place_of_death": "Valeur inconnue",
         "principal_place": "LA ROCHE-RIGAULT (86200)"
     },
     {
@@ -731,8 +731,8 @@
         "family_name": "COURTIGNY de CHANDALON",
         "first_name": "Pierre",
         "bio": "COURTIGNY* (de) sieur de Chalandon, Pierre. Militaire. Baptisé le 15-08-1680, paroisse Saint-Denis. Fils de Louis de Courtigny et de Michèle Guignard. Marié à Elisabeth Bonodau, à Montréal (Qc), le 12-02-1710. Cadet des troupes de la Marine, compagnie de Lorimier. Décédé à Varennes (Qc), le 05-05-1742. Mentionné pour la première fois, à Montréal (Qc), en 1708. (ILMPC)",
-        "place_of_birth": "Saint-Denis",
-        "place_of_death": "Varennes",
+        "place_of_birth": "Paroisse Saint-Denis",
+        "place_of_death": "Varennes (Qc)",
         "principal_place": "JAUNAY-CLAN (86130)"
     },
     {
@@ -755,8 +755,8 @@
         "family_name": "DANSACQ",
         "first_name": "Jean",
         "bio": "DANSACQ, Jean. Fils de Denis Dansacq et de Renée Léger. Marié à Marie Pothier, fille du Roy, à Québec, en 1669. (FG)",
-        "place_of_birth": "Non spécifié",
-        "place_of_death": "Non spécifié",
+        "place_of_birth": "",
+        "place_of_death": "",
         "principal_place": "MAGNÉ (86160)"
     },
     {
@@ -795,7 +795,7 @@
         "family_name": "DEFAULLE",
         "first_name": "Pierre-Louis",
         "bio": "DEFAULLE*, Pierre-Louis. Militaire. Baptisé le 04-06-1775, paroisse Saint-Denis. Fils de Pierre Defaulle et de Françoise Ferrand. Marié à Marie Clail, à Montréal (Qc), le 11-06-1816. Soldat au régiment de Meuron. Mentionné pour la première fois, en 1813. (ILMPC)",
-        "place_of_birth": "Saint-Denis",
+        "place_of_birth": "Paroisse Saint-Denis",
         "place_of_death": "",
         "principal_place": "JAUNAY-CLAN (86130)"
     },
@@ -827,8 +827,8 @@
         "family_name": "DESERY",
         "first_name": "Charles",
         "bio": "DESERY, Charles. Militaire. Né vers 1669. Fils de François Desery et d’Antoinette Lisabois. Marié à Françoise Lorrain, à Montréal (Qc), le 25-10-1705. Soldat des troupes de la Marine, compagnie de Chassaigne. (ILMPC)",
-        "place_of_birth": "Non spécifié",
-        "place_of_death": "Non spécifié",
+        "place_of_birth": "",
+        "place_of_death": "",
         "principal_place": "BEAUMONT (86490)"
     },
     {
@@ -843,7 +843,7 @@
         "family_name": "DESPEIGNES dit Poitevin",
         "first_name": "Gabriel",
         "bio": "DESPEIGNES* dit Poitevin, Gabriel. Militaire. Baptisé le 13-11-1663, église Saint Hilaire. Fils de Pierre Despeignes et de Suzanne Thibault. Il arrive en Nouvelle France en 1714, il est sergent des troupes de la Marine. Décédé à Trois-Rivières le 25-05-1719. (FO)",
-        "place_of_birth": "Saint Hilaire",
+        "place_of_birth": "Église Saint Hilaire",
         "place_of_death": "Trois-Rivières",
         "principal_place": "ROUILLÉ (86480)"
     },
@@ -851,15 +851,15 @@
         "family_name": "DESRANLEAU dit Châteauneuf",
         "first_name": "Jean",
         "bio": "DESRANLEAU dit Châteauneuf, Jean. Né vers 1669. Fils de François Desranleau et de Jeanne Durinost. Marié à Marie-Madeleine Trottier, à Batiscan (Qc), en 1698. Contrat de mariage le 20-08-1698 (greffe Daniel Normandin). Trois enfants. (FG)",
-        "place_of_birth": "Non spécifié",
-        "place_of_death": "Non spécifié",
+        "place_of_birth": "Valeur non spécifiée",
+        "place_of_death": "Valeur non spécifiée",
         "principal_place": "CHAUNAY (86510)"
     },
     {
         "family_name": "DESROCHERS ou ROCHER",
         "first_name": "dit Lafrenière",
         "bio": "DESROCHERS ou ROCHER, dit Lafrenière, Pierre. Né vers 1663. Fils de Pierre Desrochers et de Françoise Boucher. Marié à Marie-Suzanne Rabouin, à Batiscan (Qc), le 01-05-1696. Décédé à Baie du Febvre (Qc), le 07-11-1743. Première mention, en Nouvelle-France, en 1694. (FO)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "",
         "place_of_death": "Baie du Febvre (Qc)",
         "principal_place": "SAINT-MACOUX (86400)"
     },
@@ -932,7 +932,7 @@
         "first_name": "Gabriel",
         "bio": "DUMONT dit Poitevin, Gabriel. Sergent. Né vers 1707. Fils de Jacques Dumont et de Catherine Pechaun. Marié à Marie-Catherine Custo, à Montréal (Qc), le 25-11-1743. Décédé en 1770. (ILMPC)",
         "place_of_birth": "",
-        "place_of_death": "Montréal (Qc)",
+        "place_of_death": "Montréal, Qc",
         "principal_place": "MIREBEAU (86110)"
     },
     {
@@ -955,7 +955,7 @@
         "family_name": "DUPUY",
         "first_name": "Gabriel",
         "bio": "DUPUY*, Gabriel. Militaire. Baptisé le 13-01-1730, église Saint-Vincent. Fils de Maurice Dupuy et d’AnneÉlisabeth Bleze. Marié à Marie-Charles Vaudry, à Lachenaie (Qc), le 06-02-1769. Décédé avant le 10-02-1783. Soldat au régiment de Guyenne, compagnie de Patrice, arrivé en Nouvelle-France, en 1755. (FO)",
-        "place_of_birth": "Eglise Saint-Vincent",
+        "place_of_birth": "Saint-Vincent",
         "place_of_death": "Non spécifié",
         "principal_place": "MONTS-SUR-GUESNE (86167)"
     },
@@ -1011,8 +1011,8 @@
         "family_name": "FORGET",
         "first_name": "Françoise",
         "bio": "FAUVEAU, Jeanne. Fille du Roy. Née vers 1646. Fille de Pierre Fauveau et de Jeanne Douillet. Mariée à 1) Jacques Leprévost, à Québec, le 25-11-1669. 2) Jean Petit, au Québec, en 1708. (FG)",
-        "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_birth": "Non spécifié",
+        "place_of_death": "Non spécifié",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -1020,7 +1020,7 @@
         "first_name": "Jean",
         "bio": "FORGET, Françoise. Née vers 1642, paroisse Saint-Hilaire-de-la-Celle. Fille de Jacques Forget et de Renée Guillocheau. Mariée à Maurice Pasquier, à Poitiers (Fr.), le 29-07-1659. Décédée à l’Hôtel-Dieu de Québec, le 27-01-1703. Partie en Nouvelle-France, avec son mari, en 1666. (FO)",
         "place_of_birth": "Saint-Hilaire-de-la-Celle",
-        "place_of_death": "Hôtel-Dieu de Québec",
+        "place_of_death": "Québec",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -1028,7 +1028,7 @@
         "first_name": "Antoine",
         "bio": "GALIPEAU dit Poitevin, Gilles. Baptisé le 06-09-1637, paroisse Saint-Pierre et Saint-Paul. Fils d’Antoine Galipeau et de Perrine Regnault. Marié à Jacqueline Langlois, fille du Roy, à Montréal (Qc), le 30-09-1678. Décédé, avant 1703. Première mention, en Nouvelle-France, en 1667. (ILMPC)",
         "place_of_birth": "Saint-Pierre et Saint-Paul",
-        "place_of_death": "Inconnu (avant 1703)",
+        "place_of_death": "Non spécifié (avant 1703)",
         "principal_place": "DISSAY (86130)"
     },
     {
@@ -1043,7 +1043,7 @@
         "family_name": "GANNES DE FALAISE (de)",
         "first_name": "François",
         "bio": "GANNES DE FALAISE* (de), François. Militaire. Baptisé le 23-07-1675. Fils de Louis de Gannes et de Françoise de Bloy. Marié à Marguerite Nafrechou, à Montréal (Qc), le 30-11-1713. Décédé à Montréal (Qc), le 26-09-1746. Première mention, en 1715, gendarme d’une compagnie du roi. (ILMPC)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "non spécifié",
         "place_of_death": "Montréal (Qc)",
         "principal_place": "BUXEUIL (86160)"
     },
@@ -1083,16 +1083,16 @@
         "family_name": "GAUTHIER",
         "first_name": "Jacques",
         "bio": "FORGET*, Jean. Domestique du sieur d’Auteuil. Baptisé le 08-03-1640, paroisse Saint-Jean-Baptiste. Fils de Mandé Forget et de Jeanne Dézéry. Marié à Jeanne Rossignol, à Québec, le 04-02-1674. Décédé avant le 28-12-1676. Première mention, en Nouvelle-France, en 1666. (FO)",
-        "place_of_birth": "Paroisse Saint-Jean-Baptiste",
-        "place_of_death": "Inconnu",
+        "place_of_birth": "Saint-Jean-Baptiste",
+        "place_of_death": "Non spécifié",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "GAUTHIER dit Larose",
         "first_name": "René",
         "bio": "GAUTHIER dit Larose, René. Marié à Renée Labastille, à Sainte-Famille, Île-d’Orleans (Qc), le 11-04-1669. Deux enfants. (FG)",
-        "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_birth": "Non spécifié",
+        "place_of_death": "Sainte-Famille, Île-d’Orleans (Qc)",
         "principal_place": "COUSSAY (86110)"
     },
     {
@@ -1116,7 +1116,7 @@
         "first_name": "Louis",
         "bio": "GILBERT, Louis. Né vers 1638. Fils de Vincent Gilbert et de Vincente Delaunay. Marié à Thérèse Galien, à Champlain (Qc), le 07-01-1687. Décédé après le 19-06-1699. Première mention, en Nouvelle-France, en 1687. (FO)",
         "place_of_birth": "",
-        "place_of_death": "Inconnu",
+        "place_of_death": "Champlain (Qc)",
         "principal_place": "ORCHES (86230)"
     },
     {
@@ -1139,7 +1139,7 @@
         "family_name": "GIRAUD dit Brindamour",
         "first_name": "Étienne",
         "bio": "GIRAUD* dit Brindamour, Étienne. Militaire. Baptisé le 03-08-1726, église Saint-Pierre et Saint-Paul. Fils de Jacques Giraud et de Louise Cailleau. Marié à Marie Berthiaume, à Montréal (Qc), le 24-11-1760. Décédé à Hôtel-Dieu de Québec, le 04-07-1802. Soldat au régiment de La Reine, compagnie de Montbrais, arrivé en Nouvelle-France, en 1755. (FO)",
-        "place_of_birth": "Église Saint-Pierre et Saint-Paul",
+        "place_of_birth": "Saint-Pierre et Saint-Paul",
         "place_of_death": "Hôtel-Dieu de Québec",
         "principal_place": "VOUNEUIL-SOUS-BIARD (86580)"
     },
@@ -1155,8 +1155,8 @@
         "family_name": "GIROUARD",
         "first_name": "Dominique",
         "bio": "GIROUARD, Dominique. Fils de Pierre Girouard et de Marguerite Gaudet. Marié à Agnès Broussard, à Archigny (Fr.), le 14-02-1775. Cinq enfants. Décédé à Chantenay (Qc), en 1778. (ILMPC)",
-        "place_of_birth": "Inconnu",
-        "place_of_death": "Chantenay, Qc",
+        "place_of_birth": "",
+        "place_of_death": "Chantenay (Qc)",
         "principal_place": "ARCHIGNY (86210)"
     },
     {
@@ -1180,14 +1180,14 @@
         "first_name": "Nicolas",
         "bio": "GONEAU* dit Lacouture, Jean. Baptisé le 17-04-1711, paroisse Saint-Didier. Fils de René Goneau et de Marie-Anne Meunier. Marié à Marie-Andrée Hurtubise, à Montréal (Qc), le 16-06-1734. Décédé à Sainte-Geneviève-de-Pierrefonds (Qc), le 12-01-1779. (FO)",
         "place_of_birth": "Saint-Didier",
-        "place_of_death": "Sainte-Geneviève-de-Pierrefonds",
+        "place_of_death": "Sainte-Geneviève-de-Pierrefonds (Qc)",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "GORGEAUX",
         "first_name": "Pierre",
         "bio": "GONNAR* (de) ou GOUNOR, Nicolas. Jésuite. Baptisé le 19-11-1691. Première mention au pays en 1718. Décédé à Québec, le 16-12-1759. (FO)",
-        "place_of_birth": "",
+        "place_of_birth": "Non spécifié",
         "place_of_death": "Québec",
         "principal_place": "POITIERS (86000)"
     },
@@ -1203,7 +1203,7 @@
         "family_name": "GOUIN",
         "first_name": "Laurent",
         "bio": "GOUIN*, Laurent. Baptisé le 26-02-1636, paroisse Saint-Étienne de Rossay. Fils de Vincent Gouin et de Charlotte Gaultier. Marié à Marie-Thérèse Gallien, à Champlain (Qc), dans la chapelle du fort, le 22-10-1665. Inhumé à Champlain (Qc), le 13-11-1686. Engagé à la Rochelle (Fr.), par François Perron, il s’embarque pour la Nouvelle-France, sur le navire « Le Taureau », en 1657. (IFGH)",
-        "place_of_birth": "Rossay",
+        "place_of_birth": "Saint-Étienne de Rossay",
         "place_of_death": "Champlain (Qc)",
         "principal_place": "LOUDUN (86200)"
     },
@@ -1211,16 +1211,16 @@
         "family_name": "GOUIN",
         "first_name": "Mathurin",
         "bio": "GOUIN, Mathurin. Né vers 1636. Fils de Vincent Gouin et de Charlotte Gaultier. Marié à Marie-Madeleine Vien, à Trois-Rivières (Qc), le 20-11-1663. Décédé entre 1705 et 1720. Engagé à la Rochelle (Fr.), il s’embarque pour la Nouvelle-France et arrive à Batiscan (Qc), en 1657. (ILMPC)",
-        "place_of_birth": "Non spécifié",
-        "place_of_death": "Non spécifié",
+        "place_of_birth": "Inconnu",
+        "place_of_death": "Inconnu",
         "principal_place": "LOUDUN (86200)"
     },
     {
         "family_name": "GRESLON dit Laviolette",
         "first_name": "Jacques",
         "bio": "GORGEAUX, Pierre. Né vers 1661. Fils de Pierre Gorgeaux et de Madeleine Fournier. Marié à Marguerite Campagna, à Neuville (Qc), le 13-11-1689. (FG)",
-        "place_of_birth": "Vide",
-        "place_of_death": "Vide",
+        "place_of_birth": "Non spécifié",
+        "place_of_death": "Neuville, QC",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -1251,7 +1251,7 @@
         "family_name": "GUIGNAS",
         "first_name": "Michel",
         "bio": "GUÉRINEAU*, Pierre-Jean. Marchand pelletier. Baptisé le 13-02-1728, paroisse Saint-Didier. Fils de René Guérineau et de Catherine Philippe. Marié à 1) Marie-Josèphe Lamothe, à Pointe-aux-Trembles (Qc), le 15-05-1752. 2) Pélagie Morin, à La Nouvelle-Orléans (Louisiane), le 12-05-1761. Décédé après le 10-01-1768. Première mention, en Nouvelle-France, en 1752. (FO-FG)",
-        "place_of_birth": "Paroisse Saint-Didier",
+        "place_of_birth": "Saint-Didier",
         "place_of_death": "",
         "principal_place": "POITIERS (86000)"
     },
@@ -1259,7 +1259,7 @@
         "family_name": "GUILLET",
         "first_name": "Marie",
         "bio": "GUILLET, Marie. Fille du Roy. Née vers 1641. Fille de Jean Guillet et de Françoise Guyon. Mariée à Pierre Ledoux dit Latreille, à Québec, en 1668. Contrat de mariage le 07-10-1668 (greffe Romain Becquet). Trois enfants. Inhumée à Québec, le 02-01-1701. (FG)",
-        "place_of_birth": "Non spécifié",
+        "place_of_birth": "Inconnu",
         "place_of_death": "Québec",
         "principal_place": "CHÂTEAU-LARCHER (86370)"
     },
@@ -1300,7 +1300,7 @@
         "first_name": "Claude",
         "bio": "GUÉRIN dit Lafontaine, Claude. Né vers 1668. Fils de Michel Guérin et de Jeanne Véron. Marié à Jeanne Cusson, à Montréal (Qc), le 19-11-1696. Quatre enfants. (FG)",
         "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_death": "Montréal (Qc)",
         "principal_place": "LUSIGNAN (86600)"
     },
     {
@@ -1315,15 +1315,15 @@
         "family_name": "HERAULT",
         "first_name": "Jeanne",
         "bio": "GUIGNAS, Michel. Jésuite, novice à Bordeaux, il enseigne à Pau, après 1710, il étudie la philosophie et la théologie à Poitiers (Fr.). En 1716, il quitte la France pour la mission Saint-François-Xavier, puis part 5 ans vers l’Ouest. En 1722, il est de retour à Québec pour remplacer le père Lauzon, en tant que professeur d’hydrographie au collège. De 1737 à 1740, il est nommé en mission dans le Saguenay après être passé au poste de Michillimakinac. (ILMPC)",
-        "place_of_birth": "Bordeaux (France)",
-        "place_of_death": "",
+        "place_of_birth": "Bordeaux, France",
+        "place_of_death": "Inconnu",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "HERPIN dit Poitevin",
         "first_name": "Henri",
         "bio": "HERAULT*, Jeanne. Baptisée le 04-05-1627, paroisse Saint-Jean-Baptiste. Fille de François Hérault et de Marie Jugueline. Mariée à René Filliatrault, à Montréal (Qc), le 22-10-1658. Décédée à Montréal (Qc), 09-01-1677. Première mention, en Nouvelle-France, en 1658. (FO)",
-        "place_of_birth": "04-05-1627, paroisse Saint-Jean-Baptiste",
+        "place_of_birth": "Saint-Jean-Baptiste",
         "place_of_death": "Montréal (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -1348,7 +1348,7 @@
         "first_name": "Martin",
         "bio": "JANSON dit Cimetière, Martin. Militaire. Baptisé le 10-10-1711, église Notre-Dame. Fils de Pierre Janson et de Louise Vervan. Marié à 1) Agnès Pépin, à Verchères (Qc), le 09-01-1736. Cinq enfants. 2) Marie-Anne Pinault, à Verchères (Qc), le 21-02-1757. Un enfant. Décédé à Saint-Hyacinthe (Qc), le 11-04-1799. Soldat des troupes de la Marine. (FO)",
         "place_of_birth": "Notre-Dame",
-        "place_of_death": "Saint-Hyacinthe",
+        "place_of_death": "Saint-Hyacinthe (Qc)",
         "principal_place": "LES TROIS-MOUTIERS (86120)"
     },
     {
@@ -1356,7 +1356,7 @@
         "first_name": "Jean",
         "bio": "JAHAN* dit La Chaussé, François. Baptisé le 17-04-1661, paroisse Saint-Jean-de-Montierneuf. Fils de Gaspard Jahan et Martine Roguelet. Marié à Marie Madeleine Prunier, à Repentigny (Qc), le 05-11-1685. Décédé avant le 27-07-1703. Première mention, en Nouvelle-France, en 1685. (FO)",
         "place_of_birth": "Saint-Jean-de-Montierneuf",
-        "place_of_death": "Non spécifié",
+        "place_of_death": "Inconnu",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -1387,8 +1387,8 @@
         "family_name": "LACETIÈRE (de)",
         "first_name": "Florent",
         "bio": "LACETIÈRE (de), Florent. Fils de Jean de Lacetière et d’Anne Debies. Marié à Jeanne Pluchon, au Québec, en 1687. (FG)",
-        "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_birth": "Non spécifié",
+        "place_of_death": "Non spécifié",
         "principal_place": "MOULISMES (86500)"
     },
     {
@@ -1396,23 +1396,23 @@
         "first_name": "Joseph-Marie",
         "bio": "LACORNE DE CHAPT*, Joseph-Marie. Religieux. Baptisé le 02-10-1714, à Verchères (Qc). Fils de Jean-Louis de Lacorne de Chapt et de Marie Pécaudy de Contrecoeur. Décédé, en 1779. Commendataire de l’abbaye de l’Étoile, en 1758. Chanoine, délégué en France du chapitre de Québec, diplomate à Londres et à Paris auprès de Choiseul. Il donne l’hospitalité aux Acadiens, exilés en 1773, qui feront de l’abbaye de l’Etoile, leur église paroissiale. (ILMPC)",
         "place_of_birth": "Verchères (Qc)",
-        "place_of_death": "Inconnu",
+        "place_of_death": "Non spécifié",
         "principal_place": "ARCHIGNY (86210)"
     },
     {
         "family_name": "LAFAYE",
         "first_name": "Pierre-Joseph",
         "bio": "JARD, SIEUR DE BOISPINEAU, Charles. Né en 1700. Baptisé à la Mothe-Saint-Héray (Fr.). Décédé à Charlesbourg (Qc), en 1760. On le dit protestant. Il est religieux jésuite. Mentionné en Nouvelle-France, en 1721. (ILMPC)",
-        "place_of_birth": "La Mothe-Saint-Héray (France)",
-        "place_of_death": "Charlesbourg (Québec)",
+        "place_of_birth": "La Mothe-Saint-Héray (Fr)",
+        "place_of_death": "Charlesbourg (Qc)",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "LAFAYE",
         "first_name": "René-Antoine",
         "bio": "LAFAYE*, Pierre-Joseph. Tailleur de pierres. Baptisé le 10-01-1668, paroisse Saint-jean-de-Montierneuf. Fils de Jacques Lafaye et de Judith Guillon. Marié à Marie Massard, à Montréal (Qc), le 22-06-1698. Première mention, en Nouvelle France, en 1688. (FO)",
-        "place_of_birth": "paroisse Saint-jean-de-Montierneuf",
-        "place_of_death": "Valeur non spécifiée ou introuvable",
+        "place_of_birth": "Saint-jean-de-Montierneuf",
+        "place_of_death": "Valeur introuvable",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -1420,7 +1420,7 @@
         "first_name": "Jean-François",
         "bio": "LAFAYE*, René-Antoine. Baptisé le 31-12-1664, paroisse Saint-Jean-de-Montierneuf. Fils de Jacques Lafaye et de Judith Guillon. Marié à 1) Françoise Courraud, à Lachine (Qc), 13-09-1688. 2) Marie-Madeleine Ozou, Au Québec, en 1690. Contrat de mariage le 19-01-1690 (greffe Antoine Adhémar). Décédé avant le 15-07-1696. Engagé du Séminaire de Montréal (Qc), le 30-03-1683. (ILMPC-FO)",
         "place_of_birth": "Saint-Jean-de-Montierneuf",
-        "place_of_death": "Non spécifié",
+        "place_of_death": "Valeur manquante",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -1436,14 +1436,14 @@
         "first_name": "Étienne",
         "bio": "LAFITAU, Jean-François. Né en 1681. Prêtre, jésuite, missionnaire, découvreur du Ginseng en Amérique. Auteur de « Moeurs des sauvages amériquains ». Il rentre chez les jésuites, en 1696, à Bordeaux (Fr.). Puis il étudie à Pau (Fr.), enseigne à Limoges (Fr.), à Saintes (Fr.). De 1706 à 1709 il complète ses études par une année de philosophie et de théologie à Poitiers (Fr.), qu’il termine à Paris (Fr.). En 1711, il demande à partir vers les missions de la Nouvelle-France. Il débarque juste avant la signature du traité d’Utrecht. On l’envoie au Sault-Saint-Louis (Qc), en face de Montréal (Qc). Il y exerce pendant six années. Il passe cinq années chez les Indiens. En 1711, il découvre le « Ginseng » en terre américaine. Il est le premier à se servir d’une planche de botanique. Grand observateur, il interprète et analyse la vie sociale et matérielle des Iroquois. En 1717, de retour en France, il fait une présentation personnelle de ses découvertes à la cour. Il demande le déplacement du village de Sault-Saint-Louis (Qc), sur son emplacement actuel, plus avantageux. Pour des raisons administratives, il reste en France. Il est nommé procureur des missions de la Nouvelle-France, à Paris (Fr.). Retour au Canada de 1727 à 1729, comme supérieur de la mission de Sault-Saint-Louis (Qc). Ses mémoires connurent de grands succès et de nombreuses publications en 1724, 1751 (en Hollande), puis en allemand plus tardivement. Ces travaux intéressent de nos jours de nombreux ethnologues qui analysent ses techniques de travail. Décédé en 1746. (ILMPC)",
         "place_of_birth": "Inconnu",
-        "place_of_death": "France",
+        "place_of_death": "Inconnu",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "LAHAIE (de)",
         "first_name": "Fiacre",
         "bio": "LAHAIE* (de), Fiacre. Boulanger. Baptisé le 27-09-1694, église Saint-Nicolas. Fils de Fiacre de Lahaie et de Jeanne Ragot. Marié à Marie-Madeleine Manseau, à Montréal (Qc), le 01-08-1729. Décédé à l’Hôtel-Dieu de Québec, le 29-11-1749. Première mention, en Nouvelle-France, en 1698. (FO)",
-        "place_of_birth": "Eglise Saint-Nicolas",
+        "place_of_birth": "Saint-Nicolas",
         "place_of_death": "Hôtel-Dieu de Québec",
         "principal_place": "MONCONTOUR (86330)"
     },
@@ -1451,8 +1451,8 @@
         "family_name": "LANDRY",
         "first_name": "Marie-Anne",
         "bio": "LANDRY, Marie-Anne. Baptisée en 1775, église Saint-Jacques. Fille de Jean-Baptiste Landry et d’Elisabeth Dugast. Ils partent, vers la Louisiane, sur le navire « La Bergère » de Paimboeuf (Fr.), le 12-05-1785. (ILMPC)",
-        "place_of_birth": "Saint-Jacques",
-        "place_of_death": "",
+        "place_of_birth": "Not specified",
+        "place_of_death": "Not specified",
         "principal_place": "CHÂTELLERAULT (86100)"
     },
     {
@@ -1467,7 +1467,7 @@
         "family_name": "LAURENT",
         "first_name": "Charles",
         "bio": "LAURENT*, Charles. Navigateur. Baptisé le 28-06-1701, paroisse Saint-Martin, à Poisay le Jolly, commune des Ormes. Fils de Charles Laurent et de Marie Pirault. Marié à Louise-Catherine Berthelot, à Québec, le 14-04-1760. Décédé à Charlesbourg (Qc), le 08-04-1772. Mentionné pour la première fois, en Nouvelle-France, en 1743. (ILMPC)",
-        "place_of_birth": "Poisay le Jolly, commune des Ormes",
+        "place_of_birth": "Poisay le Jolly, communes des Ormes",
         "place_of_death": "Charlesbourg (Qc)",
         "principal_place": "LES ORMES (86220)"
     },
@@ -1492,7 +1492,7 @@
         "first_name": "Jean",
         "bio": "LAVERGNE, Jean. Fils de Pierre Lavergne et de Françoise Simon. Marié à Françoise Flassin, à la Nouvelle-Orléans (Louisiane), le 03-09-1720. (FG)",
         "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_death": "Nouvelle-Orléans (Louisiane)",
         "principal_place": "CHÂTELLERAULT (86100)"
     },
     {
@@ -1531,15 +1531,15 @@
         "family_name": "LECLERC dit Le Bouteleux",
         "first_name": "Jean",
         "bio": "LECLERC* dit Lebouteleux, Jean. Baptisé le 20-10-1646, paroisse Notre-Dame. Fils d’Antoine Leclerc et de Michelle Simon. Marié à Marie Couet, à Sainte Famille, Île-d’Orléans (Qc), le 11-11-1669. Trois enfants. Inhumé à La Durantaye (Qc), le 13-04-1703. En 1662, Jean est tisserand en toile et s’établit sur l’île d’Orléans (Qc). (ILMPC-FO)",
-        "place_of_birth": "Paroisse Notre-Dame",
-        "place_of_death": "La Durantaye (Qc)",
+        "place_of_birth": "Notre-Dame",
+        "place_of_death": "La Durantaye",
         "principal_place": "TERNAY (86120)"
     },
     {
         "family_name": "LEGENDRE",
         "first_name": "Marguerite",
         "bio": "LEGENDRE, Marguerite. Fille de François Legendre et de Antoinette Ponsicaux. Marié à François Mouchard, à Louisbourg (NouvelleÉcosse), le 09-02-1750. (FG)",
-        "place_of_birth": "Inconnu",
+        "place_of_birth": "",
         "place_of_death": "Louisbourg, Nouvelle-Écosse",
         "principal_place": "POITIERS (86000)"
     },
@@ -1563,8 +1563,8 @@
         "family_name": "LETARD ou TARD",
         "first_name": "Françoise",
         "bio": "LAGNEAU, Étienne. Fils de François Lagneau et de Mathurine Boileau. Marié à Marguerite Lhéros, à Québec, le 20-05-1726. (FG)",
-        "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_birth": "Non spécifié",
+        "place_of_death": "Québec",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -1603,7 +1603,7 @@
         "family_name": "LÉGER ou LIGER dit Lajeunesse",
         "first_name": "Pierre",
         "bio": "LEBLOND* dit Lafortune, Charles. Militaire. Baptisé le 01-12-1714, église Saint-Pierre et Saint-Paul. Fils de Pierre Leblond et de Marie Touré. Marié à Charlotte Gatien, le 16-06-1749. Décédé à Trois-Rivières (Qc), le 11-10-1773. Mentionné pour la première fois, en Nouvelle-France, en 1738, canonnier de la compagnie de Raymond, sergent des troupes de la Marine, en 1747. (ILMPC)",
-        "place_of_birth": "église Saint-Pierre et Saint-Paul",
+        "place_of_birth": "Saint-Pierre et Saint-Paul",
         "place_of_death": "Trois-Rivières (Qc)",
         "principal_place": "INGRANDES (86220)"
     },
@@ -1627,7 +1627,7 @@
         "family_name": "MALTESTE",
         "first_name": "Jean-Baptiste",
         "bio": "MALERAY DE LA MOLLERIE, Jacques. Militaire. Né vers 1657. Fils d’Isaac Maleray de la Mollerie et de Marie Tessier. Marié à Françoise Picoté de Belestre, à Montréal (Qc), le 07-01-1687. Enseigne, lieutenant, puis gardemarine en 1694 et enfin commandant du fort Lachine (Qc), en 1690 et 1701. Avant de venir au Canada, lieutenant au régiment de Noailles, il tue en duel le sieur Guillot de la Forest, à Poitiers, en 1677. Jugé par contumace, il sera condamné à avoir la tête tranchée. En 1693, Louis XIV lui accorde le droit de revenir en France, pour demander des lettres de pardon, sa peine ne sera pas appliquée. En 1701 ou 1702, il s’embarque, avec sa femme et ses deux enfants, sur le navire « La Seine », afin de rentrer en France. Le navire est capturé par les Anglais. Il décède en mer, lors de cette attaque, le 26-07-1704. (ILMPC-FO)",
-        "place_of_birth": "Inconnu",
+        "place_of_birth": "",
         "place_of_death": "Mer",
         "principal_place": "POITIERS (86000)"
     },
@@ -1676,7 +1676,7 @@
         "first_name": "Pierre",
         "bio": "MARTIN, Pierre. Fils de René Martin et de Perinne Girodon. Marié à Catherine Tessier, à Montréal (Qc), en 1685. Contrat de mariage le 25-02-1685 (greffe Claude Maugue). (FG)",
         "place_of_birth": "",
-        "place_of_death": "Montréal (Qc)",
+        "place_of_death": "",
         "principal_place": "BONNES (86300)"
     },
     {
@@ -1684,7 +1684,7 @@
         "first_name": "Nicolas",
         "bio": "MASSARD*, Nicolas. Baptisé le 04-06-1634, église Sainte-Radegonde. Fils de Jean Massard et de Marguerite Pimpault. Marié à Anne Bellesoeur, à Québec, le 12-10-1665. Décédé, avant 1686. Engagé à La Rochelle (Fr.), il s’embarque, pour la Nouvelle-France, en 1658. (FO)",
         "place_of_birth": "Sainte-Radegonde",
-        "place_of_death": "Inconnu",
+        "place_of_death": "",
         "principal_place": "VOUILLÉ (86190)"
     },
     {
@@ -1699,7 +1699,7 @@
         "family_name": "MECHIN",
         "first_name": "Hélène",
         "bio": "MECHIN ou MESCHIN, Hélène. Née vers 1658. Fille de Pierre Meschin et d’Isabelle Bobin. Mariée à Joseph Prieur, à Mirebeau (Fr.), le 10-04-1677. Décédée à Québec, le 17-07-1728. Mentionnée en Nouvelle-France, avec son mari, en 1687. (ILMPC)",
-        "place_of_birth": "Inconnu",
+        "place_of_birth": "",
         "place_of_death": "Québec",
         "principal_place": "MIREBEAU (86110)"
     },
@@ -1715,7 +1715,7 @@
         "family_name": "MENOU D’AULNAY DE CHARNIZAY",
         "first_name": "Charles",
         "bio": "MENOU D’AULNAY DE CHARNIZAY, Charles. Gouverneur de l’Acadie. Né vers 1606, au château de Charnisay. Fils de René de Menou et de Nicole de Jousserand. Marié à Jeanne Motin de Reux, à Port-Royal (Nouvelle-Écosse), en 1638. Huit enfants. Décédé à Port-Royal (Nouvelle-Écosse), en 1650. (ILMPC VOIR LIVRE N°6)",
-        "place_of_birth": "Château de Charnisay",
+        "place_of_birth": "Charnisay",
         "place_of_death": "Port-Royal (Nouvelle-Écosse)",
         "principal_place": "AULNAY (86330)"
     },
@@ -1755,7 +1755,7 @@
         "family_name": "MINET",
         "first_name": "Louise",
         "bio": "MINET dit Montigny, Jean. Maître teinturier. Né vers 1637. Fils de Jean Minet et de Marguerite Poyneau. Marié à Perrine Pagnoux, à Poitiers (Fr.), le 27-09-1664. Cinq enfants. Décédé à Québec, le 09-07-1706. Première mention en Nouvelle-France, avec sa famille, en 1670. (FO)",
-        "place_of_birth": "Inconnu",
+        "place_of_birth": "Non spécifié",
         "place_of_death": "Québec",
         "principal_place": "POITIERS (86000)"
     },
@@ -1827,8 +1827,8 @@
         "family_name": "MORILLON",
         "first_name": "Mathurin",
         "bio": "MORILLON, Mathurin. Né vers 1680. Fils de Mathurin Morillon et de Jeanne Ferret. Marié à Marguerite Morin, à Rivière-Ouelle (Qc), en 1710. Contrat de mariage le 27-07-1710 (greffe Étienne Jeanneau). Quatre enfants. (FG)",
-        "place_of_birth": "Non spécifié",
-        "place_of_death": "Non spécifié",
+        "place_of_birth": "",
+        "place_of_death": "",
         "principal_place": "CHARRAIS (86170)"
     },
     {
@@ -1907,15 +1907,15 @@
         "family_name": "PALIN ou PALAIN dit Dabonville",
         "first_name": "Mathurin",
         "bio": "ORTAIL* dit Dubreuil, René. Militaire. Baptisée le 17-10-1650, paroisse Saint-Michel. Fils de René Moreau du Portai et de Barbe Veillard. Marié à Jeanne Merrin à Notre-Dame de Montréal (Qc), le 26-06-1672. Mentionné en 1672, il est soldat du gouverneur Nicolas Perrot. Décédé avant 1682. (FO)",
-        "place_of_birth": "Paroisse Saint-Michel",
-        "place_of_death": "Décédé avant 1682 (pas de lieu spécifié)",
+        "place_of_birth": "Saint-Michel",
+        "place_of_death": "Inconnu",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "PAQUET ou PASQUIER",
         "first_name": "Emery",
         "bio": "PAGNOUX, Perrine. Née vers 1640. Fille de Louis Pagnoux et de Catherine Faugeret. Mariée à Jean Minet à Poitiers (Fr.), le 27-09-1664. Elle part avec son mari et ses deux filles, vers la Nouvelle-France, en 1670. Décédée à Québec, le 17-08-1720. (FO)",
-        "place_of_birth": "",
+        "place_of_birth": "Non spécifié",
         "place_of_death": "Québec",
         "principal_place": "POITIERS (86000)"
     },
@@ -1932,14 +1932,14 @@
         "first_name": "Marguerite",
         "bio": "PAQUET* ou PASQUIER, Émery. Artisan sergetier. Baptisé le 18-03-1614, paroisse Saint-Jean-Baptiste. Fils de Annet Pasquier et Marguerite Genet. Marié à 1) Vincente Beaumont, le 25-10-1637. 2) Renée Guillocheau, à Poitiers (Fr.), en 1659. Décédé à Charlesbourg (Qc), avant 1680. Arrivé en Nouvelle-France, avec sa seconde épouse et ses enfants, en 1667. (ILMPC-FO)",
         "place_of_birth": "Saint-Jean-Baptiste",
-        "place_of_death": "Charlesbourg (Qc)",
+        "place_of_death": "Charlesbourg",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "PAQUET ou PASQUIER",
         "first_name": "Maurice",
         "bio": "PASQUIER, François. Né en 1647, paroisse Saint-Paul. Arrivée en Nouvelle-France, avec sa famille, en 1667. (ILMPC)",
-        "place_of_birth": "Saint-Paul",
+        "place_of_birth": "Paroisse Saint-Paul",
         "place_of_death": "",
         "principal_place": "POITIERS (86000)"
     },
@@ -1947,7 +1947,7 @@
         "family_name": "PAQUET ou PASQUIER",
         "first_name": "René",
         "bio": "PAQUET* ou PASQUIER, Jeanne. Baptisée le 28-03-1666, Saint-Hilairede-la-Celle. Fille de Maurice Pasquier et Françoise Forget. Mariée à Jean Paradis, à Québec, le 05-02-1679. Décédée à Charlesbourg (Qc), le 14-03-1711. Arrivée en Nouvelle-France, avec sa famille, en 1667. (FO)",
-        "place_of_birth": "Saint-Hilaire de la Celle",
+        "place_of_birth": "Saint-Hilaire-de-la-Celle",
         "place_of_death": "Charlesbourg (Qc)",
         "principal_place": "POITIERS (86000)"
     },
@@ -1980,7 +1980,7 @@
         "first_name": "Vincent",
         "bio": "PATRICE*, Vincent. Né le 20-11-1722. Nommé capitaine au régiment de Guyenne le 13-02-1748, il débarque en Nouvelle-France avec son régiment en 1755. Il est tué au combat, à la bataille de Carillon, et inhumé à Ticondéroga (New York), le 13-03-1758. (FO)",
         "place_of_birth": "",
-        "place_of_death": "Ticonderoga, New York",
+        "place_of_death": "Ticonderoga (New York)",
         "principal_place": "LOUDUN (86200)"
     },
     {
@@ -1988,7 +1988,7 @@
         "first_name": "Jean",
         "bio": "PAULIN, Jean. Fils de Pierre Paulin et de Thomasse Clerguille. Marié à Anne-Jeanne Bard ou Bardé, fille du Roy, au Québec, le 05-10-1665. (FG)",
         "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_death": "Québec",
         "principal_place": "AVANTON (86170)"
     },
     {
@@ -2011,7 +2011,7 @@
         "family_name": "PENISSEAUT",
         "first_name": "Louis-André-Joachim",
         "bio": "PAQUET* ou PASQUIER, René. Baptisé le 07-08-1650, paroisse Saint-Paul. Fils d’Émery Pasquier et Vincente Beaumont. Marié à Hélène Lemieux, à Québec, le 16-10-1679. Décédé à Québec, le 09-05-1699. Arrivée en Nouvelle-France, avec sa famille, en 1667. (FO)",
-        "place_of_birth": "Saint-Paul",
+        "place_of_birth": "Paroisse Saint-Paul",
         "place_of_death": "Québec",
         "principal_place": "POITIERS (86000)"
     },
@@ -2019,8 +2019,8 @@
         "family_name": "PERRIN dit Saint-Pierre",
         "first_name": "Jean-Pierre",
         "bio": "PENISSEAUT*, Louis-André-Joachim. Négociant. Baptisé le 21-03-1724, paroisse Saint-Paul. Fils de Charles Pennisseaut et de Catherine Bry. Marié à Marie-Marguerite Lemoine dite Monier, le 02-03-1753. Décédé en France après le 12-09-1771. Première mention, en Nouvelle-France, en 1747. (ILMPC-VOIR CHAP. I)",
-        "place_of_birth": "Paroisse Saint-Paul",
-        "place_of_death": "France",
+        "place_of_birth": "Saint-Paul",
+        "place_of_death": "Inconnu",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -2028,14 +2028,14 @@
         "first_name": "Louis-Nicolas",
         "bio": "PERUSSE DES CARS*, Louis-Nicolas. Né le 08-06-1724, à Paris, Hôtel de Cluny. Dernier de dix enfants. Il débute sa carrière militaire très tôt dans le régiment de Toulouse-Cavalerie. Il devient aide-major en Italie et Chevalier de Malte en minorité. Il est colonel du régiment de Normadie-Infanterie en 1753. Blessé lors de la guerre de Sept Ans, il abandonne la carrière militaire. Il se marie en 1750 avec Jeanne-Victoire de la Hette d’Artaguiette. Il obtient une belle dot. Il va alors acheter de nombreuses propriétés et notamment le château de Monthoiron en 1753. Il tente après la guerre de Sept Ans, une expérience d’installation, sur ses terres, de familles allemandes. Le gouvernement royal le sollicite pour l’installation des Acadiens dans la région. Il présente un projet en 1773 : établir 2000 acadiens formant 200 familles sur un terrain de 17 ha 40, avec une maison, une étable, deux boeufs, deux vaches, une grange et une serre. C’est en septembre 1773 qu’arrivent les 497 Acadiens de Saint-Malo, du Havre et de Cherbourg, à Châtellerault. Ils participeront à la fin de la construction des maisons. En 1774, de nouveaux acadiens arrivent par la voie navigable de la Vienne, au départ de Nantes : 1472 individus s’installent au total dans la colonie. Le projet initial n’est pas respecté car seulement 58 maisons ont été construites. Mais les Acadiens ne défrichent que très peu et veulent pour la majorité repartir. En 1775, Pérusse des Cars sent l’échec de son établissement. Finalement vers 1785, 1360 personnes vont quitter le châtellerauldais pour la Louisiane. (ILMPC)",
         "place_of_birth": "Paris, Hôtel de Cluny",
-        "place_of_death": "",
+        "place_of_death": "Non spécifié",
         "principal_place": "MONTHOIRON (86210)"
     },
     {
         "family_name": "PESANT ou PAYSAN ou POISANT dit Sanscartier",
         "first_name": "Antoine",
         "bio": "PENISSEAU*, Marie-Benoitte-Marguerite-Ursule. Baptisée le 29-03-1762, église Saint-Porchaire. Elle est dite « âgée d’environ seize ans de la tribu des Panis en Canada ». Elle réside au monastère des ursulines. Son parrain est le sieur Pénisseau. (ILMPC)",
-        "place_of_birth": "Canada",
+        "place_of_birth": "Saint-Porchaire",
         "place_of_death": "",
         "principal_place": "POITIERS (86000)"
     },
@@ -2060,7 +2060,7 @@
         "first_name": "François",
         "bio": "PINTURAUX, François. Fils de Benoist Pintoraux et d’Anne Metayer. Marié à Marie-Anne Beauregard, à La Nouvelle-Orléans (Louisiane), le 24-05-1728. (FG)",
         "place_of_birth": "",
-        "place_of_death": "La Nouvelle-Orléans (Louisiane)",
+        "place_of_death": "La Nouvelle-Orléans, Louisiane",
         "principal_place": "SAINT-MACOUX (86400)"
     },
     {
@@ -2075,7 +2075,7 @@
         "family_name": "PLOURDE ou PELOURDE",
         "first_name": "René",
         "bio": "PLOURDE* ou PELOURDE, René. Baptisé le 15-07-1667, paroisse SaintÉtienne. Fils de François Plourde et de Jeanne Gremillon. Marié à Jeanne-Marguerite Bérubé, à Rivière-Ouelle (Qc), le 26-08-1697. Décédé à Rivière-Ouelle (Qc), avant le 26-02-1709. Mentionné, pour la première fois en Nouvelle-France, en 1695. (FO)",
-        "place_of_birth": "Paroisse SaintÉtienne",
+        "place_of_birth": "SaintÉtienne",
         "place_of_death": "Rivière-Ouelle (Qc)",
         "principal_place": "VOUNEUIL-SUR-VIENNE (86210)"
     },
@@ -2108,7 +2108,7 @@
         "first_name": "Vincent",
         "bio": "POUPEAU*, Vincent. Baptisé le 01-12-1657, église Saint-Pierre. Fils de François Poupeau et de Jacquette Meneau. Marié à Madeleine Brésa dite Lafleur, à Boucherville (Qc), le 27-04-1690. Décédé avant 1697. Première mention, en Nouvelle France, en 1686. (FO)",
         "place_of_birth": "Saint-Pierre",
-        "place_of_death": "Inconnu (avant 1697)",
+        "place_of_death": "Inconnu",
         "principal_place": "THURÉ (86540)"
     },
     {
@@ -2132,7 +2132,7 @@
         "first_name": "Jean",
         "bio": "PRINCHARD dit Potvin, Jean. Né vers 1730. Fils de Daniel Princhard et d’Anne Coué. Marié à Agathe-Blanche Trahan, à Louisbourg (NouvelleÉcosse), le 13-05-1754. (FG)",
         "place_of_birth": "",
-        "place_of_death": "Louisbourg (Nouvelle-Écosse)",
+        "place_of_death": "",
         "principal_place": "COUHÉ (86700)"
     },
     {
@@ -2164,7 +2164,7 @@
         "first_name": "Louis",
         "bio": "PROVOST*, Louis. Militaire. Baptisé le 06-12-1671, paroisse Saint-Pierre et Saint-Paul. Fils de Louis Provost et de Jeanne Viau. Marié à Marie Senellé, à Montréal (Qc), le 02-05-1719. Soldat des troupes de la Marine. Première mention en 1693 dans les registres de l’Hôtel-Dieu de Québec. (ILMPC)",
         "place_of_birth": "Québec",
-        "place_of_death": "",
+        "place_of_death": "Inconnu",
         "principal_place": "DISSAY (86130)"
     },
     {
@@ -2172,7 +2172,7 @@
         "first_name": "Jean",
         "bio": "PÉLADEAU dit Saint-Jean, Jean. Marié à Jeanne Leroy, à Chambly (Qc), en 1670. Trois enfants. Décédé après le 25-11-1719. (FG)",
         "place_of_birth": "",
-        "place_of_death": "Inconnu",
+        "place_of_death": "Chambly (Qc)",
         "principal_place": "AULNAY (86330)"
     },
     {
@@ -2180,6 +2180,7 @@
         "first_name": "Jean-Marc-Antoine",
         "bio": "PROTEAU, Jeanne. Née en 1668, paroisse Saint-Jean. Partie en Nouvelle-France, avec sa famille. (ILMPC)",
         "place_of_birth": "Paroisse Saint-Jean",
+        "place_of_death": "",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -2194,8 +2195,8 @@
         "family_name": "RANGIER",
         "first_name": "Madeleine",
         "bio": "PROU* ou PROULX, Jean. Marchand. Baptisé le 13-11-1633, paroisse Saint-Jean-Baptiste. Fils de Nicolas Prou et de Catherine Morgué. Marié à 1) Garnaud Louise, à Poitiers (Fr.), le 15-09-1658. 2) Jeanne Chabot, à Poitiers (Fr.), le 20-06-1661. 3) Catherine Pinel, à Neuville (Qc), le 02-11-1676. Inhumé à Neuville (Qc), le 09-12-1703. Arrivé, en Nouvelle-France, en 1670. (FO)",
-        "place_of_birth": "Saint-Jean-Baptiste",
-        "place_of_death": "Neuville",
+        "place_of_birth": "Non spécifié",
+        "place_of_death": "Neuville (Qc)",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -2243,7 +2244,7 @@
         "first_name": "Étienne",
         "bio": "ROBICHAUD, Etienne. Né vers 1640. Fils de Louis Robichaud et de Marie Amérindienne. Marié à Françoise Baudreau au Bodrot, à Port-Royal (Nouvelle-Écosse), en 1663. Dix enfants. Décédé à Port-Royal (Nouvelle-Écosse), en 1686 (FG)",
         "place_of_birth": "",
-        "place_of_death": "Port-Royal (Nouvelle-Écosse)",
+        "place_of_death": "Port-Royal, Nouvelle-Écosse",
         "principal_place": "LA CHAUSSÉE (86330)"
     },
     {
@@ -2315,7 +2316,7 @@
         "first_name": "Jean",
         "bio": "ROY, François. Né vers 1715. Fils d’Emery Roy et de Marie-Anne Delouvière. Marié à Madeleine Duprat, à Montréal (Qc), le 05-01-1743. Contrat de mariage le 21-12-1742 (greffe Louis-Claude Danré de Blanzy). (FG)",
         "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_death": "Montréal (Qc)",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -2323,7 +2324,7 @@
         "first_name": "Louis",
         "bio": "ROY* dit Chouigny, Joseph. Militaire. Baptisé le 15-06-1664, paroisse de Saint-Jean-de-Montierneuf. Fils de François Roy et de Sainte Martin. Marié à Marguerite Martin, à Québec, le 16-08-1694. Décédé, avant le 14-02-1712. Soldat des troupes de la Marine, arrivé en Nouvelle-France, en 1692. (FO)",
         "place_of_birth": "Saint-Jean-de-Montierneuf",
-        "place_of_death": "",
+        "place_of_death": "Non spécifié",
         "principal_place": "POITIERS (86000)"
     },
     {
@@ -2346,8 +2347,8 @@
         "family_name": "SUREAU dit Blondin",
         "first_name": "Hilaire",
         "bio": "SUREAU* dit Blondin, Hilaire. Laboureur. Baptisé le 02-02-1657, paroisse Saint-Hilaire. Fils de Jacques Sureau et d’Honorée Pouzet. Marié à Louise Paradis, à Québec, en 1691. Huit enfants. Inhumé à l’Hôtel-Dieu de Montréal (Qc), le 06-05-1708. Engagé à La Rochelle (Fr.), le 30-04-1683, pour les pères du séminaire de Montréal (Qc). On le retrouve à la Malbaie, Pointe-au-Pic (Qc), en 1688. (ILMPC-FO)",
-        "place_of_birth": "Saint-Hilaire",
-        "place_of_death": "Montréal (Qc)",
+        "place_of_birth": "Paroisse Saint-Hilaire",
+        "place_of_death": "Hôtel-Dieu de Montréal",
         "principal_place": "VOUZAILLES (86170)"
     },
     {
@@ -2362,24 +2363,24 @@
         "family_name": "SÉGUIN",
         "first_name": "Marguerite",
         "bio": "SALOMON, Louis. Né vers 1681. Fils de François Salomon et de Marie Maire. Marié à Louisbourg (NouvelleÉcosse), le 05-02-1727. Un enfant. (FG)",
-        "place_of_birth": "",
-        "place_of_death": "",
+        "place_of_birth": "Non spécifié",
+        "place_of_death": "Non spécifié",
         "principal_place": "POITIERS (86000)"
     },
     {
         "family_name": "TARDIF ou TARDY",
         "first_name": "Louis",
         "bio": "TARDIF ou TARDY, Louis. Né vers 1645. Fils de Jean Tardy et de Michelle Villain. Marié à Marie Allence, à Trois-Rivières (Qc), le 13-11-1669. Décédé après le 24-04-1673. Première mention, en Nouvelle France, en 1669. (FO).",
-        "place_of_birth": "",
-        "place_of_death": "Nom du lieu inconnu après le 24-04-1673",
+        "place_of_birth": "Non spécifié",
+        "place_of_death": "Non spécifié",
         "principal_place": "SAINT-GEORGES-LÈS-BAILLARGEAUX (86130)"
     },
     {
         "family_name": "TEMPLE",
         "first_name": "Marguerite",
         "bio": "TEMPLE, Marguerite. Fille d’André Temple et de Marie Devaux. Mariée à Joseph-Gabriel Braud, à Archigny (Fr.), le 30-09-1777. Deux enfants. Partie pour la Louisiane, avec sa famille, sur le navire « L’Amitié » de Nantes, le 12-08-1785. (ILMPC)",
-        "place_of_birth": "Vide",
-        "place_of_death": "Vide",
+        "place_of_birth": "Inconnu",
+        "place_of_death": "Inconnu",
         "principal_place": "ARCHIGNY (86210)"
     },
     {
@@ -2387,7 +2388,7 @@
         "first_name": "Charles",
         "bio": "TENAULT* ou THENAULT, Charles. Tanneur. Baptisé le 26-12-1736, église Notre-Dame. Fils de Jean Tenault et de Jeanne Hérault. Marié à Marie-Anne Larrivée, à Montréal (Qc), le 15-11-1773. Décédé à Saint-Eustache (Qc), le 01-08-1813. (FO)",
         "place_of_birth": "Notre-Dame",
-        "place_of_death": "Saint-Eustache",
+        "place_of_death": "Saint-Eustache (Qc)",
         "principal_place": "CHÂTELLERAULT (86100)"
     },
     {
@@ -2410,7 +2411,7 @@
         "family_name": "TOURON ou THOURON dit Lombard",
         "first_name": "Pierre",
         "bio": "TOURON* ou THOURON dit Lombard, Pierre. Faux saunier. Né le 12-12-1705, paroisse Saint-Georges. Fils de François Touron et de Catherine George. Marié à Jeanne Dubeau, à Charlesbourg (Qc), en 1737. Contrat de mariage le 03-12-1736 (greffe Noël Dupras). Deux enfants. Décédé à Sainte-Rose (Qc), le 08-06-1788. Première mention, en Nouvelle-France, en 1734. (FO)",
-        "place_of_birth": "Saint-Georges",
+        "place_of_birth": "paroisse Saint-Georges",
         "place_of_death": "Sainte-Rose (Qc)",
         "principal_place": "LE VIGEANT (86150)"
     },
@@ -2450,8 +2451,8 @@
         "family_name": "VEZIN",
         "first_name": "Louis",
         "bio": "VEZIN, Louis. Né vers 1734. Fils de Louis Vezin et de Marie Lemères. Marié à Marie-Anne Senes, à Montréal (Qc), le 30-09-1754. (FG)",
-        "place_of_birth": "",
-        "place_of_death": "Montréal (Qc)",
+        "place_of_birth": "Inconnu",
+        "place_of_death": "Inconnu",
         "principal_place": "BLANZAY (86400)"
     },
     {
@@ -2466,7 +2467,7 @@
         "family_name": "VILLARD",
         "first_name": "Pierre",
         "bio": "VIGNAULT dit Laverdure, Paul. Né vers 1641. Fils de Jean Vignault et de Renée. Marié à Françoise Bourgeois, à Sainte-Famille, Île-d’Orléans (Qc), le 03-11-1669. Deux enfants. Décédé avant 1703. (FG)",
-        "place_of_birth": "",
+        "place_of_birth": "Inconnu",
         "place_of_death": "Inconnu",
         "principal_place": "POITIERS (86000)"
     },
@@ -2482,8 +2483,8 @@
         "family_name": "VOYER D’ARGENSON DE PAULMY",
         "first_name": "Pierre-Marc",
         "bio": "VOYER D’ARGENSON* DE PAULMY, Pierre-Marc. Né le 16-08-1696. Chevalier comte de Veuil d’Argenson, baron des Ormes Sain-Martin, avocat au roi au Châtelet (Fr.), puis conseiller au parlement de Paris, maître des requêtes en 1718, lieutenant général de police en 1720, intendant de Tours (Fr.), en 1721, conseiller d’Etat en 1724, secrétaire d’état au département de la guerre de 1743 à 1757. Il vient trouver refuge dans son château des Ormes après avoir été exilé de la Cour du Roi. Dans ses mémoires on retrouve trace de décisions prises au sujet de la Nouvelle-France. Décédé en 1764. (ILMPC)",
-        "place_of_birth": "",
-        "place_of_death": "Le château des Ormes",
+        "place_of_birth": "N'est pas spécifié",
+        "place_of_death": "N'est pas spécifié",
         "principal_place": "LES ORMES (86220)"
     },
     {
@@ -2491,7 +2492,7 @@
         "first_name": "Louis",
         "bio": "VÉRONNEAU*, Louis. Militaire. Baptisé le 14-03-1674, église Notre-Dame. Fils de Louis Véronneau et de Marie Jehan. Marié à Marguerite Maugras, à Cap-de-la-Madeleine (Qc), le 17-08-1705. Décédé à Saint-François-du-Lac (Qc), le 07-06-1759. Sergent des troupes de la Marine, compagnie des Bergères, parti en Nouvelle-France, 1704. (ILMPC)",
         "place_of_birth": "Notre-Dame",
-        "place_of_death": "Saint-François-du-Lac",
+        "place_of_death": "Saint-François-du-Lac (Qc)",
         "principal_place": "VELLÉCHES (86230)"
     },
     {
