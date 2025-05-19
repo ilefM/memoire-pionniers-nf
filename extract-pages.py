@@ -12,4 +12,4 @@ def extract_pages(input_pdf, output_pdf, start_page, end_page):
         writer.write(f)
 
 # Example usage
-extract_pages("archives/2.pdf", "tmp/index.pdf", 122, 123)
+extract_pages("archives/2.pdf", "tmp/index.pdf", 123, 125)

@@ -6,7 +6,7 @@ from characters import Character, extract_characters
 from towns import Town, extract_towns
 from mistral import extract_information_bio
 
-DEPARTMENT = "dordogne"
+DEPARTMENT = "gironde"
 
 def read_file(department):
     dataLines = []
