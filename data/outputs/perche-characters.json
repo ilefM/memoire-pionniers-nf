@@ -1,0 +1,1976 @@
+[
+    {
+        "lastname": "Albert",
+        "firstname": "Toussaint",
+        "birthplace": "Courtomer",
+        "deathplace": "Sainte-Geneviève-de-Batiscan"
+    },
+    {
+        "lastname": "Aloignon",
+        "firstname": "Pierre",
+        "birthplace": "Moussonvilliers",
+        "deathplace": "Notre-Dame-de-Québec"
+    },
+    {
+        "lastname": "Anjon",
+        "firstname": "Charles",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Ariot",
+        "firstname": "Marie",
+        "birthplace": "Unverre",
+        "deathplace": "La Durantaye"
+    },
+    {
+        "lastname": "Aubert",
+        "firstname": "Marguerite",
+        "birthplace": "Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Aubin",
+        "firstname": "Jacques",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Aubin",
+        "firstname": "Michel",
+        "birthplace": "Tourouvre",
+        "deathplace": "Saint-Pierre-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Audebout",
+        "firstname": "Michel",
+        "birthplace": "Thorigné-sur-Dué",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Badier",
+        "firstname": "Charles",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Baudoin",
+        "firstname": "Jean",
+        "birthplace": "Courcival",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Baudoin",
+        "firstname": "Madeleine",
+        "birthplace": "Courcival",
+        "deathplace": "Trois-Rivières"
+    },
+    {
+        "lastname": "Baudoin",
+        "firstname": "René",
+        "birthplace": "Courcival",
+        "deathplace": "Champlain"
+    },
+    {
+        "lastname": "Bayard",
+        "firstname": "Louis",
+        "birthplace": "L'Aigle",
+        "deathplace": null
+    },
+    {
+        "lastname": "Beaucier",
+        "firstname": "Jeanne",
+        "birthplace": "Saint-Georges-du-Rosay",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Beaucier",
+        "firstname": "Françoise",
+        "birthplace": "Saint-Georges-du-Rosay",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Beauvais",
+        "firstname": "Jacques",
+        "birthplace": "Igé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Belanger",
+        "firstname": "François",
+        "birthplace": "France",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Belhomme",
+        "firstname": "Marie",
+        "birthplace": "Igé",
+        "deathplace": null
+    },
+    {
+        "lastname": "Belhomme",
+        "firstname": "Mathurin",
+        "birthplace": null,
+        "deathplace": "Trois-Rivières"
+    },
+    {
+        "lastname": "Bermen",
+        "firstname": "Claude",
+        "birthplace": "La Ferté-Vidame",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Bertrand",
+        "firstname": "Paul",
+        "birthplace": "Verneuil-sur-Avre",
+        "deathplace": "Sainte-Geneviève-de-Batiscan"
+    },
+    {
+        "lastname": "Besnier",
+        "firstname": "Massé",
+        "birthplace": "Rouperroux-le-Coquet",
+        "deathplace": "Champlain"
+    },
+    {
+        "lastname": "Bigot",
+        "firstname": "Françoise",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Saint-Augustin"
+    },
+    {
+        "lastname": "Bigot",
+        "firstname": "Jean",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Binois",
+        "firstname": "Nicolas",
+        "birthplace": "Coudreceau",
+        "deathplace": null
+    },
+    {
+        "lastname": "Bisson",
+        "firstname": "Mathurine",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Bisson",
+        "firstname": "Michel",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Saint-François, Ile Jésus"
+    },
+    {
+        "lastname": "Bisson",
+        "firstname": "Gervais",
+        "birthplace": "Pouvrai",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Bisson",
+        "firstname": "Antoine",
+        "birthplace": "Pouvrai",
+        "deathplace": "Tilly Levis"
+    },
+    {
+        "lastname": "Bisson",
+        "firstname": "Gervais",
+        "birthplace": "Contres-en-Vairais",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Bisson",
+        "firstname": "Florent",
+        "birthplace": "Contres-en-Vairais",
+        "deathplace": null
+    },
+    {
+        "lastname": "Boissel",
+        "firstname": "Jacques",
+        "birthplace": "Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Bonnefeu",
+        "firstname": "Mathurin",
+        "birthplace": "Igé",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Bouchard",
+        "firstname": "Claude",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Saint-François-Xavier-de-la-Petite-Rivière"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "François",
+        "birthplace": "Saint-Langis-les-Mortagne",
+        "deathplace": null
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Pierre",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Boucherville"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Nicolas",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Trois-Rivières"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Marie",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Batiscan"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Louis-Marin",
+        "birthplace": "Saint-Langis-les-Mortagne",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Marguerite",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Jean-Galleran",
+        "birthplace": "Saint-Langis-les-Mortagne",
+        "deathplace": "Rivière-Ouelle"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Marin",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Gaspard",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Jeanne",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Côte Saint-François"
+    },
+    {
+        "lastname": "Boucher",
+        "firstname": "Madeleine",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Trois-Rivières"
+    },
+    {
+        "lastname": "Boulard",
+        "firstname": "Martin",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Boulay",
+        "firstname": "Jacqueline",
+        "birthplace": "Saint-Germain-de-Loisé",
+        "deathplace": "Montmagny"
+    },
+    {
+        "lastname": "Boulay",
+        "firstname": "Robert",
+        "birthplace": "Perche",
+        "deathplace": "Montmagny"
+    },
+    {
+        "lastname": "Bourgchemin",
+        "firstname": "Jacques",
+        "birthplace": "Louzes ",
+        "deathplace": "France"
+    },
+    {
+        "lastname": "Boyer",
+        "firstname": "Barbe",
+        "birthplace": "Saint-Maurice-sur-Huisne",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Brossard",
+        "firstname": "Jacques",
+        "birthplace": "Verneuil-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Brunet",
+        "firstname": "Mathieu",
+        "birthplace": "Rai",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Cartier",
+        "firstname": "Anne",
+        "birthplace": "Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Chamboy",
+        "firstname": "Jacqueline",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Chandonné",
+        "firstname": "Charles",
+        "birthplace": "Saint-Calais",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Chastel",
+        "firstname": "Michel",
+        "birthplace": "Randonnai",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Chastel",
+        "firstname": "Thomine",
+        "birthplace": "Autheuil",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Chaudon",
+        "firstname": "Philibert",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Chaumont",
+        "firstname": "Louis",
+        "birthplace": "Bretoncelles",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Chauvin",
+        "firstname": "Marin",
+        "birthplace": "Saint-Mard-de-Réno",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Chavin",
+        "firstname": "René",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": null
+    },
+    {
+        "lastname": "Chemin",
+        "firstname": "Jean",
+        "birthplace": "Randonnai",
+        "deathplace": null
+    },
+    {
+        "lastname": "Chevalier",
+        "firstname": "Charlotte",
+        "birthplace": "Feings / Saint-Mard de Réno (?)",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Cloutier",
+        "firstname": "Zacharie",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Cloutier",
+        "firstname": "Jean",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Cloutier",
+        "firstname": "Anne",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Cloutier",
+        "firstname": "Charles",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Cloutier",
+        "firstname": "Louise",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Cloutier",
+        "firstname": "Zacharie",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Cochereau",
+        "firstname": "Pierre",
+        "birthplace": "Tourouvre",
+        "deathplace": "France"
+    },
+    {
+        "lastname": "Collet",
+        "firstname": "Jean",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Cordeau",
+        "firstname": "Jean",
+        "birthplace": "Dangeau",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Cosnard",
+        "firstname": "Martin",
+        "birthplace": "Randonnai",
+        "deathplace": "Randonnai"
+    },
+    {
+        "lastname": "Côté",
+        "firstname": "Jean",
+        "birthplace": null,
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Crespon",
+        "firstname": "Charles",
+        "birthplace": "Connerré",
+        "deathplace": null
+    },
+    {
+        "lastname": "Creste",
+        "firstname": "Jean",
+        "birthplace": "Tourouvre",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Dastageay",
+        "firstname": "Louis",
+        "birthplace": "La Chapelle-Souëf",
+        "deathplace": null
+    },
+    {
+        "lastname": "Delaunay",
+        "firstname": "Nicolas",
+        "birthplace": "Comblot",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Delespon",
+        "firstname": "Marie-Françoise",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Desmoulins",
+        "firstname": "Louis",
+        "birthplace": "Bivilliers",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Dodier",
+        "firstname": "Sébastien",
+        "birthplace": "Igé",
+        "deathplace": null
+    },
+    {
+        "lastname": "Dodier",
+        "firstname": "Sébastien",
+        "birthplace": "Igé",
+        "deathplace": null
+    },
+    {
+        "lastname": "Dodier",
+        "firstname": "Marie",
+        "birthplace": "Igé",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Dodier",
+        "firstname": "Jacques",
+        "birthplace": "Champaissant",
+        "deathplace": "Sainte-Anne-de-Beaupré"
+    },
+    {
+        "lastname": "Dodier",
+        "firstname": "Jeanne",
+        "birthplace": "Mamers",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Drouet",
+        "firstname": "François",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Drouet",
+        "firstname": "François",
+        "birthplace": "Saint-Hilaire-le-Châtel",
+        "deathplace": "France"
+    },
+    {
+        "lastname": "Drouin",
+        "firstname": "Robert",
+        "birthplace": "Le Pin-la-Garenne",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Du",
+        "firstname": "François",
+        "birthplace": "Charencey",
+        "deathplace": null
+    },
+    {
+        "lastname": "Dubois",
+        "firstname": "Pierre",
+        "birthplace": "Senonches",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Dubois",
+        "firstname": "Jean",
+        "birthplace": "Senonches",
+        "deathplace": null
+    },
+    {
+        "lastname": "Dumortier",
+        "firstname": "Madeleine",
+        "birthplace": "Chemilli",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Dupont",
+        "firstname": "Xaincte",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Durand",
+        "firstname": "Michel",
+        "birthplace": "Saint-Pellerin",
+        "deathplace": null
+    },
+    {
+        "lastname": "Dusereau",
+        "firstname": "Jean-Baptiste",
+        "birthplace": "Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Duteil",
+        "firstname": "René",
+        "birthplace": "Bubertré",
+        "deathplace": "Perche"
+    },
+    {
+        "lastname": "Enjouis",
+        "firstname": "Pierre",
+        "birthplace": "Normandel",
+        "deathplace": null
+    },
+    {
+        "lastname": "Fanuel",
+        "firstname": "Mathieu",
+        "birthplace": "Tourouvre",
+        "deathplace": "Tourouvre"
+    },
+    {
+        "lastname": "Feillard",
+        "firstname": "Claude",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "FORTIER",
+        "firstname": "Louis",
+        "birthplace": "Bayeux",
+        "deathplace": null
+    },
+    {
+        "lastname": "Fortin",
+        "firstname": "Julien",
+        "birthplace": "Notre-Dame-de-Vair",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Fournier",
+        "firstname": "Pierre",
+        "birthplace": "Fontaine-Raoul",
+        "deathplace": "Montmagny"
+    },
+    {
+        "lastname": "Fournier",
+        "firstname": "Guillaume",
+        "birthplace": "Coulimer ou Coulmer[3]",
+        "deathplace": "Montmagny"
+    },
+    {
+        "lastname": "Frondière",
+        "firstname": "Raoullin",
+        "birthplace": "Tourouvre",
+        "deathplace": "Perche"
+    },
+    {
+        "lastname": "Gadois",
+        "firstname": "Roberte",
+        "birthplace": "Igé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Gadois",
+        "firstname": "Françoise",
+        "birthplace": "Igé",
+        "deathplace": "la Pointe-aux-Trembles"
+    },
+    {
+        "lastname": "Gadois",
+        "firstname": "Pierre",
+        "birthplace": "Igé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Gadois",
+        "firstname": "Pierre",
+        "birthplace": "Appenai-sous-Bellême",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Gagné",
+        "firstname": "Pierre",
+        "birthplace": "Igé",
+        "deathplace": "Saint-Anne-de-Beaupré"
+    },
+    {
+        "lastname": "Gagné",
+        "firstname": "Louis",
+        "birthplace": "Igé",
+        "deathplace": "Pays des Aganiers"
+    },
+    {
+        "lastname": "Gagné",
+        "firstname": "Louise",
+        "birthplace": "Igé",
+        "deathplace": "Baie-Saint-Paul"
+    },
+    {
+        "lastname": "Gagné",
+        "firstname": "Louis",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Gagné",
+        "firstname": "Pierre",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "La Prairie"
+    },
+    {
+        "lastname": "Gagné",
+        "firstname": "Nicolas",
+        "birthplace": "Courcival",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Gagnon",
+        "firstname": "Marguerite",
+        "birthplace": "Tourouvre",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Gagnon",
+        "firstname": "Mathurin",
+        "birthplace": "Tourouvre",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Gagnon",
+        "firstname": "Jean",
+        "birthplace": "Tourouvre",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Gagnon",
+        "firstname": "Pierre",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Gagnon",
+        "firstname": "Robert",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Gagnon",
+        "firstname": "Jacques",
+        "birthplace": "Tourouvre",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Gagnon",
+        "firstname": "Marthe",
+        "birthplace": "L'Hôme-Chamondot",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Garnier",
+        "firstname": "François",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Neuville"
+    },
+    {
+        "lastname": "Gaudry",
+        "firstname": "Nicolas",
+        "birthplace": "Feings",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Gaudry",
+        "firstname": "Jacques",
+        "birthplace": "Feings",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Gaulin",
+        "firstname": "Marguerite",
+        "birthplace": "Saint-Martin-du-Vieux-Bellême",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Gaulin",
+        "firstname": "François",
+        "birthplace": "Saint-Martin-du-Vieux-Bellême",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Gaulin",
+        "firstname": "Pierre",
+        "birthplace": null,
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Gaulin",
+        "firstname": "Jean",
+        "birthplace": null,
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Gaynes",
+        "firstname": "Jacques",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Geoffroy",
+        "firstname": "Robert",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Giffard",
+        "firstname": "Marie",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Giffard",
+        "firstname": "Charles",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "France"
+    },
+    {
+        "lastname": "Giffard",
+        "firstname": "Robert",
+        "birthplace": "Autheuil",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Giguère",
+        "firstname": "Robert",
+        "birthplace": "Tourouvre",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Giguère",
+        "firstname": "Jean",
+        "birthplace": "L'Aigle",
+        "deathplace": null
+    },
+    {
+        "lastname": "Girard",
+        "firstname": "Pierre",
+        "birthplace": "Buré ou Bures",
+        "deathplace": "Varennes"
+    },
+    {
+        "lastname": "Giroust",
+        "firstname": "Thomas",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Giroust",
+        "firstname": "prénom inconnu",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Giroux",
+        "firstname": "Toussaint",
+        "birthplace": "Réveillon",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Giroux",
+        "firstname": "Charles",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Glapion",
+        "firstname": "Augustin-Louis",
+        "birthplace": "Le Pin-la-Garenne",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Godé",
+        "firstname": "François",
+        "birthplace": "Igé",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Godé",
+        "firstname": "Françoise",
+        "birthplace": "Igé",
+        "deathplace": "Pointe-aux-Trembles"
+    },
+    {
+        "lastname": "Godé",
+        "firstname": "Nicolas",
+        "birthplace": "Igé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Godé",
+        "firstname": "Nicolas",
+        "birthplace": "Igé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Godé",
+        "firstname": "Mathurine",
+        "birthplace": "Igé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Godeau",
+        "firstname": "Françoise",
+        "birthplace": "Le Ménil-Guyon",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Goulet",
+        "firstname": "Jacques",
+        "birthplace": "Normandel",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Goulet",
+        "firstname": "Louise",
+        "birthplace": "La Poterie-au-Perche",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Goyer",
+        "firstname": "Mathurin",
+        "birthplace": "Tourouvre",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Gravelle",
+        "firstname": "Joseph-Macé",
+        "birthplace": "France",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Grenier",
+        "firstname": "Françoise",
+        "birthplace": "Perche",
+        "deathplace": "Montmagny"
+    },
+    {
+        "lastname": "Guilleboust",
+        "firstname": "Charles",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Guimond",
+        "firstname": "Louis",
+        "birthplace": "Champs",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Guyon",
+        "firstname": "Jean",
+        "birthplace": "Tourouvre",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Guyon",
+        "firstname": "Barbe",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Saint-Pierre-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Guyon",
+        "firstname": "Jean",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Guyon",
+        "firstname": "Simon",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Guyon",
+        "firstname": "Marie",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Cap-Saint-Ignace"
+    },
+    {
+        "lastname": "Guyon",
+        "firstname": "Claude",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Guyon",
+        "firstname": "Denis",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Guyon",
+        "firstname": "Michel",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Hayot",
+        "firstname": "Rodolphe",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Hayot",
+        "firstname": "Geneviève",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Hayot",
+        "firstname": "Thomas",
+        "birthplace": "Soligny-la-Trappe",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Hayot",
+        "firstname": "Jean",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Héripel",
+        "firstname": "Marie",
+        "birthplace": "Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Hocquart",
+        "firstname": "Gilles",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Paris"
+    },
+    {
+        "lastname": "Houde",
+        "firstname": "Louis",
+        "birthplace": "Manou",
+        "deathplace": "Lotbinière"
+    },
+    {
+        "lastname": "Huan",
+        "firstname": "Martin",
+        "birthplace": "Beaulieu",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Huard",
+        "firstname": "Jean",
+        "birthplace": "Courson",
+        "deathplace": "La Pointe-de-Lévy"
+    },
+    {
+        "lastname": "Hublin",
+        "firstname": "Nicolas",
+        "birthplace": "Feings",
+        "deathplace": null
+    },
+    {
+        "lastname": "Huet",
+        "firstname": "Marin",
+        "birthplace": "Soizé",
+        "deathplace": null
+    },
+    {
+        "lastname": "Jacquelin",
+        "firstname": "Françoise Marie",
+        "birthplace": "Nogent-le-Rotrou",
+        "deathplace": "Saint-Jean Acadie"
+    },
+    {
+        "lastname": "Jahan",
+        "firstname": "Jeanne",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Jarry",
+        "firstname": "Éloi",
+        "birthplace": "Igé",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Jouault",
+        "firstname": "Léonarde",
+        "birthplace": "Igé",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Juchereau",
+        "firstname": "Jean",
+        "birthplace": "Tourouvre",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Juchereau",
+        "firstname": "Noël",
+        "birthplace": "Tourouvre",
+        "deathplace": "Orléans"
+    },
+    {
+        "lastname": "Juchereau",
+        "firstname": "Geneviève",
+        "birthplace": "La Ferté-Vidame",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Juchereau",
+        "firstname": "Jean",
+        "birthplace": "La Ferté-Vidame",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Juchereau",
+        "firstname": "Nicolas",
+        "birthplace": "La Ferté-Vidame",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Labbé",
+        "firstname": "Pierre",
+        "birthplace": "La Ferté-Bernard",
+        "deathplace": "Saint-François-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Lambert",
+        "firstname": "Aubin",
+        "birthplace": "Tourouvre",
+        "deathplace": "Saint-Nicolas"
+    },
+    {
+        "lastname": "Lande",
+        "firstname": "Pierre",
+        "birthplace": "Sainte-Céronne-lès-Mortagne",
+        "deathplace": null
+    },
+    {
+        "lastname": "Landeau",
+        "firstname": "Noëlle",
+        "birthplace": "Jauzé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Landry",
+        "firstname": "Guillaume",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Landry",
+        "firstname": "Mathurin",
+        "birthplace": "Neuilly-sur-Eure",
+        "deathplace": null
+    },
+    {
+        "lastname": "Langlois",
+        "firstname": "Noël",
+        "birthplace": "Saint-Léonard-des-Parcs",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Langlois",
+        "firstname": "Marie",
+        "birthplace": "La Madeleine-Bouvet",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Laporte",
+        "firstname": "Jacques",
+        "birthplace": "Nocé",
+        "deathplace": "Contrecoeur"
+    },
+    {
+        "lastname": "Le",
+        "firstname": "Barthélemy",
+        "birthplace": "Le-Pin-la-Garenne",
+        "deathplace": "Le-Pin-la-Garenne"
+    },
+    {
+        "lastname": "Leduc",
+        "firstname": "Jean",
+        "birthplace": "Igé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Lefebvre",
+        "firstname": "Pasquière",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Mortagne-au-Perche"
+    },
+    {
+        "lastname": "Lefort",
+        "firstname": "Antoine",
+        "birthplace": "Tourouvre",
+        "deathplace": "Saint-Pierre-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Legrand",
+        "firstname": "Sébastien",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Legrand",
+        "firstname": "Jean",
+        "birthplace": "L'Aigle",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Lehoux",
+        "firstname": "Françoise",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Beaupré"
+    },
+    {
+        "lastname": "Lehoux",
+        "firstname": "Jean",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Lehoux",
+        "firstname": "Jacques",
+        "birthplace": "Perche",
+        "deathplace": "Sainte-Anne-de-Beaupré"
+    },
+    {
+        "lastname": "Lemaire",
+        "firstname": "Nicole",
+        "birthplace": "Mamers",
+        "deathplace": "Trois-Rivières"
+    },
+    {
+        "lastname": "Leprestre",
+        "firstname": "Mathurin",
+        "birthplace": "Bonnétable",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Leprince",
+        "firstname": "Jean",
+        "birthplace": "Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Lereau",
+        "firstname": "Simon",
+        "birthplace": "Igé",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Lereau",
+        "firstname": "Marie",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Lesage",
+        "firstname": "Louis",
+        "birthplace": "Loisail",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Lescarbot",
+        "firstname": "Jean",
+        "birthplace": "Châtillon-en-Dunois",
+        "deathplace": "Saint-Sulpice"
+    },
+    {
+        "lastname": "Letartre",
+        "firstname": "René",
+        "birthplace": "Charencey",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Letartre",
+        "firstname": "Anne",
+        "birthplace": "Normandel",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Letartre",
+        "firstname": "Élisabeth",
+        "birthplace": "France",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Letartre",
+        "firstname": "Barbe",
+        "birthplace": "La Poterie-au-Perche",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Letartre",
+        "firstname": "Marie",
+        "birthplace": "France",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Letartre",
+        "firstname": "Charles",
+        "birthplace": "France",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Lhomme",
+        "firstname": "Michel",
+        "birthplace": "Notre-Dame-de-Vair",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Loiseau",
+        "firstname": "Jacques",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Loiseau",
+        "firstname": "Catherine",
+        "birthplace": "Perche",
+        "deathplace": "Trois-Rivières"
+    },
+    {
+        "lastname": "Lousche",
+        "firstname": "Louise",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Lucas",
+        "firstname": "Pierre",
+        "birthplace": "Chandai",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Mabille",
+        "firstname": "Michelle",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Mabille",
+        "firstname": "François",
+        "birthplace": "Tourouvre",
+        "deathplace": "Perche"
+    },
+    {
+        "lastname": "Maheu",
+        "firstname": "Zacharie",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Maheu",
+        "firstname": "Pierre",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Maheu",
+        "firstname": "René",
+        "birthplace": "Saint-Langis-les-Mortagne",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Maheu",
+        "firstname": "Jacques",
+        "birthplace": "Bubertré",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Malenfant",
+        "firstname": "Jean",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Malin",
+        "firstname": "Jeanne",
+        "birthplace": "Saint-Pierre-des-Ormes",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Mallet",
+        "firstname": "Perrine",
+        "birthplace": "Courgeon ou Courgeoût",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Manouelli",
+        "firstname": "Geneviève",
+        "birthplace": "La Chapelle-Montligeon",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Manoury",
+        "firstname": "Jean",
+        "birthplace": "Normandel",
+        "deathplace": "Perche"
+    },
+    {
+        "lastname": "Marine",
+        "firstname": "Louis",
+        "birthplace": "Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Massier",
+        "firstname": "Jacques",
+        "birthplace": "Digny",
+        "deathplace": "Sault-au-Récollet"
+    },
+    {
+        "lastname": "Maufay",
+        "firstname": "Pierre",
+        "birthplace": "Igé",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Mauger",
+        "firstname": "Louise",
+        "birthplace": "Igé",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Mercier",
+        "firstname": "Julien",
+        "birthplace": "Tourouvre",
+        "deathplace": "Sainte-Anne-de-Beaupré"
+    },
+    {
+        "lastname": "Mercier",
+        "firstname": "Jean",
+        "birthplace": "Saint-Mard-de-Réno",
+        "deathplace": null
+    },
+    {
+        "lastname": "Mery",
+        "firstname": "Antoine",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Mésange",
+        "firstname": "Marie",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Saint-Laurent-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Michel",
+        "firstname": "Marie",
+        "birthplace": "Saint-Martin-du-Vieux-Bellême",
+        "deathplace": "Sainte-Anne-de-Beaupré"
+    },
+    {
+        "lastname": "Michel",
+        "firstname": "Jean",
+        "birthplace": "La Chapelle-Montligeon",
+        "deathplace": "France"
+    },
+    {
+        "lastname": "Montchevreul",
+        "firstname": "Pierre",
+        "birthplace": "Courgeoût",
+        "deathplace": null
+    },
+    {
+        "lastname": "Montmorency-Laval",
+        "firstname": "François",
+        "birthplace": "Montigny-sur-Avre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Morin",
+        "firstname": "Claire",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Mullier",
+        "firstname": "Marguerite",
+        "birthplace": "Perche",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Normand",
+        "firstname": "Gervais",
+        "birthplace": "Igé",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Normand",
+        "firstname": "Pierre",
+        "birthplace": "Pouvrai",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Normand",
+        "firstname": "Jean",
+        "birthplace": "Igé",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Normand",
+        "firstname": "Jean",
+        "birthplace": "Igé",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Nourry",
+        "firstname": "Jacques",
+        "birthplace": "Feings",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Paradis",
+        "firstname": "Pierre",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Paradis",
+        "firstname": "Jacques",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Paradis",
+        "firstname": "Guillaume",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Saint-Pierre-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Paradis",
+        "firstname": "Pierre",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Saint-Pierre-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Paradis",
+        "firstname": "Jean",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Charlesbourg"
+    },
+    {
+        "lastname": "Paradis",
+        "firstname": "Marie",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Pelletier",
+        "firstname": "Guillaume",
+        "birthplace": "Tourouvre",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Pelletier",
+        "firstname": "Jean",
+        "birthplace": "Tourouvre",
+        "deathplace": "La Pocatière"
+    },
+    {
+        "lastname": "Pelletier",
+        "firstname": "Antoine",
+        "birthplace": "Bresolettes",
+        "deathplace": "Sault-de-Montmorency"
+    },
+    {
+        "lastname": "Pelletier",
+        "firstname": "Guillaume",
+        "birthplace": "Bresolettes",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Pelois",
+        "firstname": "Marguerite",
+        "birthplace": "La Ferté-Bernard",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Peltrie",
+        "firstname": "Marie-Madeleine",
+        "birthplace": "Alençon",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Peuvret",
+        "firstname": "Jean-Baptiste",
+        "birthplace": "Bellême",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Peuvret",
+        "firstname": "François",
+        "birthplace": "Bellême",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Piaud",
+        "firstname": "Pierre",
+        "birthplace": "Tourouvre",
+        "deathplace": "Perche"
+    },
+    {
+        "lastname": "Piédalu",
+        "firstname": "Julien",
+        "birthplace": "Courtalain",
+        "deathplace": "La Prairie"
+    },
+    {
+        "lastname": "Pierre",
+        "firstname": "Charles",
+        "birthplace": "L'Hôme-Chamondot",
+        "deathplace": "France"
+    },
+    {
+        "lastname": "Pinguet",
+        "firstname": "Henri",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Pinguet",
+        "firstname": "Françoise",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Pinguet",
+        "firstname": "Noël",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Pinguet",
+        "firstname": "Pierre",
+        "birthplace": "Tourouvre",
+        "deathplace": "Sainte-Foy"
+    },
+    {
+        "lastname": "Pitot",
+        "firstname": "Pierre",
+        "birthplace": "Randonnai",
+        "deathplace": null
+    },
+    {
+        "lastname": "Poisson",
+        "firstname": "Jean fils",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Poisson",
+        "firstname": "Louise",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Poisson",
+        "firstname": "Jeanne",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Poisson",
+        "firstname": "Barbe",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Poisson",
+        "firstname": "Mathurine",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Poisson",
+        "firstname": "Jean",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Potier",
+        "firstname": "Louis",
+        "birthplace": "Autheuil",
+        "deathplace": null
+    },
+    {
+        "lastname": "Pouliot",
+        "firstname": "Charles",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Saint-Laurent-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Poupar",
+        "firstname": "Jacques",
+        "birthplace": "Longny",
+        "deathplace": null
+    },
+    {
+        "lastname": "Provost",
+        "firstname": "Mathurin",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Provost",
+        "firstname": "François",
+        "birthplace": "Tourouvre",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Rageot",
+        "firstname": "Gilles",
+        "birthplace": "L'Aigle",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Renouard",
+        "firstname": "Marie",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Ribault",
+        "firstname": "Gervaise",
+        "birthplace": "Aunou-près-Séez",
+        "deathplace": null
+    },
+    {
+        "lastname": "Ridé",
+        "firstname": "Jean",
+        "birthplace": "Saint-Jean-des-Meurgers",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Rivard",
+        "firstname": "Nicolas",
+        "birthplace": "Tourouvre",
+        "deathplace": "Batiscan"
+    },
+    {
+        "lastname": "Rivard",
+        "firstname": "Robert",
+        "birthplace": "Tourouvre",
+        "deathplace": "Batiscan"
+    },
+    {
+        "lastname": "Robin",
+        "firstname": "Mathurine",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Beauport"
+    },
+    {
+        "lastname": "Rocheron",
+        "firstname": "Simon",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Rocheron",
+        "firstname": "Gervais",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Rocheron",
+        "firstname": "Marie",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Roger",
+        "firstname": "Renée",
+        "birthplace": "La Ventrouze",
+        "deathplace": "Sainte-Anne-de-Beaupré"
+    },
+    {
+        "lastname": "Rosée",
+        "firstname": "Marguerite",
+        "birthplace": "Jauzé",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Rouault",
+        "firstname": "Pierre",
+        "birthplace": "La Ferté-Bernard",
+        "deathplace": null
+    },
+    {
+        "lastname": "Rouillard",
+        "firstname": "Antoine",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Rouleau",
+        "firstname": "Gabriel",
+        "birthplace": "Perche",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Roullois",
+        "firstname": "Michel",
+        "birthplace": "Saint-Pierre-des-Ormes",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Roullois",
+        "firstname": "Jacqueline",
+        "birthplace": "Notre-Dame-de-Vair",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Roullois",
+        "firstname": "Madeleine",
+        "birthplace": "Notre-Dame-de-Vair",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Roussin",
+        "firstname": "Jean",
+        "birthplace": "Tourouvre",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Roussin",
+        "firstname": "Madeleine",
+        "birthplace": "Tourouvre",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Roussin",
+        "firstname": "Françoise",
+        "birthplace": "Tourouvre",
+        "deathplace": "Hôtel-Dieu de Québec"
+    },
+    {
+        "lastname": "Roussin",
+        "firstname": "Nicolas",
+        "birthplace": "Tourouvre",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Roussin",
+        "firstname": "Louise",
+        "birthplace": "Tourouvre",
+        "deathplace": "Sainte-Famille-de-l'Île-d'Orléans"
+    },
+    {
+        "lastname": "Royer",
+        "firstname": "Jean",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Surprenant",
+        "firstname": "Jacques",
+        "birthplace": "Perche",
+        "deathplace": "Laprairie"
+    },
+    {
+        "lastname": "Tavernier",
+        "firstname": "Marie",
+        "birthplace": "Randonnai",
+        "deathplace": "Hôtel-Dieu de Québec"
+    },
+    {
+        "lastname": "Tavernier",
+        "firstname": "Marguerite",
+        "birthplace": "Randonnai",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Tavernier",
+        "firstname": "Éloi",
+        "birthplace": "Perche",
+        "deathplace": null
+    },
+    {
+        "lastname": "Toutant",
+        "firstname": "Nicolas",
+        "birthplace": "Courtalain",
+        "deathplace": "Champlain"
+    },
+    {
+        "lastname": "Tréhard",
+        "firstname": "Jean",
+        "birthplace": "Randonnai",
+        "deathplace": "La Ferté-Vidame"
+    },
+    {
+        "lastname": "Tremblay",
+        "firstname": "Pierre",
+        "birthplace": "Randonnai",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Trémond",
+        "firstname": "Daniel",
+        "birthplace": "Tourouvre",
+        "deathplace": null
+    },
+    {
+        "lastname": "Trottier",
+        "firstname": "Julien",
+        "birthplace": "Igé",
+        "deathplace": "Canada"
+    },
+    {
+        "lastname": "Trottier",
+        "firstname": "Antoine",
+        "birthplace": "Igé",
+        "deathplace": "Batiscan"
+    },
+    {
+        "lastname": "Trottier",
+        "firstname": "Pierre",
+        "birthplace": "Vaunoise",
+        "deathplace": "Batiscan"
+    },
+    {
+        "lastname": "Trottier",
+        "firstname": "Jules",
+        "birthplace": "Perche",
+        "deathplace": "Trois-Rivières"
+    },
+    {
+        "lastname": "Trottier",
+        "firstname": "Gilles",
+        "birthplace": "Perche",
+        "deathplace": "Montréal"
+    },
+    {
+        "lastname": "Trudel",
+        "firstname": "Jean",
+        "birthplace": "Parfondeval",
+        "deathplace": "L'Ange-Gardien"
+    },
+    {
+        "lastname": "Turgeon",
+        "firstname": "Charles",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Perche"
+    },
+    {
+        "lastname": "Turgeon",
+        "firstname": "Marie-Claire",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Turgeon",
+        "firstname": "Jacques",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Beaumont"
+    },
+    {
+        "lastname": "Turgeon",
+        "firstname": "Anne",
+        "birthplace": "Mortagne-au-Perche",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Valin",
+        "firstname": "Charles",
+        "birthplace": "Rémalard",
+        "deathplace": null
+    },
+    {
+        "lastname": "Verdier",
+        "firstname": "Michel",
+        "birthplace": "Saint-Germain-de-Loisé",
+        "deathplace": "France"
+    },
+    {
+        "lastname": "Vigneron",
+        "firstname": "René",
+        "birthplace": "L'Hôme-Chamondot",
+        "deathplace": "Québec"
+    },
+    {
+        "lastname": "Visage",
+        "firstname": "René",
+        "birthplace": "Tourouvre",
+        "deathplace": "Perche"
+    },
+    {
+        "lastname": "Voyer",
+        "firstname": "Pierre",
+        "birthplace": "Marolles-les-Braults",
+        "deathplace": "Château-Richer"
+    },
+    {
+        "lastname": "Yvon",
+        "firstname": "Jeanne",
+        "birthplace": "Saint-Cosme-de-Vair",
+        "deathplace": "Sillery"
+    }
+]

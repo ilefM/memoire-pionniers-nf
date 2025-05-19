@@ -17,7 +17,6 @@ def extract_characters(characters_text, known_characters, name):
     bio_source_simple = re.compile(r"\. \(([A-ZÀ-Ý ]+([-&°.][A-ZÀ-Ý ]+)*)\)$")
     bio_source_reference = re.compile(r"\. \(([A-ZÀ-Ý0-9 ]+([-&°.][A-ZÀ-Ý0-9 ]+)*)\)$")
     bio_source_line = re.compile(r"^\(([A-ZÀ-Ý0-9 ]+([-&°.][A-ZÀ-Ý0-9 ]+)*)\)$")
-    
     i = 0
     char_string = ""
     while i < len(characters_text):
@@ -57,8 +56,8 @@ def extract_characters(characters_text, known_characters, name):
     while i < len(known_characters):
         name = known_characters[i].split(",")
         characters.append({
-            "last_name": name[0].strip(),
-            "first_name": name[1].strip(),
+            "lastname": name[0].strip(),
+            "firstname": name[1].strip(),
             "bio": extracted_characters[i].strip()
         })
         i += 1

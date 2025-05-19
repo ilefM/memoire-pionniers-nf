@@ -6,7 +6,7 @@ from characters import Character, extract_characters
 from towns import Town, extract_towns
 from mistral import extract_information_bio
 
-DEPARTMENT = "deux-sevres"
+DEPARTMENT = "dordogne"
 
 def read_file(department):
     dataLines = []
@@ -37,11 +37,11 @@ def main():
         
         characters_partial = extract_characters(town["characters_text"], town["known_characters"], town["name"])
         for char in characters_partial:
-            data = extract_information_bio(char["bio"])
-            data_list = list(data.values())
-            char["birthplace"] = data_list[0]
-            if len(data_list) > 1:
-                char["deathplace"] = data_list[1]
+            # data = extract_information_bio(char["bio"])
+            # data_list = list(data.values())
+            # char["birthplace"] = data_list[0]
+            # if len(data_list) > 1:
+            #     char["deathplace"] = data_list[1]
             char["mainplace"] = town["name"] + " (" + town["postcode"] + ")"
             town["characters"].append(char)
             characters.append(char)

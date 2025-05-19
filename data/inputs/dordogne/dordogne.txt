@@ -1,4 +1,4 @@
-﻿ABJAT-SUR-BANDIAT
+ABJAT-SUR-BANDIAT
 (24300)-639 hab.
 Arrondissement et Canton de Nontron
 (15 km par la D675). Sous l’Ancien
@@ -39,7 +39,7 @@ Ferand. Marié à Marie-Madeleine Vacher,
 Ils eurent plusieurs enfants. Décédé
 à Montréal, le 30-01-1745. Descendance
 sous le patronyme de Lagfond.
-(NR-J.N. BIRABEN)
+(NR-J.N. Biraven)
 AUBETERRE-SUR-DRONNE
 (16390)-365 hab.
 Arrondissement d’Angoulême (47 km).
@@ -77,7 +77,7 @@ inhumé à Aubeterre. (DBC-VOIR CHAPITRE 1)
 
 
 BEAUMONT
-(2440)-1 179 hab.
+(24400)-1 179 hab.
 Arrondissement de Bergerac (30 km par
 la D660). Sous l’Ancien Régime, diocèse
 de Sarlat, parlement et intendance de
@@ -213,7 +213,7 @@ fondateur de Berthierville. Décédé le
 12-12-1708 à Berthier-en-Bas. Plaque
 commémorative, échelle de crue, rue
 du port. (DBC-VOIR CHAPITRE 1)
-CHANTAL dit Lafl eur, Pierre. Né vers
+CHANTAL dit Lafleur, Pierre. Né vers
 1667, au Faubourg de la Madeleine.
 Fils de Jean Chantal et de Louise Chor.
 On le retrouve en 1663 dans les troupes
@@ -288,7 +288,7 @@ en 1693. Mariage annulé pour bigamie.
 3) Marguerite Bourgeois, (veuve
 de Mirande Bourgeois dit Tarare et de
 Boudrot Jean), à Port-Royal, le 12-01-
-1707. Décédé après 1716. (DBC-VOIR CHAPITRE 1). (PlAQUE COMMÉMORATIVE).
+1707. Décédé après 1716. (DBC-VOIR CHAPITRE 1). (PLAQUE COMMÉMORATIVE)
 OUVRARD ou OUVRADE, Jean-Arnaud.
 Né le 04-01-1798, ainsi que son
 jumeau Pierre. Fils de Jean Ouvrard,
@@ -369,7 +369,7 @@ de la compagnie de Lavallière. Ses
 descendants en Périgord ont été Maires
 de la Commune sur plusieurs générations.
 Plaque commémorative façade
-église Saint-Jean. (ANQ-Généanet)
+église Saint-Jean. (ANQ-GÉNÉANET)
 BOURDEILLES
 (24310)-796 hab.
 Arrondissement de Périgueux (20 km).
@@ -495,7 +495,7 @@ Vincent Chatigny de Bézenac), à Québec,
 le 29-10-1701. Sans descendance.
 2) Madeleine Charbonneau, à Québec,
 le 21-07-171. Neuf enfants. (PRDH)
-CHALEIX
+CHALAIS
 (24800)-445 hab.
 Arrondissement de Nontron (12 km de
 Th iviers par N21). Sous l’Ancien Régime,
@@ -520,26 +520,7 @@ enfants. Ont résidé successivement
 à Château Richer (Qc),
 Trois-Rivières (Qc) et Sorel
 (Qc). (NR-J.N. BIRABEN)
-CHAMPNIERS-ET-REILHAC
-(24360)-508 hab.
-Arrondissement de Nontron (20 km par
-D675). Sous l’Ancien Régime, diocèse
-et élection de Périgueux, parlement et
-intendance de Bordeaux. 63 feux (NR).
-En limite du Limousin, réunion de deux
-communes au 20ème siècle. Château dominé
-par un donjon carré. Église romane
-à clocher octogonal. Chapelle du 15ème
-siècle. Au hameau de Reilhac église romane.
-C’est au château de Reilhac que
-Fernand Dupuis situe son roman : « l’Albine
-».
-FERRÉ, Alain. Né vers 1735. Fils de
-François Ferré et de Rose Ténac. Marié
-à Marie-Josette Brassar, à Pointeaux-
-Trembles (Qc), le 24-01-1760.
-Sans descendance. Il est sergent au 1er
-bataillon du régiment du Berry. (NRJ.N. BIRABEN)
+
 CHÂTEAU-L’ÉVÊQUE
 (24460)-1 800 hab.
 Arrondissement de Périgueux (10 km
@@ -620,7 +601,7 @@ date du mariage). Ses descendants conserveront
 toujours le nom de Delguel
 ou Déziel. (J.M.DÉZIEL-CGFA)
 DOUCHAPT
-(24350)-258 Hab.
+(24350)-258 hab.
 Arrondissement de Périgueux (30 km
 par D7). Sous l’Ancien Régime, diocèse
 et élection de Périgueux, parlement et
@@ -747,7 +728,7 @@ Bardin. Elle décède en 1741. On sait
 que son père Pierre Guilet-Lajeunesse
 et sa mère Jeanne Saint-Pierre était une
 famille les plus en vue de la région de
-Trois-Rivières. (NR-Généanet).
+Trois-Rivières. (NR-GÉNÉANET).
 (PLAQUE COMMÉMORATIVE)
 FOSSEMAGNE
 (24210)-536 hab.
@@ -802,8 +783,8 @@ lieu de naissance inconnus. Fils de Jean
 Pierre de Pontbriant et de Anne de
 Peyronenc. Célibataire. Décédé le 02-
 11-1536. Il découvrit l’Ile de Montréal
-avec Jacques Cartier. (VOIR CHAPITRE 1)
-(PLAQUE COMMÉMORATIVE).
+avec Jacques Cartier. (Voir chapitre 1)
+(PLAQUE COMMÉMORATIVE)
 JUMILHAC-LE-GRAND
 (24630)-1 300 hab.
 Arrondissement de Nontron (Entre Périgueux
@@ -923,6 +904,14 @@ promenades. Aux alentours, château
 de Mareuil. Magnanerie de Goumondie
 à Saint-Just-Les-Tourbières de Vendoire
 écomusée.
+GIGNARD, Pierre. Né paroisse Saint-
+Romain. Fils de Léonard Gignard et de
+Jeanne Leblanc. Marié à Catherine Lahaye,
+à Québec, le 18-11-1669. Contrat
+de mariage le 22-10-1669 (greff e
+Romain Becquet). Plusieurs enfants.
+Décédé, à l’Ile-d’Orléans (Qc), en
+1676. (NR-GÉNÉANET)
 ROUSSET dit Beaucourt, Pierre. Né
 vers 1643. Fils de Pierre Rousset et de
 Barbe Durand. Marié à Jeanne Chartier,
@@ -944,14 +933,6 @@ hérités au décès de son père à La Rochebeaucourt,
 soit une maison Grand-
 Rue, des lopins de terre et une vigne.
 (DBQ-ANQ)
-GIGNARD, Pierre. Né paroisse Saint-
-Romain. Fils de Léonard Gignard et de
-Jeanne Leblanc. Marié à Catherine Lahaye,
-à Québec, le 18-11-1669. Contrat
-de mariage le 22-10-1669 (greff e
-Romain Becquet). Plusieurs enfants.
-Décédé, à l’Ile-d’Orléans (Qc), en
-1676. (NR-GÉNÉANET)
 LA TOUR-BLANCHE
 (24320)-460 hab.
 Arrondissement de Périgueux (24 km de
@@ -1090,7 +1071,7 @@ Le couple réside à Québec. Les
 descendants prendront le patronyme
 de Mozières. Plaque commémorative,
 façade de la Chapelle Saint-Georges.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 MONTIGNAC
 (24290)-3 101 hab.
 Arrondissement de Sarlat-La-Canédat
@@ -1129,7 +1110,7 @@ que des fi lles (pas de descendance). Il
 fut tué le 26-06-1691 par les Iroquois
 à Lachine (Qc). Soldat du régiment de
 Carignan-Salières compagnie de Maximy.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 NONTRON
 (24300)-3 656 hab.
 Chef-Lieu d’Arrondissement (50 km de
@@ -1144,8 +1125,7 @@ Pin. Fils de Jacques Boutiron et
 de Marguerite Lacombe. Marié à
 Geneviève Bisson, à Notre-Dame de
 Québec, le 09-11-1718. Sans descendance.
-Disparu après 1720. (NR-J.N.
-Biraben)
+Disparu après 1720. (NR-J.N. BIRABEN)
 CLUSEAU dit Lorange, Jean. Soldat.
 Né en 1666. Fils de Guillaume Cluseau
 et de Jeanne Moreau. Marié à Anne
@@ -1175,8 +1155,8 @@ garçons. Soldat du régiment de Carignan-
 Salière, compagnie de Dumeny.
 Descendance sous les patronymes Lafl
 eur au Canada et Monthet aux Etats-
-Unis. (NR-J.N. Biraben)
-PERIGUEUX
+Unis. (NR-J.N. BIRABEN)
+PÉRIGUEUX
 (24000)-32 294 hab.
 Chef-Lieu d’Arrondissement. Capitale
 du Périgord, au bord de l’Isle. Elle est ri
@@ -1213,7 +1193,7 @@ des fi lles, pas de descendance. Décédé
 troupes de Marine, compagnie de La
 Groye, puis jardinier du gouverneur de
 Callières et ensuite maître boulanger.
-(RN-J.N. Biraben)
+(RN-J.N. BIRABEN)
 BOURGEOIS dit Laverdure, Antoine.
 Soldat. Né vers 1663, paroisse de la Limougeanne.
 Fils de Pierre Bourgeois,
@@ -1240,7 +1220,7 @@ Desmaisons. Marié à 1) Agathe Chancelier,
 Saint-Denis (Qc), le 07-09-1801. Pas
 de descendance. Soldat du régiment de
 Guyenne, compagnie de Manneville et
-agriculteur. (NR-J.N. Biraben)
+agriculteur. (NR-J.N. BIRABEN)
 GUEYRAUD, Jean. Soldat. Né vers
 1724. Fils de Léonard Gueyraud et
 de Marguerite Malleville. Marié à
@@ -1250,7 +1230,7 @@ mariage le 25-02-1759 (greff e Claude
 Barolet). On peut noter que sur l’acte
 de mariage, tous les deux ont signés.
 Soldat de la compagnie de Vervier.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 LAPORTE dit Saint-Georges, Pierre.
 Né en 1673, paroisse Saint-Georges.
 Fils de Jean Laporte et de Jeanne Minet.
@@ -1260,7 +1240,7 @@ Saint-François-de-La-Salles (Qc), le
 01-05-1707 (greff e Nicolas Sennet).
 Quatre enfants. La descendance porte
 les patronymes de Laporte et Saint-
-Georges. (NR-J.N. Biraben)
+Georges. (NR-J.N. BIRABEN)
 LAURENT dit Saint-Laurent, Pierre.
 Né vers 1674, paroisse Saint-Laurent.
 Fils d’Etienne Laurent et de Marguerite
@@ -1269,7 +1249,7 @@ Gérinette, à Saint-François, Ile-d’Orléans
 (Qc), le 12-01-1696. Ils eurent
 neuf enfants et résideront à Rimouski
 (Qc). Descendance sous le nom de
-Saint-Laurent. (NR-J.N. Biraben)
+Saint-Laurent. (NR-J.N. BIRABEN)
 
 
 
@@ -1351,8 +1331,8 @@ Jeanne Beaudry, à Montréal,
 le 23-07-1703. Contrat
 de mariage le 22-07-1703
 (greff e Antoine Adhémar).
-Soldat de Duplessis. (NRJ.N. Biraben)
-RIBERAC
+Soldat de Duplessis. (NRJ.N. BIRABEN)
+RIBÉRAC
 (24600)-4 123 hab.
 Arrondissement de Périgueux
 (30 km par D710). Sous
@@ -1379,8 +1359,8 @@ Paviot, à Contrecoeur (Qc), le 13-08-
 il est meunier au moulin de la seigneurie
 de Contrecoeur pendant plusieurs
 années. Descendance féminine seulement.
-(NR-J.N. Biraben)
-ROUFFIGNAC-SAINT-CERNINDE-REILHAC
+(NR-J.N. BIRABEN)
+ROUFFIGNAC-SAINT-CERNIN-DE-REILHAC
 (24580)-1 516 hab.
 Arrondissement de Sarlat (40 km par
 D47). Sous l’Ancien Régime, diocèse et
@@ -1490,22 +1470,8 @@ engagement, il s’établit à Maskinongé
 (Qc), il est cultivateur, sur une terre
 qui restera dans la famille jusqu’à nos
 jours et y verra 10 générations. (AD24-
-ANQ). Plaque commémorative.
-SAINT-AUBIN-DE-NABIRAT
-(24250)-127 hab.
-Arrondissement de Sarlat-la-Canèda (25
-km par D46). Sous l’Ancien Régime, diocèse
-et élection de Périgueux, parlement et
-intendance de Bordeaux. Commune rurale,
-surplombant le Céou, agréable pour
-son calme et sa verdure. Eglise du 12ème
-siècle. Nombreuses excursions vers le Lot
-tout proche.
-CHICCOU dit Duvert, Pierre. (Voir
-Saint-Marcel-du-Périgord). (AUCUNE REF)
-SAINT-CHRISTOPHE (de) dit Lajoie,
-Christophe. (Voir Saint-Martiald’Albaréde). (AUCUNE REF)
-VERT, Raymond. (Voir Saint-Martiald’Albaréde).
+ANQ). (PLAQUE COMMÉMORATIVE)
+
 SAINT-AULAYE
 (24410)-1 440 hab.
 Arrondissement de Périgueux (20 km de
@@ -1521,11 +1487,6 @@ Saint-Aulaye. Il est l’auteur du fameux
 « coup de Jarnac ». Maintenant le château
 abrite la mairie. Église romane de
 Sainte-Eulalie du 12ème siècle.
-NERVAUX dit Poitou, Nicolas. Marié
-à Marie Demers, à Montréal (Qc), le
-14-08-1668. Contrat de mariage le
-27-02-1670 (greff e Th omas Frérot).
-(NR)
 BENOIT, Anne. Fille
 de Jean Benoit et de
 Jeanne-Marie Périer.
@@ -1543,38 +1504,15 @@ Québec, le 11-01-
 mariage le 10-01-
 17 (greff e Claude
 Barolet). (NR)
+NERVAUX dit Poitou, Nicolas. Marié
+à Marie Demers, à Montréal (Qc), le
+14-08-1668. Contrat de mariage le
+27-02-1670 (greff e Th omas Frérot).
+(NR)
 
 
 
-
-SAINT-CERNIN-DE-LABARDE
-(24560)-241 hab.
-Arrondissement de Bergerac (10 km par
-N21). Sous l’Ancien Régime, diocèse et
-élection de Sarlat, parlement et intendance
-de Bordeaux.160 feux (NR). Joli
-village au milieu de ses vignes et belles
-maisons périgourdines. A voir Issigeac.
-DELPE dit Saint-Cerny ou Sincerny,
-François. (Voir à Rouffi gnac-Saint-
-Cernin-de-Reilhac)
-SAINT-CERNIN-DE-L’HERM
-(24550)-247 hab.
-Arrondissement de Sarlat-la-Canéda
-(50 km par D7003 et D 660). Son
-nom vient de Saint-Saturnin, évêque de
-Toulouse, martyrisé vers 257. La mise à
-jour de tombeaux et de vases contenants
-du charbon et des monnaies romaines attestant
-ainsi d’une occupation ancienne
-du site. Ne pas manquer d’aller voir les
-bastides de Villefranche-du-Périgord et
-Monpazier ainsi que le superbe château
-de Biron.
-DELPE dit Saint-Cerny ou Sincerny,
-François (Voir Rouffi gnac-Saint-Cernin-
-de-Reilhac)
-SAINT-CRÉPIND’AUBEROCHE
+SAINT-CRÉPIN-D’AUBEROCHE
 (24330)-229 hab.
 Arrondissement de Périgueux (15 km par
 la N89). Sous l’Ancien Régime, diocèse
@@ -1593,7 +1531,7 @@ Françoise Gilbert, à Québec, le
 31-12-1741 (greff e Jacques Piquet).
 Deux enfants. Il décède avant 1747,
 son épouse se remarie. Il n’y aura de
-descendance que par la fi lle. (NR-J.N. Biraben)
+descendance que par la fi lle. (NR-J.N. BIRABEN)
 SAINT-CYBRANET
 (24350)-355 hab.
 Arrondissement de Sarlat (20 km par
@@ -1637,7 +1575,7 @@ prêtre, mais est-ce là, des parents de
 notre migrant, nous cherchons toujours.
 Au Bouscault plusieurs maisons
 ont appartenues à des Lacombe. (J.N.
-Biraben). Plaque commémorative.
+BIRABEN). (PLAQUE COMMÉMORATIVE)
 SAINT-FRONT-D’ALEMPS
 (24460)-285 hab.
 Arrondissement de Périgueux (20 km
@@ -1653,7 +1591,7 @@ Berry. Marié à Marie-Josèphe Brassard,
 à Pointe-aux-Trembles (Qc), le 24-01-
 1760. Contrat de mariage le 21-04-
 1759 (greff e Christophe Hilarion). Pas
-de descendance. (NR-J.N. Biraben)
+de descendance. (NR-J.N. BIRABEN)
 MERDIEU ou MEDIEU dit Bourdon,
 Jean. Né vers 1669. Fils de Louis
 Merdieu et d’Isabelle Dubois. Marié
@@ -1661,38 +1599,10 @@ Merdieu et d’Isabelle Dubois. Marié
 (Qc), le 06-02-1690. Contrat de mariage
 du 19-07-1690 (greff e Gilles Rageot).
 Ils eurent de nombreux enfants.
-(NR-J.N. Biraben)
-SAINT-FRONT-DE-PRADOUX
-(24400)-1 000 hab.
-Arrondissement de Périgueux (40 km
-par A89). Sous l’Ancien Régime, diocèse
-et élection de Périgueux, parlement et
-intendance de Bordeaux. 79 feux (NR).
-Le Manoir de Beaufort du 15ème siècle
-domine la vallée de l’Isle.
-FERRE, Alain (Voir Saint-Frontd’Alemps). (AUCUNE REF)
-MERDIEU dit Bourdon, Jean (Voir
-Saint-Front-d’Alemps). 
-SAINT-FRONT-LA-RIVIÈRE
-(24300)-559 hab.
-Arrondissement de Nontron (10 km par
-D 3). Sous l’Ancien Régime, diocèse et
-élection de Périgueux, parlement et intendance
-de Bordeaux. 184 feux (NR).
-Église du 12èm siècle. Château de la Renaudie
-des 15ème et 16ème siècles.
-FERRE, Alain (Voir Saint-Frontd’Alemps).
-SAINT-GEORGES-BLANCANEIX
-(24130)-180 hab.
-Arrondissement de Bergerac (20 km par
-la D 13). Sous l’Ancien Régime, diocèse
-et élection de Périgueux, parlement et intendance
-de Bordeaux. 118 feux (NR).
-Le village, situé dans le forêt du Landais,
-a gardé de la période médiévale, le portail
-de son église.
-DESFORGES dit Saint-Maurice, Jean
-(voir St-Georges-de-Montclard).
+(NR-J.N. BIRABEN)
+
+
+
 SAINT-GEORGES-DE-MONTCLARD
 (24140)-270 hab.
 Arrondissement de Bergerac (10 km par
@@ -1749,23 +1659,9 @@ de Carignan-Salières, compagnie
 de Saint-Ours. Après son décès, son
 épouse se remarie, avec un soldat de la
 même compagnie, Mathurin Banlier
-dit Laperle. (NR-J.N. Biraben)
-SAINT-LAURENT-DES-HOMMES
-(24400)-904 hab.
-Arrondissement de Périgueux (50 km par
-D3, entre Mussidan et Montpon). Sous
-l’Ancien Régime, diocèse et élection de
-Périgueux, parlement et intendance de
-Bordeaux. 186 feux (NR). Jusqu’à la Révolution
-la commune actuelle s’appellait
-Saint-Laurent-de-Pradoux et était rattaché
-à l’archiprêtré de Vanxains. En face
-d’une belle église gothique, on peut voir
-une demeure à pans de bois du 17ème
-siècle, certainement une des plus belles de
-la Double, lieu du Périgord.
-LEGROS dit Saint-Laurent, Elie (Voir
-Mareuil-sur-Belle).
+dit Laperle. (NR-J.N. BIRABEN)
+
+
 SAINT-MARCEL-DU-PÉRIGORD
 (24510)-141 hab.
 Arrondissement de Bergerac (15 km par
@@ -1822,14 +1718,14 @@ maître cuisinier et de Marguerite Couder.
 Marié à Aghate Morin, à Lachine
 (Qc), le 09-01-1684. Trois enfants
 mais pas de descendance. Décédé avant
-1692. (NR-J.N. Biraben)
+1692. (NR-J.N. BIRABEN)
 JACOTI dit Beausoleil, Jean. Né vers
 1667. Fils de Pierre Jacoti et de Marie
 Bonnevico. Marié à Marie Massart, à
 Québec, le 18-02-1692. Ils n’auront
 que des fi lles. Décédé à Saint-Pierre,
 Ile-d’Orléans (Qc), le 13-12-1735.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 RICHARD dit Larose, Bernard. Né
 vers 1680. Fils de Renaud Richard et
 de Pierrette Londé. Marié à Madeleine
@@ -1838,7 +1734,7 @@ Reproche-Ducharme, à Québec, le
 01-1714 (greff e Florent de Lacetière).
 Décédé à Québec, le 23-09-1714. Sans
 postérité. Il est soldat de M. de Rouville
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 SAINT-CHRISTOPHE (de) dit Lajoie,
 Christophe. Né vers 1702. Fils de
 Paul de Saint-Christophe dit Lajoie,
@@ -1848,12 +1744,12 @@ Lajeunesse, à Montréal (Qc), le 22-
 11-1728. Soldat de Périgny, puis laboureur.
 On ne le retrouve plus après
 le 13-02-1730. Ils ont une fi lle, pas de
-descendance. (NR-J.N. Biraben)
+descendance. (NR-J.N. BIRABEN)
 VERT, Raymond. Né vers 1734. Fils
 de Jean Vert et de Péronne Bian ou
 Biau. Marié à Marie-Anne Baudry, à
 Longueuil (Qc), le 22-08-1763. Quatre
-enfants. (NR-J.N. Biraben)
+enfants. (NR-J.N. BIRABEN)
 SAINT-MARTIN-DE-FRESSENGEAS
 (24800)-379 hab.
 Arrondissement de Nontron (10 km par
@@ -1882,13 +1778,13 @@ BOURGOIN, Pierre. Né vers 1742.
 Fils de Pierre Bourgoin et de Marie Bertrand.
 Marié à Véronique Beauchamp,
 à Lachenay (Qc), le 23-02-1767. Sans
-descendance. (NR-J.N. Biraben)
+descendance. (NR-J.N. BIRABEN)
 FOUCAULT, Jean François. Né vers
 1631. Fils de Pierre Foucault et de
 Péronne Borde. Marié à Elisabeth Prévost,
 à Québec, le 14-11-1671. Décédé
 à Trois-Rivières (Qc) le 04-12-1700.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 SAINT-PARDOUX-ET-VIELVIC
 (24170)-195 hab.
 Arrondissement de Sarlat-la-Canèda
@@ -1926,8 +1822,8 @@ le 19-11-1764. Contrat de mariage le
 06-11-1764 (greff e Michel Lapailleur).
 Soldat du régiment de Guyenne, compagnie
 de Saint-Vincent. (NR-J.N.
-Biraben)
-SAINT-SÉVERIN-D’ÉSTISSAC
+BIRABEN)
+SAINT-SÉVERIN-D’ESTISSAC
 (24190)-52 hab.
 Arrondissement de Périgueux (30 km
 par D89 ou A89). Sous l’Ancien Régime,
@@ -1942,7 +1838,7 @@ Jacques Ralle et de Marguerite. Marié
 à Gabrielle Lemaître, à Québec, le 02-
 10-1667. Contrat de mariage le 02-10-
 1667 (greff e Romain Bequet). Pas de
-descendant. (NR-J.N. Biraben)
+descendant. (NR-J.N. BIRABEN)
 SAINT-VIVIEN
 (24230)-256 hab.
 Arrondissement de Bergerac (35 km par
@@ -1961,7 +1857,7 @@ Laubias. Il abjure sa foi le 14-09-1665,
 à Québec. Ils eurent deux enfants, mais
 pas de descendance. Décédé à Sainte-
 Anne-de-la-Pérade (Qc), après 1692.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 SARLANDE
 (24270)-421 hab.
 Arrondissement de Nontron (50 km de
@@ -1985,7 +1881,7 @@ Nouvelle-France le 14-09-1665, il est
 soldat au régiment Carignan-Salières
 dans la compagnie de Saint-Ours.
 Décédé à l’Hôtel-Dieu de Québec, le
-20-07-1707. (NR-J.N. Biraben)
+20-07-1707. (NR-J.N. BIRABEN)
 SARLAT-LA-CANÉDA
 (24520)-10 423 hab.
 Chef-lieu d’Arrondissement (60 km
@@ -2010,7 +1906,7 @@ Jacquou-le-Croquants, les Misérables et
 bien d’autres.
 LESIÈGE dit Lafontaine, Pierre. Né
 vers 1636. Marié à Marguerite Laplace,
-fi lle du Roy (née vers 1659), à Sorel
+fille du Roy (née vers 1659), à Sorel
 (Qc), vers 1672. Probablement après le
 01-03-1671 (acte détruit). Elle a treize
 ans lors de son mariage avec Pierre Lesiège.
@@ -2018,9 +1914,9 @@ Ils habitent Contrecoeur (Qc).
 Huit enfants. Pierre Lesiège décède à
 l’automne 1691, tué par les Iroquois
 (acte 24-10-1699 Deschambeault. Juridiction
-Royale Montréal). (NR-Généanet)
+Royale Montréal). (NR-GÉNÉANET)
 SARRAZAC
-(24800) - 404hab.
+(24800)-404 hab.
 Arrondissement de Nontron (8 km de
 Th iviers par D81). Sous l’Ancien Régime,
 diocèse et élection de Périgueux,
@@ -2048,7 +1944,7 @@ Hilaire. C’est probablement pour des raisons
 que quatre jeunes paysans s’enrôlèrent
 dans le régiment Carignan-Salières, en
 partance pour la Nouvelle-France où ils
-fi rent souche.
+firent souche.
 BELLET dit Gazaille, Jean. Né le 13-
 09-1643, paroisse Saint-Hilaire. Fils
 de Pierre Gazaille dit Bellet et de Françoise
@@ -2174,7 +2070,7 @@ Fils de Emeric Rode et de Jeanne Lam-
 bert. Marié à Geneviève Guay, à Lévis
 (Qc), le 15-11-1757. Contrat de
 mariage le 11-11-1757 (greff e Simon
-Sanguinet). Ils résident à Lévis. (NRJ.N. Biraben)
+Sanguinet). Ils résident à Lévis. (NRJ.N. BIRABEN)
 SOULAURES
 (24540)-76 hab.
 Arrondissement de Bergerac (5 km de
@@ -2194,7 +2090,7 @@ Lehoux, à Québec, le 20-10-1653.
 Huit enfants. Décédé à Beaupré (Qc),
 le 17-11-1684. Nombreuse descendance
 au Canada et aux Etats-Unis.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 THIVIERS
 (24380)-3 625 hab.
 Arrondissement de Nontron (35 km de
@@ -2232,7 +2128,7 @@ enfants ainsi que son gendre, périrent
 brûlés et torturés. Environ 200 personnes
 périrent cette nuit là, à Lachine. La
 descendance ne fut assurée que par un
-fi ls et une fi lle. (NR-J.N. Biraben)
+fi ls et une fi lle. (NR-J.N. BIRABEN)
 DUBORD dit Lafontaine, François-
 Guillien. Né vers 1636. Fils de Louis
 Dubord et de Françoise de la Brugière.
@@ -2245,7 +2141,7 @@ Dame de la Visitation, le 02-04-1705.
 Il arrive à Québec le 12-09-1665, avec
 le régiment de Carignan-Salières. Il est
 tailleur et après le licenciement de son
-régiment, il se fi xe à Champlain. (NRJ.N. Biraben-Migrations.fr)
+régiment, il se fi xe à Champlain. (NRJ.N. BIRABEN-MIGRATIONS.FR)
 GUIRE dit Larose, François. Né en
 1641, hameau du Mur. Fils de Charles
 Guire et de Jehanne Drouyayde. Marié
@@ -2287,7 +2183,7 @@ Aimé-Martin Deguire fondateur des
 Editions Fidés. Mme Michèle Th ibodeau-
 Deguire présidente et directrice
 générale de Centraide du Grand Montréal.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 GUIRE dit Laprairie, Sicaire. Frère du
 précédent. Né comme lui à Th iviers.
 Fils de Charles Guire et de Jehanne
@@ -2296,7 +2192,7 @@ France avec son frère dans le même
 régiment. Il s’installe après le licenciement
 de celui-ci dans la région du lac
 Saint-Louis. Il reste célibataire et on
-perd sa trace à partir de 1689. (NRJ.N. Biraben)
+perd sa trace à partir de 1689. (NRJ.N. BIRABEN)
 
 
 
@@ -2306,7 +2202,7 @@ et de Françoise Denizet. Marié à
 Françoise Saulnier, à Montréal (Qc), le
 05-02-1690. Contrat de mariage le 14-
 12-1689 (greff e Bénigne Basset). Il est
-caporal de Crusol. (NR-J.N. Biraben)
+caporal de Crusol. (NR-J.N. BIRABEN)
 TOURTOIRAC
 (24390)-627 hab.
 Arrondissement de Périgueux (40 km
@@ -2326,7 +2222,7 @@ PAINCHAUD, François. Né vers
 1698. Fils de Jean Painchaud et de
 Marguerite Beauchène. Marié à Marie-
 Catherine Couvert, à Montréal (Qc),
-le 06-10-1732. (NR-J.N. Biraben)
+le 06-10-1732. (NR-J.N. BIRABEN)
 TRÉLISSAC
 (24750)-6627 hab.
 Arrondissement de Périgueux (2 km par
@@ -2347,7 +2243,7 @@ Marié à Marie-Louise Girarda,
 mariage le 29-01-1741 (greff e Jacques
 Pinguet). Ils eurent plusieurs enfants,
 mais il n’y a eu qu’une descendance féminine.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 VANXAINS
 (24600)-820 hab.
 Arrondissement de Périgueux (5 km de
@@ -2364,7 +2260,7 @@ Desforges. Marié à Marie-Josèphe Lecomte
 de Bellegarde, à Montréal (Qc),
 le 11-01-1752. Ils résident à Montréal,
 ils n’eurent qu’un fi ls, François né le
-24-07-1757. (NR-J.N. Biraben)
+24-07-1757. (NR-J.N. BIRABEN)
 VERGT
 (24380)-1 512 hab.
 Arrondissement de Périgueux (20 km par
@@ -2379,7 +2275,7 @@ Marie-Antoinette Franc.
 Marié à Th éodose Roy
 dite Desjardins, à L’Assomption
 (Qc), le 16-05-
-1756. (NR-Généanet)
+1756. (NR-GÉNÉANET)
 VILLAMBLARD
 (24140)-839 hab.
 Arrondissement de Bergerac (25 km par
@@ -2431,7 +2327,7 @@ en Nouvelle-France en 1721 comme
 caporal des troupes de Marine, compagnie
 de Péan. Il décède à Chambly, le
 18-12-1781, à l’âge de 91 ans. C’est un
-arrière petit-fi ls d’Antoine, Pierre Grisé
+arrière petit-fils d’Antoine, Pierre Grisé
 qui vendra des maisons, à Saint-Charles-
 sur-Richelieu, aux arrières petitsfi
 ls de Pierre Chicou-Duvert, Louis le
@@ -2450,7 +2346,7 @@ Carignan-Salières, compagnie de Froment.
 Décédé à Saint-Pierre-de-Sorel
 (Qc), le 01-07-1705. Les descendants
 prendront le patronyme de Laplante.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 CHEVREFILS dit Lalime, François.
 Soldat. Né vers 1643, diocèse de Périgueux.
 Marié à Marie Lamy, fi lle du
@@ -2460,7 +2356,7 @@ France en 1665, comme soldat du régiment
 de Carignan-Salières, compagnie
 de Saint-Ours. Ensuite il est fermier et
 il décède le 18-05-1678, à Saint-Ours.
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 LÉGER, Jean-Michel.
 Né diocèse de
 Périgueux. Fils de Jean
@@ -2469,7 +2365,7 @@ Marié à Marie-Louise Lesage,
 à L’Assomption (Qc).
 Contrat de mariage le 05-02-
 1759 (greff e Jean-Baptiste Daguilhe).
-(NR-J.N. Biraben)
+(NR-J.N. BIRABEN)
 PUYPEROUX dit Lafosse, Antoine.
 Né vers 1680 diocèse de Périgueux.
 Fils de Laurent Puyperoux, marchand
@@ -2481,5 +2377,4 @@ mariage le 18-01-1711 (greff e Michel
 Lepailleur). Sept enfants. 2) Elisabeth
 Morisset, à Cap-Santé (Qc), le 04-11-
 1737. Contrat de mariage le 03-11-
-1737 (greff e Louis Pillard). (NR-J.N.
-Biraben)
+1737 (greff e Louis Pillard). (NR-J.N. BIRABEN)
