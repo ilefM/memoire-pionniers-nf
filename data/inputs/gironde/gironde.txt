@@ -84,7 +84,7 @@ en Nouvelle-France, en 1691. Capitaine
 d’une compagnie des troupes de
 la Marine. (NR-FG-FO)
 BERSON
-(33390)-1547 hab.
+(33390)-1 547 hab.
 Arrondissement et canton de Blaye (7
 km par D251 et D937). Château de
 Boisset : vestiges du château fort médiéval.
@@ -198,8 +198,8 @@ le « vaisseau de Normandie »,
 avec une dot de 200 l. La famille s’établit
 à Sainte-Famille, Ile-d’Orléans. Le
 couple n’a pas d’enfant en Nouvelle-
-France et repasse en France en 1666.
-(NR–FG)
+France et repasse en France en 1666. 
+(NR-FG)
 GONTAULT dit Debled, Charles.
 Baptisé le 07-12-1677, paroisse Saint-
 Romain. Fils de Charles Gontaut dit
@@ -251,7 +251,7 @@ arpents sur 30. Huit enfants. Décédé
 entre 1714 et 1724. Il est l’ancêtre des
 Toussignant, Barabé, Lapointe, Lemay.
 (NR-FO-FG)
-BLESIGNAC
+BLÉSIGNAC
 (33670)-252 hab.
 Canton de Créon. Eglise Saint Roch. A
 proximité : Abbaye de La Sauve-Majeure,
@@ -702,7 +702,7 @@ FAYE, Françoise. Veuve d’Antoine
 Gramail, mariée à Jean Semidon, à
 Louisbourg (N.E), le 27-10-1750.
 (FO)
-FENELON, François. Fils de François
+FÉNELON, François. Fils de François
 Fénelon et d’Anne Casert. Marié à
 Jeanne Richemont, à Miquelon (Saint-
 Pierre-et-Miquelon), le 23-11-1784.
@@ -810,7 +810,7 @@ LAGARDE, Jean. Né vers 1727. Fils
 de Jean Lagarde et Marie Gervais.
 Marié à Marie-Anne Bireau, le 12-11-
 1753. (PRDH)
-LAGUE dit Noël, Pierre. Né 22-04-
+LAGÜE dit Noël, Pierre. Né 22-04-
 1715. Fils de Bernard Lagüe et de
 Françoise Jude. Marié à Marie Tremblay,
 à Petite-Rivière-Saint-François
@@ -855,7 +855,7 @@ LANDREVILLE ou LANDREVIE,
 Jean-Baptiste. Fils de Joseph Landreville
 et de Marie Larche. Marié à Marie-
 Josèphe Rouillard-Larivière, à Québec,
-le 22-04-1748. (PRDH).
+le 22-04-1748. (PRDH)
 LAPELTERIE, Marguerite. Fille de
 Pierre Lapelterie et de Marie-Philippe
 Rousseau. Mariée à Pierre Imbert dit
@@ -1022,7 +1022,7 @@ PISANNE, Nicolas. Navigateur. Né
 le 08-05-1717. Fils de Jean-François,
 maître boulanger, et de Madeleine Jamart.
 Marié à Louise Nel, à Québec, le
-19-04-1751. Trois enfants. (PRDH).
+19-04-1751. Trois enfants. (PRDH)
 POINT, Guillaume. Né le 06-08-
 1736. Fils de Jean Point et de Jeanne
 Barbot. Marié à Hélène Gravel, à Québec
@@ -1034,7 +1034,7 @@ Jeanne Fouquère ou Fouquet. Marié à
 Marie-Josèphe Mailloux-Desmoulins à
 Québec, le 03-11-1725. Deux enfants.
 Décédé à Québec, le 15-09-1727.
-(PRDH).
+(PRDH)
 POUSSARD dit Jolicoeur, Raymond.
 Fils de Nicolas Poussard et de Jeanne
 Rigaud. Marié à Louise Morel, à Québec,
@@ -1179,7 +1179,7 @@ en 1757, il est soldat du régiment
 de Berry, compagnie des canonniers de
 Foulhiac. (NR-FG-FO)
 CANÉJAN
-(33610), 5114 hab.
+(33610)-5114 hab.
 Arrondissement de Bordeaux (12 km,
 au sud de l’agglomération bordelaise).
 Canton de Pessac. Paroisse Saint-Vincent
@@ -1216,7 +1216,7 @@ Chambly (Qc), le 07-01-1732. Sept
 enfants. 2) Catherine Davignon-Beauregard,
 à Chambly (Qc), le 09-08-
 1762. (PRDH)
-CERONS
+CÉRONS
 (33720)-1363 hab.
 Arrondissement de Bordeaux (par N113
 ou A62 sortie Podensac). Eglise Saint-
@@ -1537,7 +1537,7 @@ Sainte-Anne-de-Bellevue (Qc), le 22-
 28-11-1798 (Qc). Arrive en 1756 en
 Nouvelle-France. (NR-FG)
 LES ÉGLISOTTES-ET-CHALAURES
-(33230), 2039 hab.
+(33230)-2039 hab.
 Canton de Coutras. Arrondissement de
 Libourne. La légende nous dit que le
 Prince Noir, malade, aurait été hébergé
@@ -1590,7 +1590,7 @@ Durandeau et de Marguerite Parenteau.
 Quatre enfants. Décédé à l’Hôpital
 Général de Québec, le 14-12-1735.
 (NR-FG-FO)
-GUERARD dit La Rose, Léonard-
+GUÉRARD dit La Rose, Léonard-
 Maurice. Né en 1741. Fils de François-
 Xavier Guérard et de Marie Dupuy.
 Marié à Marie-Marthe Chamberland
@@ -1599,7 +1599,7 @@ ou Chambrelan, à Québec, le 14-02-
 de Guyenne, compagnie Saint-
 Vincent. Tombé au champ d’honneur.
 (NR-FG-PRDH)
-REGNIER dit Le Gascon, Elie. Né
+RÉGNIER dit Le Gascon, Elie. Né
 vers 1696. Fils de Simon Régnier et de
 Marguerite Chevalier. Marié à Marie-
 Ursule Dumareil, à Québec, le 18-09-
@@ -1611,7 +1611,7 @@ Isabeau Regitien. Marié avec Marie-
 Madeleine Hédouin, à Québec, le 08-
 01-1684. Une fi lle. Décédé avant 05-
 1789. (NR-FG-FO)
-SAUVE, Pierre dit Laplante. Né vers
+SAUVÉ, Pierre dit Laplante. Né vers
 1652. Fils de François Sauvé, maître
 tailleur d’habits, et de Marie Malleret.
 Marié à Marie-Renée Michel ou Michaud,
@@ -1635,30 +1635,7 @@ Marie Blanc. Marié à Marie Saunier
 ou Sonnier, à Saint-Martinville (Louisiane),
 le 08-01-1805. Neuf enfants.
 (FG)
-LOUPES
-(33370)-440 hab.
-Arrondissement de Bordeaux. Canton
-de Créon (17 km de Bordeaux par RD
-936, puis route D671, au rond-point Le
-Pavillon). Vignoble AOC « Entre-Deux-
-Mers »
-BIZEUX, BIZUT, BISUS ou GUICHARD
-dit La Rose, Jean-Baptiste.
-Né le 03-03-1667. Fils de Bertrand
-Bisus ou Visus et de Jeanne Dubois.
-Marié à 1) Marie-Madeleine Barsa ou
-Bresa (Marié à la Gaumine, à Verchères
-(Qc), le 27-06-1695, le mariage
-est offi cialisé), à Montréal (Qc), le
-01-07-1696. Marie-Madeleine Barsa
-ou Bresa décède, à Montréal (Qc), le
-19-06-1703. Cinq enfants. 2) Catherine-
-Gertrude Forgues, à Montréal
-(Qc), le 29-10-1703. Contrat de mariage
-(greff e Pierre Raimbault). Quatre
-enfants. Décédé à Beaumont (Qc), le
-10-12-1711. Soldat de la compagnie
-de M. Levasseur. (NR-FG-PRDH)
+
 LUGON ET L’ÎLE-DU-CARNAY
 (33240)-1025 hab.
 Canton de Fronsac, arrondissement de
@@ -1774,7 +1751,7 @@ enfants. Il est toujours vivant lors du
 décès de son épouse, à l’âge de 80
 ans, le 13-03-1753, à Yamaska (Qc).
 (PRDH)
-MERIGNAC
+MÉRIGNAC
 (33700)-61992 hab.
 Arrondissement de Bordeaux. Aéroport
 de Bordeaux. Tour de Veyrines du 14éme
@@ -1811,8 +1788,7 @@ la-Sablonnière. Né vers 1736. Fils
 de Pierre Brenet-Lasablonnière et de
 Jeanne Dupuis. Marié à Marie-Josèphe
 Coursol. Quatre enfants. Décédé
-à Verchères (Qc), avant 1773. (NR–
-FG–PRDH)
+à Verchères (Qc), avant 1773. (NR–FG–PRDH)
 PRIGNAC-ET-MARCAMPS
 (33710)-1315 hab.
 Arrondissement et canton de Lesparre-
@@ -1887,7 +1863,7 @@ Joachim-de-Pointe-Claire (Qc), le
 compagnie du marquis de Crisafy.
 Ancêtre des Charlebois et de certains
 Woods d’Amérique. (NR-FO-FG)
-ETIENNE-PONT dit Lamontagne,
+ÉTIENNE-PONT dit Lamontagne,
 Jean. Né vers 1668. Fils de Jean Estienne
 et de Guillemette Pont. Marié à
 Marie Dessureau(x), à Montréal (Qc),
@@ -2097,7 +2073,7 @@ Dauphine), à Montréal (Qc),
 le 06-07-1722. Quatre enfants. Soldat
 des troupes de la Marine, compagnie
 de Montigny. (NR-FG-FO)
-SAINT-LOUBES
+SAINT-LOUBÈS
 (33450)-7164 hab.
 Arrondissement de Bordeaux. Canton
 de Carbon-Blanc. Plusieurs maisons nobles
@@ -2333,7 +2309,7 @@ de Pierre Neveux et de Jeanne Tarando.
 Marié à Catherine Vinette, à Louisbourg
 (NE), le 15-11-1753. (FG)
 SOULAC
-(33780)-2.819 hab.
+(33780)-2 819 hab.
 Arrondissement de Lesparre-Médoc. Canton
 de Saint-Vivien-de-Médoc. Prieuré
 bénédictin fondé au 10ème siècle par les

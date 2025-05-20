@@ -54,12 +54,19 @@ def extract_characters(characters_text, known_characters, name):
     i = 0
     characters: List[Character] = []
     while i < len(known_characters):
-        name = known_characters[i].split(",")
-        characters.append({
-            "lastname": name[0].strip(),
-            "firstname": name[1].strip(),
-            "bio": extracted_characters[i].strip()
-        })
+        known_char_name = known_characters[i].split(",")
+        if len(known_char_name) > 1:
+            characters.append({
+                "lastname": known_char_name[0].strip(),
+                "firstname": known_char_name[1].strip(),
+                "bio": extracted_characters[i].strip()
+            })
+        else:
+            characters.append({
+                "lastname": known_char_name[0].strip(),
+                "firstname": "",
+                "bio": extracted_characters[i].strip()
+            })
         i += 1
 
     return characters

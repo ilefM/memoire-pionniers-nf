@@ -21,3 +21,29 @@
 ([...] Biraben)
 ([...] Généanet)
 ([...] voir)
+
+# Gironde
+
+- [ ] Ajouter :
+
+`
+Carignan-de-Bordeaux (33360)
+
+BIZEUX, BIZUT, BISUS ou GUICHARD
+dit La Rose, Jean-Baptiste.
+Né le 03-03-1667. Fils de Bertrand
+Bisus ou Visus et de Jeanne Dubois.
+Marié à 1) Marie-Madeleine Barsa ou
+Bresa (Marié à la Gaumine, à Verchères
+(Qc), le 27-06-1695, le mariage
+est officialisé), à Montréal (Qc), le
+01-07-1696. Marie-Madeleine Barsa
+ou Bresa décède, à Montréal (Qc), le
+19-06-1703. Cinq enfants. 2) Catherine-
+Gertrude Forgues, à Montréal
+(Qc), le 29-10-1703. Contrat de mariage
+(greff e Pierre Raimbault). Quatre
+enfants. Décédé à Beaumont (Qc), le
+10-12-1711. Soldat de la compagnie
+de M. Levasseur. (NR-FG-PRDH)
+`

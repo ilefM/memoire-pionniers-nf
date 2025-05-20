@@ -11,7 +11,7 @@
 
 - Aquitaine - Midi-Pyrénées (n2)
 
-  - Dordogne (manque AI) + cleaning references:
+  - Dordogne (AI DONE!) + cleaning references:
     - (Plaque commémorative)
       ([...] Biraben)
       ([...] Généanet)

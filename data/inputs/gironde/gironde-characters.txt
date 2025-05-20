@@ -1,22 +1,21 @@
-AMAN dit Jolicoeur, Pierre - Bordeaux
+AMAND dit Jolicoeur et Limoges, Pierre - Bordeaux
 ARCAND dit Bourdelais, Simon - Sainte-Croix-du-Mont
 ARDILLOS, Jean - Mérignac
 ARDOUIN, François - Coutras
 ARNAUD dit Lainé, Bertrand - Bordeaux
 ARNAUD, Jean - Bordeaux
-ARRAUD, Jacques-Victor - Blaye
 AUDIVERT, Giroud - Labarde
 AUGER dit Laﬂeur de Liborne, Jean - Libourne
-AUPRY DIT Laramée, Louis-Bertrand - Bordeaux
+AUPRY dit Laramée, Louis-Bertrand - Bordeaux
 AYMARD ou HAIMART ou HEMART, Pierre - Blaye
 BAGANARD, François - Bordeaux
 BAIL, Marie-Anne - Bordeaux
 BALANGER ou BÉLANGER, Pierre - Lapouyade
-BARD, Jean - Gardegan-de-Tourtirac
+BARD, Jean - Gardegan-et-Tourtirac
 BARDON, Raymond - Bordeaux
 BARETTE ou Baret dit Laroche, Pierre - Bordeaux
 BAUDOIN ou Beaudoin, Pierre - Bordeaux
-BEAUCERON ou BOUCHERON, - François Saint-Pey-de-Castets
+BEAUCERON ou BOUCHERON, François - Saint-Pey-de-Castets
 BEDET, Jacques - Bordeaux
 BEDOUT, Jean-Antoine - Bordeaux
 BENOIT, Martin - Barsac
@@ -28,13 +27,12 @@ BESSE, Pierre - Lamarque-Médoc
 BIBERON, Antoine - Bordeaux
 BIGOT, François - Bordeaux
 BISTODEAU, Antoine - Saint-Christoly-de-Blaye
-BIZEU BIZUT ou GUICHARD dit LaRose, Jean-Baptiste - Carignan-de-Bordeaux
 BONNEMER, Florent - Bordeaux
 BORDE dit Saint-Surin, Jean - Blésignac
 BOSSU dit Lagrément, Pierre - Bordeaux
 BOUAT ou BOUET, Daniel - Fargues-Saint-Hilaire
 BOUET dit Jolicoeur ou Joly, jean-Charles - Saint-André-du-Bois
-BOURGOIN dit Duverger, Pierre - Bordeaux
+BOURGOUIN dit Duverger, Pierre - Bordeaux
 BOURSEAU ou BROUSSEAU dit Deslauriers-Laboursaudière, Jean - Saint-Christophe-de-Double
 BOUTARD ou BOULARD, Marie - Maransin
 BOUTEILLER, Jacques - Bordeaux
@@ -42,7 +40,7 @@ BRANE dit Bourdelais, Antoine - Bordeaux
 BRISSON ou BUISSON dit Laroche, Sébastien - Bordeaux
 BROUSSE, Jean - Bordeaux
 BRULON, Pierre - Bordeaux
-BUSSIERE dit Laverdure, Jacques - Salleboeuf
+BUSSIÈRE dit Laverdure, Jacques - Salleboeuf
 CALVÉ dit Sainte-Foy, Francis - Sainte-Foy-La-Grande
 CANON ou KANON, Jacques - Blaye
 CANTARA dit Deslauriers, Bernardin - Mazères
@@ -52,14 +50,14 @@ CASSE ou LACASSE dit Saint-Aubin, Jean - Saint-Aubin-de-Blaye
 CASTAING, Antoine - Bordeaux
 CASTAING, Jean - Bordeaux
 CASTANIER, Mathieu - Langoiran
-CASTÈS ou CASTEL ou CASTETS (de), Jérôme - Blaye
+CASTES ou CASTEL ou CASTETS (de), Jérôme - Blaye
 CAZES, Louis - Saint-Paul
 CEDRA, Jean-Baptiste - Bordeaux
 CERTES ou SERRE dit Léveillé, Jean - Berson
 CHARDON, Martial - Bordeaux
 CHATELIER dit Belamour, Jean-Baptiste - Cadillac
 CHAUVEAU, Pierre - Bordeaux
-CHEVALIER dit Navarre, Élie - Les Églisottes et Chalaures
+CHEVALIER dit Navarre, Élie - Les Églisottes-et-Chalaures
 CHEVALIER, François - Bordeaux
 CHEVRET, François - Bordeaux
 CLAVET, Michel - Bazas
@@ -77,7 +75,7 @@ COURRIER dit Bourdelais, Raymond - Bordeaux
 COUTRE ou CONTRET dit Sansoucy, François - Bordeaux
 DABADIE ou LABADIE dit Saint-Pierre, Pierre - Bazas
 DAGUILLE dit Leguille, Jean-Baptiste - Bordeaux
-DASTIGNY-BARRERE, Joseph-Laurent - Bordeaux
+DASTIGNY-BARRÈRE, Joseph-Laurent - Bordeaux
 DELAGE ou DELASSE dit Laﬂeur, Jean puis Pierre - Langon
 DELAIS ou DELAIL ou DELAHAYE, Jean-Baptiste - Cubnezais
 DELICE-BLONDIN, Jean-Baptiste ou Jean-Pierre - Bordeaux
@@ -99,7 +97,6 @@ DUPUIS, Jean - Bordeaux
 DURANDEAU ou DUREAU ou DURON ou DUROS ou DERODU Charles-Pierre-Robert dit Duverger, Robert - Libourne
 DUSANG dit Lagrandeur, Dominique - Bordeaux
 DUTEMPLE, Étienne - Bordeaux
-DUVERGER, Robert - Libourne
 EMERY ou DEMEREY, Louis-Michel - Bordeaux
 ÉTIENNE-PONT dit Lamontagne, Jean - Saint-André-du-Bois
 FAURE, Bernard - Bordeaux
@@ -112,9 +109,9 @@ FRADET, Jean - Marcillac
 GABOURIAU-LAPALME, Jean-Baptiste - Castelmoron-D’Albret
 GALAIS dit LaLiberté, Pierre - Bordeaux
 GASQUETON dit Gaston, Jean - Arcins
-GAUDICHEAU - ou GAUDICHOT dit La France, Jean Coutras
+GAUDICHEAU ou GAUDICHOT dit La France, Jean - Coutras
 GAUDRY, François - Bordeaux
-GAUSSIN dit Saint-Germain, - Jean Saint-Germain-de-la-Rivière
+GAUSSIN dit Saint-Germain, Jean - Saint-Germain-de-la-Rivière
 GAUTHIER, Jean - Bordeaux
 GERVAIS, Pierre - Blaye
 GILLES dit Vadeboncoeur, Jean - Bordeaux
@@ -131,7 +128,7 @@ JAUBERT, Pierre - Saint-Paul
 JOYEAUX ou Joyeux, François - Coutras
 JUNG, Jean - Bordeaux
 L’ESPINACE (de), Jean - Bordeaux
-LABAT-DUBOURG - dit Fontarabie, Mathieu Bourg-sur-Gironde
+LABAT-DUBOURG dit Fontarabie, Mathieu - Bourg-sur-Gironde
 LABORDE, Jean - Bordeaux
 LABORY, Michel - Saint-Sulpice-et-Cameyrac
 LAFARGE Élie - Rions
@@ -140,22 +137,22 @@ LAFITAU, Joseph-François - Bordeaux
 LAFOND, Simon - Saint-Martin-du-Bois
 LAFOREST dit LaBranche, Pierre - Saint-Denis-de-Pile
 LAGARDE, Jean - Bordeaux
-LAGERE, Laurent - Sainte-Croix-du-Mont
+LAGÈRE, Laurent - Sainte-Croix-du-Mont
 LAGÜE dit Noël, Pierre - Bordeaux
-LALONGÉ dit Le Gascon, Pierre-Bertrand - Lugon et l’Ile-du-Carnay
+LALONGÉ dit Le Gascon, Pierre-Bertrand - Lugon et l’Île-du-Carnay
 LAMALETIE, Jean-André - Bordeaux
 LAMARQUE, Jacques - Bordeaux
 LAMOTHE, Pierre - Bordeaux
 LAMOTHE (de), Jean - Bordeaux
 LANDE, Jean - Bordeaux
-LANDERON ou LANDRON, Estienne - Croignon
+LANDRON ou LANDRON, Estienne - Croignon
 LANDREVILLE ou LANDREVIE, Jean-Baptiste - Bordeaux
 LAPELTERIE, Marguerite - Bordeaux
 LAPORTE, Jean-Baptiste - Bordeaux
 LARAIRE ou LARELLE, Catherine - Bordeaux
 LARTIGUE, Guillaume - Bordeaux
 LAURENT dit Jeanjoﬀe, Pierre - Gensac
-LAVAUX ou CLAVEAU, Pierre - Saint-Pierre-des-Monts
+LAVAUX ou CLAVEAU, Pierre - Saint-Pierre-de-Mons
 LAVIGNE, Julien - Bordeaux
 LAVIGNON, Pierre - Lesparre-Médoc
 LEE, Thomas - Bordeaux
@@ -165,7 +162,7 @@ LESTRANGE, Antoine - Blaye
 LETANG ou LETANT dit Champagne, Pierre - Blasimon
 LIMOUSIN dit Sanschagrin, Alexis - Bordeaux
 LIQUART, Jean-Baptiste - Bordeaux
-LISSERASSE (de), Suzanne - Canéjean
+LISSERASSE (de), Suzanne - Canéjan
 LUSSAC, Jean-Baptiste - Bordeaux
 MADRAC, Denis - Quinsac
 MAIGRE ou MAIGRET dit Beausoleil, René - Bossugan
@@ -182,7 +179,7 @@ MOREAU, Louis - Fronsac
 MORPAIN, Pierre - Blaye
 MOURSIN ou MANSEAU dit Lajoye, Élie - Bordeaux
 NADEAU dit Bélair, Joseph - Saint-Paul
-NÉRON, Jean - Bordeaux
+NERON, Jean - Bordeaux
 NEVEUX, Pierre - Salles
 NICOLAS, Guillaume - Saint-Louis-de-Montferrand
 NORMAND dit Jolicœur, Pierre - Saint-Palais
@@ -194,7 +191,7 @@ PERRONELLE, Antoine - Bordeaux
 PEYROT ou PERROT ou PERRAULT, Bernard - Izon
 PHOCAS (de) dit Raymond, Romain - Saint-Pierre-de-Mons
 PISANNE, Nicolas - Bordeaux
-PLASSANT, Pierre - Beaurech
+PLASSANT, Pierre - Baurech
 POINT, Guillaume - Bordeaux
 PONS ou Poncet-Mery, Jean - Bordeaux
 PORTIER dit Pouillac, Pierre - Pauillac
@@ -203,7 +200,7 @@ RAYMOND, Raymond - Bordeaux
 RAZA dit Gascon-Rangeard, Pierre - Saint-Estèphe
 RÉGNIER dit Le Gascon, Élie - Libourne
 RENAUDET, Joseph-Jean-Baptiste - Bordeaux
-RIVIERE, Jean - Béguey
+RIVIÈRE, Jean - Béguey
 ROCHEREAU dit Lespérance, Jean-Baptiste - Bordeaux
 RODIN, Laurent - Bordeaux
 ROY, Jacques - Bordeaux
