@@ -33,7 +33,8 @@ def is_town_name(currentLine: str, nextLine: str):
     cleaned = currentLine.replace('-', '').replace(' ', '')
     townStatsPattern1 = r'^\(\d{5}\)-(\d+( \d+)*) hab\.$'
     townStatsPattern2 = r'^\(\d+\D+\)-(\d+( \d+)*) hab\.$'
-    return cleaned.isupper() and (bool(re.match(townStatsPattern1, nextLine)) or bool(re.match(townStatsPattern2, nextLine)))
+    townStatsPattern3 = r'^\(\d{5}\) - (\d+( \d+)*) hab\.$'
+    return cleaned.isupper() and (bool(re.match(townStatsPattern1, nextLine)) or bool(re.match(townStatsPattern2, nextLine)) or bool(re.match(townStatsPattern3, nextLine)))
 
 def extract_towns(data_lines, characters_index):
     towns_texts = []

@@ -6,7 +6,9 @@ from characters import Character, extract_characters
 from towns import Town, extract_towns
 from mistral import extract_information_bio
 
-DEPARTMENT = "gironde"
+# En attente de AI: gironde, landes, lot-et-garonne, pyrenees-atlantiques, ariege, aveyron, haute-garonne, gers, lot
+
+DEPARTMENT = "hautes-pyrenees"
 
 def read_file(department):
     dataLines = []
