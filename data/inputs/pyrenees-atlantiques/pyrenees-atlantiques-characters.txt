@@ -10,7 +10,7 @@ BERALDE, Guillaume - Ciboure
 BERINDOUAGUE, Jean - Bayonne
 BERNESCHE, Jean-Baptiste - Saint-Martin-d’Arrossa
 BIDAGAN, Martin - Masparraute
-BIDEGARE, Pierre - Hasparrens
+BIDEGARÉ, Pierre - Hasparren
 BLAISE DES BERGHERES DE RIGAUVILLE, Nicolas - Saint-Jean-Pied-de-Port
 CAPDEVIELLE, Bernard - Morlaàs
 CAPDEVIELLE ou DEKADEVIELLE, Bernard - Morlanne
@@ -20,21 +20,17 @@ CARREROT, Pierre - Bayonne
 CARSI dit Laviolette, François - Saint-Jammes
 CASAUBON, Martin - Saint-Jean-de-Luz
 CASSANO, Martin - Bayonne
-CASSO ou CASEAU, Jean - Lieux inconnus
 CATALOGNE (de), Gédéon - Arthez-de-Béarn
 CAVELIER dit Le Basque, Jean-Baptiste - Gotein-Libarrenx
 CAZEAU ou BACON dit Cazeau, Jean - Issor
 CAZELIER, Félix-Philippe - Saint-Girons
-CHABOT, Joseph - Lieux inconnus
 CHAILLOU, Jeanne - Bayonne
 CHAPEDOS, Johan - Saint-Étienne-de-Baïgorry
 CHARLESTEGUY, Pierre - Isturits
 CHENNEQUI, Martin - Saint-Pierre-d’Irube
 CHEVELARI ou CHEVELART, Joannis - Hasparren
 CHEVERY, Jean-Baptiste - Bayonne
-CHEVERY, Pierre - Bidart
 CLAVERIE, Pierre - Susmiou
-COURNALE, Jean - Hardies
 DACCARETTE, Michel - Hendaye
 DACCARETTE dit Jean, Joannis - Hendaye
 DADAUPE, Dominique - Mauléon-Lichare
@@ -62,7 +58,6 @@ DESCLOS, Dominique - Ciboure
 DESMOLIERS, Jacques - Lourenties
 DESNOYER, François - Lescar
 DESNOYERS, Jean-Baptiste - Navarrenx
-DESPILLES, Arnault - Lieux inconnus
 DESSENI, François - Urrugne
 DETCHEPARE, Martin - Guétary
 DETCHEVERY, Arnaud - Labastide-Clairence
@@ -113,7 +108,6 @@ GUILSON ou GUICHON, Jean - Saint-Jean-de-Luz
 GUILXOU ou GUILSON, Jean - Saint-Jean-de-Luz
 GUIROUFLET, Pierre - Maslacq
 HARDOUIN ou HARDOIS, Jean - Cambo-les-Bains
-HARIXAGUE, Pierre - Lieux inconnus
 HORQUELLAR (de), Estéban - Guétary
 HYACINTHE dit Bellerose, Joseph - Nay
 IMBERT, Bertrand - Bayonne
@@ -121,7 +115,6 @@ JOREQUIBERY (de), Raymond - Domezain-Berraute
 LABORDE dit Biernais, Jacques - Dognen
 LABORDE, Jean - Bidart
 LABY, Joannis - Saint-Jean-de-Luz
-LACOMMANDE, Antoine - Saint-Nalin
 LACROIX dit Caniche, Jean - Bayonne
 LAFARGUE (de), Joannis ou Jean - Saint-Jean-de-Luz
 LAFITTE, Bernard - Morlaàs
@@ -131,7 +124,7 @@ LALANDE DE GAYON (de), Jacques - Bayonne
 LALANDE DE GAYON (de), Pierre - Bayonne
 LANNELONGUE, Jean-Baptiste - Bayonne
 LARALDE, Pierre - Saint-Jean-de-Luz
-LARIEU, Gatien - Hasparrens
+LARIEU, Gatien - Hasparren
 LASALLE dit Le Basque, Jean - Briscous
 LASSALLE, Jean-Baptiste - Issor
 LASCORET, Jean-Baptiste - Bayonne
@@ -148,7 +141,7 @@ LIMBE dit Larose, Pierre - Lescar
 LOURTEIG, Pierre - Arthez-de-Béarn
 LOUSTALET, Jean - Bastanes
 LOYARD, Jean-Baptiste - Pau
-LUXERERIA (de), Sabenne ou Sabine - Saint-Etienne-de-Baïgorry
+LUXERERIA (de), Sabenne ou Sabine - Saint-Étienne-de-Baïgorry
 MAISONNEUVE, Jean-Baptiste - Bayonne
 MARGUERIE ou MALGERIE, Jean - Hendaye
 MARTEL, Pierre-Gratien - Labastide-Clairence
@@ -162,7 +155,6 @@ MONIC-D’HAUTVONET (de), Joseph - Oloron-Sainte-Marie
 NOGUES, Antoine - Bayonne
 OSTIGUI, Dominique - Arcangues
 PARENT, Jean - Saint-Jean-de-Luz
-PHILIPPE, Bernard - Saint-François
 PINZÈZE, Jean-Noël - Bayonne
 POIRIER, Jean - Pau
 PORTNEUF, Pierre - Oloron-Sainte-Marie

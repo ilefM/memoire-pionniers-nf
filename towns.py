@@ -34,7 +34,11 @@ def is_town_name(currentLine: str, nextLine: str):
     townStatsPattern1 = r'^\(\d{5}\)-(\d+( \d+)*) hab\.$'
     townStatsPattern2 = r'^\(\d+\D+\)-(\d+( \d+)*) hab\.$'
     townStatsPattern3 = r'^\(\d{5}\) - (\d+( \d+)*) hab\.$'
-    return cleaned.isupper() and (bool(re.match(townStatsPattern1, nextLine)) or bool(re.match(townStatsPattern2, nextLine)) or bool(re.match(townStatsPattern3, nextLine)))
+    townStatsPattern4 = r'^\(\d{5}\), (\d+( \d+)*) hab\.$'
+    townStatsPattern5 = r'^\(\d{5}\), (\d+( \d+)*) [\w\-\'\s]+\.$'
+    townStatsPattern6 = r'^\(\d{5}\) - (\d+( \d+)*) [\w\-\'\s]+\.$'
+    townStatsPattern7 = r'^\(\d{5}\) – (\d+( \d+)*) hab\.$'
+    return cleaned.isupper() and (bool(re.match(townStatsPattern1, nextLine)) or bool(re.match(townStatsPattern2, nextLine)) or bool(re.match(townStatsPattern3, nextLine)) or bool(re.match(townStatsPattern4, nextLine)) or bool(re.match(townStatsPattern5, nextLine)) or bool(re.match(townStatsPattern6, nextLine)) or bool(re.match(townStatsPattern7, nextLine)))
 
 def extract_towns(data_lines, characters_index):
     towns_texts = []
@@ -51,8 +55,17 @@ def extract_towns(data_lines, characters_index):
     towns: List[Town] = []
     for town in towns_texts:
         name = town[0]
-        postal_code = town[1].split("-")[0].replace("(", "").replace(")", "").replace(" ", "")
-        population = town[1].split("-")[1]
+        if "," in town[1]:
+            postal_code = town[1].split(",")[0].replace("(", "").replace(")", "").replace(" ", "")
+            population = town[1].split(",")[1].strip()
+        elif "-" in town[1]:
+            postal_code = town[1].split("-")[0].replace("(", "").replace(")", "").replace(" ", "")
+            population = town[1].split("-")[1]
+
+        else:
+            postal_code = town[1].split("–")[0].replace("(", "").replace(")", "").replace(" ", "")
+            population = town[1].split("–")[1]
+
         description = ""
         current_town_characters = get_characters_of_town(name, characters_index)
         if len(current_town_characters) == 0:

@@ -6,7 +6,7 @@ from characters import Character
 
 
 # Read the Excel file into a pandas DataFrame
-df = pd.read_excel("./perche-characters.xlsx", sheet_name=0)
+df = pd.read_excel("./vienne-more-characters.xlsx", sheet_name=0)
 
 # Convert each row to a dictionary and collect them in a list
 objects_list = []
@@ -18,11 +18,12 @@ for _, row in df.iterrows():
 characters: List[Character] = []
 for obj in objects_list:
         characters.append({
-                "lastname": obj["Patronyme"],
+                "lastname": obj["NOM"],
                 "firstname": obj["Prénom"],
-                "birthplace": obj["Lieu-1"],
-                "deathplace": obj["lieu-3"],
+                "birthplace": obj["Lieu baptème"],
+                "deathplace": obj["Lieu décès ou inhumation"],
+                "bio": obj ["Biographie CFQLMC + FO + CIEQ"]
         })
 
-with open(f"./data/outputs/perche-characters.json", "w", encoding="utf-8") as f:
+with open(f"./data/outputs/vienne-more-characters.json", "w", encoding="utf-8") as f:
     json.dump(characters, f, indent=4, ensure_ascii=False)

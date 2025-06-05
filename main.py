@@ -6,9 +6,17 @@ from characters import Character, extract_characters
 from towns import Town, extract_towns
 from mistral import extract_information_bio
 
-# En attente de AI: gironde, landes, lot-et-garonne, pyrenees-atlantiques, ariege, aveyron, haute-garonne, gers, lot
+# En attente de AI seulement 2: gironde, landes, lot-et-garonne, pyrenees-atlantiques, ariege, aveyron, haute-garonne, gers, lot, hautes-pyrenees, tarn, tarn-et-garonne
 
-DEPARTMENT = "hautes-pyrenees"
+# En attente de AI 9: alpes-haute-provence, hautes-alpes, alpes-maritimes, bouches-du-rhone, var, vaucluse, aude, gard, herault, lazere, pyrenees-orientales
+
+# En attente de AI 3: calvados, manche, orne, eure, seine-maritime,
+
+# En attente de AI 10: loire-atlantique, maine-et-loire, mayenne, sarthe, vendee 
+
+# En attente de AI 12: ain, ardeche, drome, isere
+
+DEPARTMENT = "isere"
 
 def read_file(department):
     dataLines = []
@@ -24,7 +32,7 @@ def read_characters_file(department):
     with open(f"./data/inputs/{department}/{department}-characters.txt", 'r', encoding="utf-8-sig") as file:
         for line in file:
             character_name, town = line.strip().split(" - ", 1)
-            characters.append((character_name.strip(), town.strip()))
+            characters.append((character_name.strip(), town.split(",")[0].strip()))
             
     return characters
 
