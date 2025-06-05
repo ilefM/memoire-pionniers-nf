@@ -19,23 +19,23 @@
         "lastname": "AUMAITRE ou OMAITRE ou HOMET dit Saint-Pierre",
         "firstname": "Pierre",
         "bio": "AUMAITRE ou OMAITRE ou HOMET dit Saint-Pierre, Pierre. Soldat. Fils de Géraud ou Girard Omaitre et de Marie-Antoinette Conte ou Lecompte. Marié à 1) Marie-Anne Paquet, à Québec, le 16-03-1757.Un enfant. 2) Marie-Josèphe Chamberlan, à Québec, le 19-11-1764. Contrat de mariage le 06-11-1764 (greff e Michel Lapailleur). Soldat du régiment de Guyenne, compagnie de Saint-Vincent. (NR-J.N. BIRABEN)",
-        "birthplace": "",
-        "deathplace": "",
+        "birthplace": "Non spécifié",
+        "deathplace": "Non spécifié",
         "mainplace": "SAINT-RABIER (24210)"
     },
     {
         "lastname": "BALAN dit Lacombe",
         "firstname": "Pierre",
         "bio": "BALAN dit Lacombe, Pierre. Né vers 1645. Fils de Pierre Balan et de Perrine Courier. Marié à Renée Biret, à Notre-Dame de Québec, le 09-06-1672. Ils eurent neuf enfants d’où encore aujourd’hui une nombreuse descendance au Québec qui porte le patronyme de Lacombe. Soldat au régiment de Carignan, compagnie La Brisardière. (NR-J.N. BIRABEN)",
-        "birthplace": "",
-        "deathplace": "",
+        "birthplace": "Inconnu",
+        "deathplace": "Inconnu",
         "mainplace": "CANTILLAC (24530)"
     },
     {
         "lastname": "BARBARY dit Grandmaison",
         "firstname": "Pierre",
         "bio": "BARBARY dit Grandmaison, Pierre. Né en 1651. Fils de Pierre Barbary et de Marguerite Beloy. Marié à Marie Lebrun, à Montréal (Qc), le 24-02-1668. Contrat de mariage le 02-02-1668 (greff e Bénigne Basset). Dix enfants. Il s’engage dans le régiment de Carignan-Salière, compagnie de Contrecoeur et arrive à Montréal le 27-08-1665. Ils résident à la Pécaudière et à Lachine (Qc). C’est là que, dans la nuit du 4 au 5-08-1689, durant une tempête de neige et de grêle, alors que les habitants de Lachine étaient dans un profond sommeil, ils furent attaqués par les Iroquois et que s’en suivit un eff royable carnage. Pierre Barbary, son épouse, huit de leurs dix enfants ainsi que son gendre, périrent brûlés et torturés. Environ 200 personnes périrent cette nuit là, à Lachine. La descendance ne fut assurée que par un fi ls et une fi lle. (NR-J.N. BIRABEN)",
-        "birthplace": "Données inconnues",
+        "birthplace": "Non spécifié",
         "deathplace": "Lachine (Qc)",
         "mainplace": "THIVIERS (24380)"
     },
@@ -51,7 +51,7 @@
         "lastname": "BAZINET dit Tourblanche",
         "firstname": "Antoine",
         "bio": "BAZINET dit Tourblanche, Antoine. Soldat. Né vers 1649, paroisse St-Antoine. Fils de Jean Bazinet, laboureur, et de Marguerite Ausaut ou Dussaut. Marié à Françoise Janot, à Montréal (Qc), le 05-08-1674. Contrat de mariage le 05-08-1674 (greff e Bénigne Basset). Neuf enfants, et une nombreuse descendance. Il arrive en Nouvelle-France comme soldat, avec le régiment de Carignan-Salières, compagnie de La Motte. Après sa démobilisation, il pratique la traite des fourrures avec les « pays d’en haut », même sans autorisation ce qui lui vaut quelques remontrances de la part du Conseil Souverain. Cependant il n’en tient pas compte et poursuit ce commerce. Il décède à Pointe-aux-Trembles (Qc), le 24-06-1729. (NR-J.N. BIRABEN)",
-        "birthplace": "paroisse St-Antoine",
+        "birthplace": "St-Antoine",
         "deathplace": "Pointe-aux-Trembles (Qc)",
         "mainplace": "LA TOUR-BLANCHE (24320)"
     },
@@ -76,15 +76,15 @@
         "firstname": "Jean",
         "bio": "BELLET dit Gazaille, Jean. Né le 13-09-1643, paroisse Saint-Hilaire. Fils de Pierre Gazaille dit Bellet et de Françoise Reparat-Jardinier. Jean est le troisième enfant d’une famille de quatre. Marié à Jeanne Bouveau ou Beauveau, à Saint-Ours, (Qc), vers 1674. Contrat de mariage le 16-04-1674 (greff e Antoine Adhémar). Neuf enfants, d’ou une nombreuse descendance. Jean arrive en Nouvelle-France, comme soldat avec le régiment de Carignan-Salières. Il sera tour à tour, soldat et cultivateur. Une de ses fi lles se marie avec François Deguire dit Larose, natif de Th iviers en Dordogne. Décédé à Contrecoeur (Qc), le 17-08-1722. Encore de nombreux Bellet vivent dans les régions de Montégérie et des Cantons de l’Est. (AD24-ANQ)",
         "birthplace": "Saint-Hilaire",
-        "deathplace": "Contrecoeur",
+        "deathplace": "Contrecoeur (Qc)",
         "mainplace": "SARRAZAC (24800)"
     },
     {
         "lastname": "BENOIT",
         "firstname": "Anne",
         "bio": "BENOIT, Anne. Fille de Jean Benoit et de Jeanne-Marie Périer. Elle devait épouser Louis Cussac qui devait arriver de France. Mais il n’est jamais venu au Canada. Marié à Antoine-Joseph Delbard dit Saint-Antoine, à Québec, le 11-01-1751. Contrat de mariage le 10-01-17 (greff e Claude Barolet). (NR)",
-        "birthplace": "",
-        "deathplace": "",
+        "birthplace": "Non spécifié",
+        "deathplace": "Québec",
         "mainplace": "SAINT-AULAYE (24410)"
     },
     {
@@ -107,7 +107,7 @@
         "lastname": "BOURGEOIS dit Laverdure",
         "firstname": "Antoine",
         "bio": "BOURGEOIS dit Laverdure, Antoine. Soldat. Né vers 1663, paroisse de la Limougeanne. Fils de Pierre Bourgeois, marchand, maquignon, et de Marguerite Lalane. Marié à Catherine Marquet, à La Duranthaye (Qc). Contrat de mariage le 24-04-1697 (greff e Louis Chambalon). Soldat de la compagnie de Lavallière. (NR-ANQ)",
-        "birthplace": "paroisse de la Limougeanne",
+        "birthplace": "La Limougeanne",
         "deathplace": "",
         "mainplace": "PÉRIGUEUX (24000)"
     },
@@ -147,16 +147,16 @@
         "lastname": "BUY dit Lavergne",
         "firstname": "Laurent",
         "bio": "BUY dit Lavergne, Laurent. Né vers 1641. Fils de Pierre Buy et de Françoise (nom inconnu). Marié à Anthoine Denise, fi lle du Roy, à Champlain (Qc), le 11-10-1670. Contrat de mariage (greff e Larue). Il arrive en Nouvelle-France comme sergent du régiment de Carignan-Salières, compagnie de Saint-Ours. Après son décès, son épouse se remarie, avec un soldat de la même compagnie, Mathurin Banlier dit Laperle. (NR-J.N. BIRABEN)",
-        "birthplace": "",
-        "deathplace": "",
+        "birthplace": "Valeur vide",
+        "deathplace": "Valeur vide",
         "mainplace": "SAINT-JEAN-DE-CÔLE (24800)"
     },
     {
         "lastname": "CALAIS ou CALÉS",
         "firstname": "Charles",
         "bio": "CALAIS ou CALÉS, Charles. Né vers 1669, paroisse Saint-Jean. Fils de Charles Calais et de Marie-Catherine (patronyme inconnu). Marié à Marie-Françoise Massard, à Québec, le 20-04-1699. Deux enfants morts en bas âge. Charles décède le 17-01-1703, à l’Hôtel-Dieu de Québec à l’âge de 34 ans. Il est issu d’une famille de meuniers. L’un des moulins familiaux et la maison d’origine sont encore en état. Il part en Nouvelle-France comme soldat de la compagnie de Lavallière. Ses descendants en Périgord ont été Maires de la Commune sur plusieurs générations. Plaque commémorative façade église Saint-Jean. (ANQ-GÉNÉANET)",
-        "birthplace": "Paroisse Saint-Jean",
-        "deathplace": "Hôtel-Dieu de Québec",
+        "birthplace": "Saint-Jean",
+        "deathplace": "Québec, l’Hôtel-Dieu de Québec",
         "mainplace": "BIGAROQUE (24220)"
     },
     {
@@ -171,7 +171,7 @@
         "lastname": "CHAMPOUX dit Jolicoeur",
         "firstname": "Pierre",
         "bio": "CHAMPOUX dit Jolicoeur, Pierre. Né en 1649. Fils d’André Champoux et de Marie Lavaud de la paroisse Saint-Germain d’Eymet. Il était protestant et avait émigré en Nouvelle-France pour cette raison. Mais la situation des protestants était si précaire, qu’ils étaient forcés de rejoindre les rangs des catholiques. Par conséquent, c’est avec une certaine fi erté, que le missionnaire itinérant, Claude Moireau, alors vicaire à Trois-Rivières, reçu l’acte solennel d’abjuration de Pierre Champoux. On ne sait pas si sa conversion fut sincère ou forcée. Pierre Champoux semble avoir parfaitement intégré les communautés de Trois-Rivières et de Bécancourt (Qc). Son acte d’abjuration du 06-08-1672 est le plus vieux document attestant de sa présence en Nouvelle-France. On ne sait pas s’il a traversé l’Atlantique cette année là ou plus tôt. Pierre avait 25 ans et était probablement employé par la famille Godefroy de Lintot, pour tous les travaux nécessaires dans ce nouveau pays. Le 13-09-1676, Michel Godefroy de Lintot, lui concède devant notaire (Séverin Ameau), trois arpents de front sur un quart de lieue de profondeur dans sa seigneurie au chenal de la rivière Saint-Michel. C’est à Trois-Rivières, qu’il va épouser, le 10-01-1679, Geneviève Guillet-Lajeunesse, née le 28-08-1679, fi lle de Pierre Guillet-Lajeunesse et de Jeanne Saint-Pierre. De leur union naîtra sept enfants. Le 15-11-1679, le marchand Pierre Bou-langer du cap, lui loue pour trois ans, une vache laitière moyennant 20 livres tournois par an. Ce même marchand lui a prêté en marchandises la valeur de 336 livres et 2 sols, ce qu’il reconnaît par une obligation du 20-06-1682. Au recensement de 1681, il habite, sur sa terre de la seigneurie Lintot et possède un fusil et cinq arpents de terre en valeur. Il s’intéresse à la traite des fourrures et le 14-05-1685, emprunte 350 livres de marchandises à Nicolas Perrot. N’étant pas en mesure de rembourser cette dette, il emprunte 465 livres et 18 sols le 21-05-1689 à François Chorel de Saint-Romain et fait transport de cette somme à Nicolas Perrot. Louis Tetreau, du fi ef Marsolet, lui loue pour trois ans, à raison de dix-huit minots de blé et dix minots de pois par année, six arpents de terre, au fi ef Marsolet, et quinze arpents au fi ef appelé Désert brûlé. Il résilie ce bail le 03-05-1692. Il est dans de mauvais drap, suite à ses emprunts : doit de l’argent au marchand Pierre Boulanger et à François Chorel de Saint-Romain. Dans le but de se faire rembourser les 336 livres et 2 sols qu’il lui doit depuis 1679, Pierre Boulanger fait saisir cette somme le 23-08-1689, des mains de Nicolas Perrot. François Chorel de Saint-Romain fait opposition à cette saisie, puisqu’il lui doit 465 livres et 18 sols. Le juge oblige Nicolas Perrot à remettre 350 livres à Chorel en déduction de la somme que Champoux lui a emprunté et Pierre Boulanger en est quitte à le poursuivre de nouveau, lui qui est insolvable. Le 19-06-1698, son épouse donne quittance à Louis Provencher de la somme de 41 livres et 16 sols qui lui revient de la succession de sa mère. On ignore la date précise du décès de Pierre Champoux, mais le 11-02-1703, sa veuve renonce et pour cause à la succession. Elle fait requête le 29-09-1704, pour que l’on procède à l’inventaire des biens qui a lieu le lendemain. Il laisse des dettes évaluées à 474 livres. Sa veuve épouse en seconde noces Jacques Bardin. Elle décède en 1741. On sait que son père Pierre Guilet-Lajeunesse et sa mère Jeanne Saint-Pierre était une famille les plus en vue de la région de Trois-Rivières. (NR-GÉNÉANET). (PLAQUE COMMÉMORATIVE)",
-        "birthplace": "Eymet, France",
+        "birthplace": "Eymet",
         "deathplace": "",
         "mainplace": "EYMET (24500)"
     },
@@ -180,14 +180,14 @@
         "firstname": "Pierre",
         "bio": "CHANTAL dit Lafleur, Pierre. Né vers 1667, au Faubourg de la Madeleine. Fils de Jean Chantal et de Louise Chor. On le retrouve en 1663 dans les troupes de Marine, compagnie de St-Jean, au Québec. Marié à Marie-Angélique Martin, à Saint-Pierre, Ile-d’Orléans (Qc), le 12-01-1696. Ils eurent une nombreuse famille. Pierre Chantal décède en 1707, à l’âge de 40 ans. Son épouse Marie-Angélique Martin se remarie, le 26 novembre 1710, à Pierre Chatigny dit Lépine, natif de Bézenac Dordogne. Un « pays » de son ex-mari. Elle avait 80 ans à son décès. (DGFC-ANQ). (PLAQUE COMMÉMORATIVE)",
         "birthplace": "Faubourg de la Madeleine",
-        "deathplace": "Non spécifié",
+        "deathplace": "Québec",
         "mainplace": "BERGERAC (24100)"
     },
     {
         "lastname": "CHASTENAY ou CHATENET dit Laguigne",
         "firstname": "Jean",
         "bio": "CHASTENAY ou CHATENET dit Laguine, Jean. Né vers 1644. Fils de Jean Châtenay et d’Antoinette Chastenay. Marié à 1) Jeanne Favard, à Batiscan (Qc) le 30-05-1689. Contrat de mariage le 29-05-1689 (greff e Charles Lesieur). Elle décède avant 1695. Sans enfant. 2) Marie-Angélique Laverdure, à Lothbinière (Qc), après 1695. Trois enfants. Il arrive en Nouvelle-France le 14-09-1665, il est soldat au régiment Carignan-Salières dans la compagnie de Saint-Ours. Décédé à l’Hôtel-Dieu de Québec, le 20-07-1707. (NR-J.N. BIRABEN)",
-        "birthplace": "Inconnu",
+        "birthplace": "",
         "deathplace": "Hôtel-Dieu de Québec",
         "mainplace": "SARLANDE (24270)"
     },
@@ -195,8 +195,8 @@
         "lastname": "CHATIGNON dit Lacouture",
         "firstname": "Philippe",
         "bio": "CHATIGNON dit Lacouture, Philippe. Né vers 1702. Fils de Léger Châtignon et de Jeanne Cavillac. Marié à Marie-Louise Girarda, à Québec, le 30-01-1741. Contrat de mariage le 29-01-1741 (greff e Jacques Pinguet). Ils eurent plusieurs enfants, mais il n’y a eu qu’une descendance féminine. (NR-J.N. BIRABEN)",
-        "birthplace": "Inconnu",
-        "deathplace": "Inconnu",
+        "birthplace": "",
+        "deathplace": "",
         "mainplace": "TRÉLISSAC (24750)"
     },
     {
@@ -211,8 +211,8 @@
         "lastname": "CHAUSSÉ dit Lemaine",
         "firstname": "Pierre",
         "bio": "CHAUSSÉ dit Lemaine, Pierre. Né vers 1651. Fils de Pierre Chaussé Lemaine et de Catherine Grola-Gauthier ou Groussa. Marié à Marie-Madeleine Sel, à l’Islet (Qc), le 24-08-1681. Contrat de mariage le 03-08-1681 (greff e Pierre Duquet). Plusieurs enfants. (NRJ.N. BIRABEN)",
-        "birthplace": "",
-        "deathplace": "",
+        "birthplace": "Aucune information spécifiée",
+        "deathplace": "Aucune information spécifiée",
         "mainplace": "MIALET (24450)"
     },
     {
@@ -220,14 +220,14 @@
         "firstname": "Pierre",
         "bio": "CHAVAUTEAU, Pierre. Marié à Anne-Marguerite Clergeau, à Kaskaskia (Qc), le 15-06-1723. On ne leurs connaît pas de descendance. (NR)",
         "birthplace": "",
-        "deathplace": "Kaskaskia (Qc)",
+        "deathplace": "",
         "mainplace": "DOUCHAPT (24350)"
     },
     {
         "lastname": "CHEVALIER dit Marquet-Périgord",
         "firstname": "François",
         "bio": "CHEVALIER dit Marquet-Périgord, François. Meunier. Né vers 1674. Fils de François Chevalier-Périgord et de Marie Daine-Bariton. Marié à Marie-Louise Galarneau, à Québec, le 26-04-1706. Ils auront plusieurs enfants dont une fi lle qui épousera le 28-07-1707 François Dupuis fi ls de Jean-François Dupuis de St-Astier, Dordogne. Inhumé à Trois-Rivières (Qc), le 25-04-1754. Il sera successivement, pionnier et habitant. (NR-J.N. BIRABEN)",
-        "birthplace": "Valeur introuvable",
+        "birthplace": "Non spécifié",
         "deathplace": "Trois-Rivières (Qc)",
         "mainplace": "LA CHAPELLE-GONAGUET (24350)"
     },
@@ -235,8 +235,8 @@
         "lastname": "CHICOU dit Duvert",
         "firstname": "Pierre",
         "bio": "CHICOU dit Duvert, Pierre. Né le 26-02-1746. Fils de Louis Chicou, Sieur du Vert, et de Marie Gontier, habitant le lieu des Grimas. Il descend d’une famille ancienne, de Clermont en Auvergne. Marié à 1) Marie-Madeleine Côté, à Montmagny (Qc), le 27-09-1779. Contrat de mariage le 14-09-1779 (greff e François Dominique Rousseau). 2) Catherine Lee, à Québec, le 05-03-1810. Ils eurent plusieurs enfants qui prirent les patronymes de Chicou et aussi de Duvert. Il décède le 28-06-1813 à St-Charles-sur-Richelieu (Qc), à l’âge de 67 ans. Et c’est ainsi que l’on peut encore, actuellement, voir à St-Charles-sur-Richelieu, la maison Chicou-Duvert, sa construction remonte aux environs de 1810. Deux frère Duvert y exerçaient l’un la médecine, l’autre le notariat. Cette maison existe toujours et a été vendue à l’arrière petit-fi ls de Pierre Chicou-Duvert, par Pierre Grisé descendant d’Antoine Grisé, natif de Villefranchedu-Périgord, Dordogne. (NR)",
-        "birthplace": "le lieu des Grimas",
-        "deathplace": "St-Charles-sur-Richelieu (Qc)",
+        "birthplace": "Grimas",
+        "deathplace": "St-Charles-sur-Richelieu",
         "mainplace": "SAINT-MARCEL-DU-PÉRIGORD (24510)"
     },
     {
@@ -259,8 +259,8 @@
         "lastname": "DELAGE",
         "firstname": "Hugues",
         "bio": "DELAGE, Hugues. Né en 1723. Fils de Sicard Delage et de Péronne Beaune. Marié à Th érèse Régnier, à Montréal (Qc), le 06-09-1745. Contrat de mariage le 05-09-1745 (greff e François Simounet). (NR-J.N. BIRABEN)",
-        "birthplace": "Inconnu",
-        "deathplace": "Inconnu",
+        "birthplace": "Valeur manquante",
+        "deathplace": "Valeur manquante",
         "mainplace": "BELEYMAS (24310)"
     },
     {
@@ -291,8 +291,8 @@
         "lastname": "DELUCY",
         "firstname": "Jean",
         "bio": "DELUCY, Jean. Né vers 1726. Fils de Léonard Delucy et de Françoise Desforges. Marié à Marie-Josèphe Lecomte de Bellegarde, à Montréal (Qc), le 11-01-1752. Ils résident à Montréal, ils n’eurent qu’un fi ls, François né le 24-07-1757. (NR-J.N. BIRABEN)",
-        "birthplace": "Non spécifié",
-        "deathplace": "Non spécifié",
+        "birthplace": "",
+        "deathplace": "",
         "mainplace": "VANXAINS (24600)"
     },
     {
@@ -316,7 +316,7 @@
         "firstname": "Pierre",
         "bio": "DEXTRA dit Lavigne, Pierre. Né le 01-11-1642. Fils de Jean Dextra et de Marguerite Lacos ou Lescault. Deux frères et une soeur sont comme lui baptisés à la paroisse Saint-Hilaire. Marié à Jeanne Gazaille (fi lle de son « pays » Jean Gazaille dit Saint-Germain). Contrat de mariage à Saint-Ours le 18-12-1685 (greff e Clément Ménard). Comme ses autres compagnons, il part en Nouvelle-France avec le régiment de Carignan-Salières, compagnie de Saint-Ours. Pierre Dextra dit Lavigne serait décédé avant 1705, puisque sa femme se remarie cette année là, avec René Saint-Cholet. (ANQ-AD24)",
         "birthplace": "Saint-Hilaire",
-        "deathplace": "Inconnu",
+        "deathplace": "",
         "mainplace": "SARRAZAC (24800)"
     },
     {
@@ -339,7 +339,7 @@
         "lastname": "DUMANS",
         "firstname": "Jean",
         "bio": "DUMANS, Jean. Maître chapelier. Né vers 1647. Fils de Raymond Dumans, maître cuisinier et de Marguerite Couder. Marié à Aghate Morin, à Lachine (Qc), le 09-01-1684. Trois enfants mais pas de descendance. Décédé avant 1692. (NR-J.N. BIRABEN)",
-        "birthplace": "",
+        "birthplace": "Inconnu",
         "deathplace": "Avant 1692",
         "mainplace": "SAINT-MARTIAL-D’ALBARÈDE (24160)"
     },
@@ -347,7 +347,7 @@
         "lastname": "DUPUIS dit Jolicoeur",
         "firstname": "Pierre",
         "bio": "DUPUIS dit Jolicoeur, François. Né au Hameau « Le Puy », à quelques kilomètres de Saint-Astier, le 08-12-1670 et fut baptisé le 14-12-1670 par l’abbé Charles de la Baume de Foursat. Fils de Nailhad Dupuis, tisserand et de Philippe David. Marié à Marguerite Banliac dite la Montagne (née à Rivière-du-Loup (Qc), le 17-04-1681), à Champlain (Qc), le 10-11-1698. Contrat de mariage le 10 et 13-06 (greff e Daniel Normandin). Treize enfants, dont encore une nombreuse descendance. François part pour la Nouvelle-France de La Rochelle, le 17-04-1688, comme soldat des troupes de Marine, compagnie de La Groye. A la fi n de son engagement, il s’établit à Maskinongé (Qc), il est cultivateur, sur une terre qui restera dans la famille jusqu’à nos jours et y verra 10 générations. (AD24-ANQ). (PLAQUE COMMÉMORATIVE)",
-        "birthplace": "Le Hameau « Le Puy » à quelques kilomètres de Saint-Astier",
+        "birthplace": "Hameau « Le Puy » à quelques kilomètres de Saint-Astier",
         "deathplace": "",
         "mainplace": "SAINT-ASTIER (24110)"
     },
@@ -355,7 +355,7 @@
         "lastname": "EYMERY dit Coderre",
         "firstname": "Thony",
         "bio": "EYMERY dit Coderre, Antoine et Th ony. Né au hameau le Coderre et baptisé le 06-08-1643. Fils de Mégny Eymery et de Marguerite Pasquau. Marié à 1) Marie Devault, fi lle du Roy, à Contrecoeur (Qc). Contrat de mariage le 13-04-1674 (greff e Antoine Adhémar). Onze enfants. La onzième naissance fut fatale à la mére et à l’enfant. 2) Marie-Anne Favreau, à Boucherville (Qc). Contrat de mariage le 05-06-1688 (greff e Michel Moreau). Dix enfants. Un de ses fi ls Jacques Eymery, épousera Marguerite Gazaille dit Saint-Germain, fi lle de Jean Gazaille dit Saint-Germain son « pays ». Un contrat précise un marché fait entre Eymery dit « Codaire » et Duval pour la construction d’une église à Contrecoeur. Décédé en 1715, à l’âge de 72 ans. Il arrive en Nouvelle-France avec le régiment Carignan-Salières, compagnie de Contrecoeur. (ANQ-AD24)",
-        "birthplace": "hameau le Coderre",
+        "birthplace": "le Coderre",
         "deathplace": "Contrecoeur (Qc)",
         "mainplace": "SARRAZAC (24800)"
     },
@@ -371,7 +371,7 @@
         "lastname": "FAYOL dit Marquis",
         "firstname": "Jean",
         "bio": "FAYOL dit Marquis, Jean. Né vers 1646, paroisse Saint-Martin. Fils de Pierre Fayol et de Marguerite Tessier. Marié à Marie Paviot, à Contrecoeur (Qc), le 13-08-1682. Décédé à Boucherville (Qc), le 05-03-1712. Au recensement de 1681, il est meunier au moulin de la seigneurie de Contrecoeur pendant plusieurs années. Descendance féminine seulement. (NR-J.N. BIRABEN)",
-        "birthplace": "Saint-Martin",
+        "birthplace": "Paroisse Saint-Martin",
         "deathplace": "Boucherville (Qc)",
         "mainplace": "RIBÉRAC (24600)"
     },
@@ -379,15 +379,15 @@
         "lastname": "FERRÉ",
         "firstname": "Alain",
         "bio": "FERRÉ, Alain. Né en 1735. Fils de François Ferré et de Rose Jinac ou Tenac. Il est sergent au régiment du Berry. Marié à Marie-Josèphe Brassard, à Pointe-aux-Trembles (Qc), le 24-01-1760. Contrat de mariage le 21-04-1759 (greff e Christophe Hilarion). Pas de descendance. (NR-J.N. BIRABEN)",
-        "birthplace": "",
-        "deathplace": "",
+        "birthplace": "Inconnu",
+        "deathplace": "Inconnu",
         "mainplace": "SAINT-FRONT-D’ALEMPS (24460)"
     },
     {
         "lastname": "FILY",
         "firstname": "Marc",
         "bio": "FILY, Marc. Né vers 1680, paroisse St-Pierre. Fils de Th omas Fily et d’Antoinette Lugnac. Marié à Catherine Brunel, à Varennes (Qc), le 05-08-1714. Contrat de mariage 05-08-1714 (greff e Jacques Bourdon). Huit enfants, tous nés à Varennes. (NR-J.N. BIRABEN)",
-        "birthplace": "St-Pierre",
+        "birthplace": "paroisse St-Pierre",
         "deathplace": "",
         "mainplace": "DOUCHAPT (24350)"
     },
@@ -395,7 +395,7 @@
         "lastname": "FOUCAULT",
         "firstname": "Jean-François",
         "bio": "FOUCAULT, Jean-François. Né vers 1641, paroisse Saint-Michel. Fils de Pierre Foucault et de Péronne Borda. Marié à Elisabeth Prévost, à Québec, le 14-11-1671. Contrat de mariage le 08-11-1671 (greff e Alain Bequet). Plusieurs enfants. Décédé à Trois-Rivières (Qc), le 01-12-1700. Voir Saint-Michel-de-Double. (NR)",
-        "birthplace": "Saint-Michel",
+        "birthplace": "Paroisse Saint-Michel",
         "deathplace": "Trois-Rivières (Qc)",
         "mainplace": "LA ROCHE-CHALAIS (24340)"
     },
@@ -420,14 +420,14 @@
         "firstname": "Jean",
         "bio": "GAZAILLE dit Saint-Germain, Jean. Baptisé le 12-12-1639. Fils de Jehan Gazaille, forgeron, et d’Aubigne Reynier. Il est le quatrième enfant d’une famille de sept. Marié à Jeanne Touzé, à Québec, le 08-10-1668. Contrat de mariage le 01-10-1668 (greff e Pierre Duquet). Cinq enfants, qui laisseront une importante descendance. Une de ses fi lle épousera Pierre Dextra dit Lavigne, un des quatre migrants parti de Sarrazac. Il décède entre 1685 et 1694. Jean sera dit tour à tour, soldat, caporal, habitant et cultivateur selon les diff érents documents retrouvés. Jean est l’ancêtre direct de Charles Saint-Germain qui a pris les armes et prêté sa maison familiale comme fort de défense à St-Denis-sur-Richelieu, lors de la rébellion des Patriotes de 1837-1838. Plusieurs membres de la famille et amis y ont perdu la vie. Les Gazaille, dits Saint-Germain, ont été majoritairement cultivateurs, bien qu’aujourd’hui, nous les retrouvons dans toutes les sphères de la société. Nous retrouvons sa descendance principalement dans les régions de la Montérégie et des Cantons de l’Est et même aux Etats-Unis dans le Massachusetts. Les Gazaille, dits Saint-Germain ainsi que les Saint-Germain ont tous pour ancêtre Jean Gazaille dit Saint-Germain venu de Sarrazac. (RCS-AD24-ANQ)",
         "birthplace": "Sarrazac",
-        "deathplace": "Inconnu entre 1685 et 1694",
+        "deathplace": "Inconnu",
         "mainplace": "SARRAZAC (24800)"
     },
     {
         "lastname": "GIGNARD",
         "firstname": "Pierre",
         "bio": "GIGNARD, Pierre. Né paroisse Saint-Romain. Fils de Léonard Gignard et de Jeanne Leblanc. Marié à Catherine Lahaye, à Québec, le 18-11-1669. Contrat de mariage le 22-10-1669 (greff e Romain Becquet). Plusieurs enfants. Décédé, à l’Ile-d’Orléans (Qc), en 1676. (NR-GÉNÉANET)",
-        "birthplace": "Paroisse Saint-Romain",
+        "birthplace": "Saint-Romain",
         "deathplace": "Île-d'Orléans (Qc)",
         "mainplace": "LA ROCHEBEAUCOURT-ET-ARGENTINE (24340)"
     },
@@ -435,7 +435,7 @@
         "lastname": "GODINON",
         "firstname": "Jean",
         "bio": "GODINON, Jean. Soldat. Né paroisse Saint-Michel. Fils de François Godinon et de Michelle Laurent. Marié à Marie-Louise Morand, à Berthier-en-Haut, Berthierville (Qc), le 24-11-1760. Il est grenadier au régiment de Béarn. (NR)",
-        "birthplace": "paroisse Saint-Michel",
+        "birthplace": "Paroisse Saint-Michel",
         "deathplace": "",
         "mainplace": "LA ROCHE-CHALAIS (24340)"
     },
@@ -443,7 +443,7 @@
         "lastname": "GOURDON dit Lachasse",
         "firstname": "Jean",
         "bio": "GOURDON dit Lachasse, Jean. Soldat. Né en 1654. Fils de Elie Gourdon et de Jeanne Dumole. Marié à Michelle Perrin, à Montréal (Qc), le 24-11-1676. Contrat de mariage 08-11-1676 (greff e Bénigne Basset). Ils n’eurent que des fi lles (pas de descendance). Il fut tué le 26-06-1691 par les Iroquois à Lachine (Qc). Soldat du régiment de Carignan-Salières compagnie de Maximy. (NR-J.N. BIRABEN)",
-        "birthplace": "Non spécifié",
+        "birthplace": "",
         "deathplace": "Lachine (Qc)",
         "mainplace": "MONTREM (24110)"
     },
@@ -460,14 +460,14 @@
         "firstname": "Antoine",
         "bio": "GRISÉ dit Villefranche, Antoine. Né vers 1690. Marié à Françoise-Marguerite Poyer, à Chambly (Qc), le 12-01-1728. Quatorze enfants. Il arrive en Nouvelle-France en 1721 comme caporal des troupes de Marine, compagnie de Péan. Il décède à Chambly, le 18-12-1781, à l’âge de 91 ans. C’est un arrière petit-fils d’Antoine, Pierre Grisé qui vendra des maisons, à Saint-Charles-sur-Richelieu, aux arrières petitsfi ls de Pierre Chicou-Duvert, Louis le notaire et François le médecin. (Voir Saint-Marcel-du-Périgord). (NR)",
         "birthplace": "",
-        "deathplace": "Chambly (Qc)",
+        "deathplace": "Chambly",
         "mainplace": "VILLEFRANCHE-DU-PÉRIGORD (24550)"
     },
     {
         "lastname": "GUIRE dit Laprairie",
         "firstname": "Sicaire",
         "bio": "GUIRE dit Larose, François. Né en 1641, hameau du Mur. Fils de Charles Guire et de Jehanne Drouyayde. Marié à Marie-Rose Colin, fi lle du Roy, à Saint-Ours (Qc), le 12-09-1669. Elle a apporté des biens estimés à 300 livres et un don du roi de 50 livres. Ils eurent neuf enfants, cinq garçons et quatre filles. Il part en Nouvelle-France avec le régiment de Carignan-Salières, compagnie de Sorel. On le trouve aussi sous le patronyme de Deguire, il est tisserand. Il y a de nombreux descendant de François Deguire dit Larose. Certains atteindront la notoriété, ainsi dés 1751, Joseph Deguire dit Desrosiers, se voit accorder une concession seigneuriale le long de la rivière Saint-François par l’intendant Bigot. Il devient ainsi le Seigneur Joseph Deguire. Certains prirent le patronyme de Deguire dit Larose ou Deguire dit Desrosiers et d’autres Larose ou Desrosiers. Les Deguire essaimeront un peu partout au Canada et même aux Etats-Unis, où l’on en retrouve près de 300 familles. On peut noter parmi les personnes marquantes de cette famille François Deguire maire de Saint-Laurent (Qc) (1840-1904). Emile Deguire religieux de la Congrégation de Sainte-Croix (1896-1992). Le père Paul-Aimé-Martin Deguire fondateur des Editions Fidés. Mme Michèle Th ibodeau-Deguire présidente et directrice générale de Centraide du Grand Montréal. (NR-J.N. BIRABEN)",
-        "birthplace": "Hameau du Mur",
+        "birthplace": "hameau du Mur",
         "deathplace": "",
         "mainplace": "THIVIERS (24380)"
     },
@@ -483,7 +483,7 @@
         "lastname": "GUYON",
         "firstname": "Jean",
         "bio": "GUYON, Jean. Né vers 1695, paroisse Saint-André. Fils de Philippe Guyon et de Marie de Cressac. Marié à Marguerite Provendher dite Villebrun, à Trois-Rivières (Qc), le 04-02-1720. Contrat de mariage 03-04-1720 (greff e Etienne Veron). Ils eurent plusieurs enfants. (NR-J.N. BIRABEN-ANQ)",
-        "birthplace": "paroisse Saint-André",
+        "birthplace": "Paroisse Saint-André",
         "deathplace": "",
         "mainplace": "BERTRIC-BURÉE (24320)"
     },
@@ -499,7 +499,7 @@
         "lastname": "JOACHIM dit Laverdure",
         "firstname": "Bernard",
         "bio": "JOACHIM dit Laverdure, Bernard. Né vers 1649. Fils de Durand Joachim et de Jeanne Dupuis. Marié à Marguerite Pépin, à Trois-Rivières (Qc), le 14-11-1679. Décédé à Boucherville (Qc), le 28-02-1727. Ils eurent de nombreux enfants. Ses descendants portent aujourd’hui le nom de Laverdure. (NR-J.N. BIRABEN)",
-        "birthplace": "Non spécifié",
+        "birthplace": "",
         "deathplace": "Boucherville (Qc)",
         "mainplace": "MILHAC-D’AUBEROCHE (24330)"
     },
@@ -539,15 +539,15 @@
         "lastname": "LAURENT dit Saint-Laurent",
         "firstname": "Pierre",
         "bio": "LAPORTE dit Saint-Georges, Pierre. Né en 1673, paroisse Saint-Georges. Fils de Jean Laporte et de Jeanne Minet. Marié à Madeleine Fournier, à Saint-François-de-La-Salles (Qc), le 02-05-1707. Contrat de mariage le 01-05-1707 (greff e Nicolas Sennet). Quatre enfants. La descendance porte les patronymes de Laporte et Saint-Georges. (NR-J.N. BIRABEN)",
-        "birthplace": "paroisse Saint-Georges",
-        "deathplace": "",
+        "birthplace": "Paroisse Saint-Georges",
+        "deathplace": "Valeur vide",
         "mainplace": "PÉRIGUEUX (24000)"
     },
     {
         "lastname": "LECOMTE dit Bellegarde",
         "firstname": "François",
         "bio": "LECOMTE dit Bellegarde, François. Né vers 1707, paroisse Saint-Pierre. Fils d’Etienne Lecomte et de Françoise Brazeau. Marié à 1) Marie-Josèphe-Marguerite Bluteau dite Larabelle, à Montréal (Qc), le 17-08-1733. Trois fi lles. 2) Marguerite Laporte, à Montréal, le 24-10-1740. Contrat de mariage 21-10-1740 (greff e François Simonet). Sans descendance. Soldat de la compagnie de Joseph-Hippolyte Leber de Senneville. Décédé à l’Hôpital Général de Montréal, le 12-03-1788. (NR-J.N. BIRABEN)",
-        "birthplace": "Saint-Pierre",
+        "birthplace": "Paroisse Saint-Pierre",
         "deathplace": "Hôpital Général de Montréal",
         "mainplace": "BRANTÔME (24310)"
     },
@@ -555,7 +555,7 @@
         "lastname": "LEGROS dit Saint-Laurent",
         "firstname": "Elie",
         "bio": "LEGROS dit Saint-Laurent, Elie. Né vers 1708. Fils de Elie Legros, potier d’étain et de Madeleine Dufesny. Marié à Françoise Pépin, à Montréal (Qc), le 07-01-1738. Contrat de mariage le 06-01-1738 (notaire greff e Jean François Lepailleur). (NR-J.N. BIRABEN)",
-        "birthplace": "",
+        "birthplace": "Avec les informations disponibles, il n'est pas possible de déterminer exactement le lieu de naissance ou baptême d'Elie Legros dit Saint-Laurent.",
         "deathplace": "Montréal (Qc)",
         "mainplace": "MAREUIL-SUR-BELLE (24340)"
     },
@@ -579,7 +579,7 @@
         "lastname": "LÉGER LA GRANGE",
         "firstname": "Jean",
         "bio": "LÉGER DE LA GRANGE, Jean. Chirurgien, marin, marchand, corsaire. Né le 16-06-1663. Fils de Elie Léger, marchand, et de Jeanne Félix ou de Phélix. Ses exploits lui valent d’être nommé par le roi, capitaine de fl ûtes. Décédé à La Rochelle, le 16-06-1721. (DBC-VOIR CHAPITRE 1)",
-        "birthplace": "Non spécifié",
+        "birthplace": "Inconnu",
         "deathplace": "La Rochelle",
         "mainplace": "ABJAT-SUR-BANDIAT (24300)"
     },
@@ -587,7 +587,7 @@
         "lastname": "MARTIN dit Ladouceur",
         "firstname": "Pierre",
         "bio": "MARTIN dit Ladouceur, Pierre. Né en 1666. Fils de Jean Baptiste Martin et d’Anne Desmoulins. Marié à Anne Limousin dite Baufort, à Montréal (Qc), le 12-09-1696. Contrat de mariage le 24-06-1695 (greff e Daniel Normandin). Onze enfants. Décèdè le 04-05-1742, à l’Ile-d’Orléans (Qc), à 76 ans. Engagé comme soldat de la compagnie du sieur Dumesnil, il part avec son régiment au Canada en 1684. Il participe aux milices d’auto-défense dans les villages. La nombreuse descendance du couple perpétue jusqu’à nos jours le nom de Martin. (Plaque commémorative rue du port). (NR-J.N. BIRABEN-LOUISE MARTIN)",
-        "birthplace": "Non spécifié",
+        "birthplace": "",
         "deathplace": "Île-d'Orléans (Qc)",
         "mainplace": "BERGERAC (24100)"
     },
@@ -603,7 +603,7 @@
         "lastname": "MAZIÈRES ou MEZERAY dit Deguerre",
         "firstname": "Jean",
         "bio": "MAZIÈRES dit Deguerre, Jean. Soldat. Baptisé le 13-06-1726. Fils de Guillaume Mazières et de Marguerite Chaumet, habitant le versant du bourg. Marié à Marie-Anne Moral ou Mourand, à Québec, le 15-05-1752. Un enfant. Soldat du régiment de La Molière. Le couple réside à Québec. Les descendants prendront le patronyme de Mozières. Plaque commémorative, façade de la Chapelle Saint-Georges. (NR-J.N. BIRABEN)",
-        "birthplace": "Non spécifié",
+        "birthplace": "Baptisé à Québec",
         "deathplace": "Non spécifié",
         "mainplace": "MONTAGRIER (24350)"
     },
@@ -619,24 +619,24 @@
         "lastname": "MERDIEU ou MEDIEU dit Bourbon",
         "firstname": "Jean",
         "bio": "MERDIEU ou MEDIEU dit Bourdon, Jean. Né vers 1669. Fils de Louis Merdieu et d’Isabelle Dubois. Marié à Claudine Guérin, à Charlesbourg (Qc), le 06-02-1690. Contrat de mariage du 19-07-1690 (greff e Gilles Rageot). Ils eurent de nombreux enfants. (NR-J.N. BIRABEN)",
-        "birthplace": "",
-        "deathplace": "",
+        "birthplace": "Non spécifié",
+        "deathplace": "Non spécifié",
         "mainplace": "SAINT-FRONT-D’ALEMPS (24460)"
     },
     {
         "lastname": "MEYZONNAT ou MAISONNAT dit Baptiste",
         "firstname": "Pierre",
         "bio": "MEYZONNAT ou MAISONNAT dit Baptiste, Pierre. Soldat, capitaine corsaire. Né le 05-07-1658. Fils d’Hélie Meyzonnat et de Jeanne Chigniac. Marié à 1) Judith ou Isabeau Soubirou, vers 1685, à Bergerac. 2) Madeleine Bourg ou Bourque, à Port-Royal (NE), en 1693. Mariage annulé pour bigamie. 3) Marguerite Bourgeois, (veuve de Mirande Bourgeois dit Tarare et de Boudrot Jean), à Port-Royal, le 12-01-1707. Décédé après 1716. (DBC-VOIR CHAPITRE 1). (PLAQUE COMMÉMORATIVE)",
-        "birthplace": "Inconnu",
-        "deathplace": "Inconnu",
+        "birthplace": "Non spécifié",
+        "deathplace": "Non spécifié",
         "mainplace": "BERGERAC (24100)"
     },
     {
         "lastname": "MICHEL dit Saint Léger",
         "firstname": "Jean",
         "bio": "MICHEL dit Saint-Léger, Jean. Fils de Jean Michel et de Jeanne Gelis ou Gille. Soldat grenadier au régiment de La Sarre. Marié à Marie-Louise Lesage, à L’Assomption, le 05-02-1759. (NRJ.N. BIRABEN)",
-        "birthplace": "Inconnu",
-        "deathplace": "Inconnu",
+        "birthplace": "Non spécifié",
+        "deathplace": "Non spécifié",
         "mainplace": "BUSSEROLES (24360)"
     },
     {
@@ -659,8 +659,8 @@
         "lastname": "OUVRARD ou OUVRADE",
         "firstname": "Jean-Arnaud",
         "bio": "OUVRARD ou OUVRADE, Jean-Arnaud. Né le 04-01-1798, ainsi que son jumeau Pierre. Fils de Jean Ouvrard, portefaix et fossoyeur et de Jeanne Dufray. Jean-Arnaud avait trois frères et une soeur. Ils habitaient le quartier du Mercadil. Jean est mentionné au Québec en 1818. Marié à Marguerite Cunnigham (vraisemblablement protestante), à Baie-Saint-Paul (Qc), le 04-09-1821. Ils eurent une fi lle Anne Ouvrard. (Plaque commémorative rue du port). (NR-AMB-FO)",
-        "birthplace": "Inconnu",
-        "deathplace": "Inconnu",
+        "birthplace": "Don't have specific information",
+        "deathplace": "Don't have specific information",
         "mainplace": "BERGERAC (24100)"
     },
     {
@@ -675,8 +675,8 @@
         "lastname": "PALANGE dit Beauséjour",
         "firstname": "Jean",
         "bio": "PALANGE dit Beauséjour, Jean. Né vers 1717. Fils de Jean Palange et de Marguerite Petit. Marié à Marie-Françoise Gilbert, à Québec, le 09-01-1740. Contrat de mariage du 31-12-1741 (greff e Jacques Piquet). Deux enfants. Il décède avant 1747, son épouse se remarie. Il n’y aura de descendance que par la fi lle. (NR-J.N. BIRABEN)",
-        "birthplace": "Non spécifié",
-        "deathplace": "Non spécifié",
+        "birthplace": "Inconnu",
+        "deathplace": "Inconnu",
         "mainplace": "SAINT-CRÉPIN-D’AUBEROCHE (24330)"
     },
     {
@@ -716,7 +716,7 @@
         "firstname": "Nicolas",
         "bio": "PERSON dit Lafond, Nicolas. Né vers 1675. Fils de Pierre Person et de Jeanne Ferand. Marié à Marie-Madeleine Vacher, à Montréal (Qc), le 23-11-1716. Ils eurent plusieurs enfants. Décédé à Montréal, le 30-01-1745. Descendance sous le patronyme de Lagfond. (NR-J.N. Biraven)",
         "birthplace": "",
-        "deathplace": "Montréal, Qc",
+        "deathplace": "Montréal (Qc)",
         "mainplace": "ANLHIAC (24160)"
     },
     {
@@ -779,15 +779,15 @@
         "lastname": "SAINT-CHRISTOPHE (de) dit Lajoie",
         "firstname": "Christophe",
         "bio": "SAINT-CHRISTOPHE (de) dit Lajoie, Christophe. Né vers 1702. Fils de Paul de Saint-Christophe dit Lajoie, laboureur, et de Marguerite Barrier. Marié à Marie-Françoise Valade dite Lajeunesse, à Montréal (Qc), le 22-11-1728. Soldat de Périgny, puis laboureur. On ne le retrouve plus après le 13-02-1730. Ils ont une fi lle, pas de descendance. (NR-J.N. BIRABEN)",
-        "birthplace": "",
-        "deathplace": "",
+        "birthplace": "Non spécifié",
+        "deathplace": "Non spécifié",
         "mainplace": "SAINT-MARTIAL-D’ALBARÈDE (24160)"
     },
     {
         "lastname": "SALIGNAC DE FENELON",
         "firstname": "François",
         "bio": "SALIGNAC DE FÉNELON (de), François. Prêtre sulpicien. Né en 1641. Fils de Pons de Salignac, comte de Fénelon et d’Izabeau d’Esparbées de Lussan d’Aubeterre. Il est le frère consanguin de l’illustre archevêque de Cambrai. Après des études à St-Sulpice à Paris, il partira en Nouvelle-France en 1668. Après des diff érents avec le gouverneur Frontenac, il est obligé de revenir en France où il décède et est inhumé à Aubeterre. (DBC-VOIR CHAPITRE 1)",
-        "birthplace": "Aubeterre",
+        "birthplace": "Non spécifié",
         "deathplace": "Aubeterre",
         "mainplace": "AUBETERRE-SUR-DRONNE (16390)"
     },
@@ -803,8 +803,8 @@
         "lastname": "TINON dit Deslauriers-Desroches",
         "firstname": "Emard",
         "bio": "TINON dit Deslauriers-Desroches, Emard. Né vers 1643. Fils de François Tinon et de Marie Crespy. Marié à Aimée Roux, fi lle du Roy, à Saint-Augustin-de-Desmaures (Qc), le 06-02-1670. Trois enfants. (NR)",
-        "birthplace": "Valeur non spécifiée",
-        "deathplace": "Valeur non spécifiée",
+        "birthplace": "Non spécifié",
+        "deathplace": "Non spécifié",
         "mainplace": "MONTIGNAC (24290)"
     },
     {
@@ -820,7 +820,7 @@
         "firstname": "Raymond",
         "bio": "VERT, Raymond. Né vers 1734. Fils de Jean Vert et de Péronne Bian ou Biau. Marié à Marie-Anne Baudry, à Longueuil (Qc), le 22-08-1763. Quatre enfants. (NR-J.N. BIRABEN)",
         "birthplace": "Non spécifié",
-        "deathplace": "Non spécifié",
+        "deathplace": "Longueuil (Qc)",
         "mainplace": "SAINT-MARTIAL-D’ALBARÈDE (24160)"
     }
 ]

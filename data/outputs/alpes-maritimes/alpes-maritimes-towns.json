@@ -1,0 +1,242 @@
+[
+    {
+        "name": "ANTIBES",
+        "postcode": "06600",
+        "population": " 72 412 hab.",
+        "description": "Arrondissement de Grasse (30 km, par D35 et N85). Sous l’Ancien Régime, diocèse suffragant d’Embrun. Son histoire remonte à 2400 ans. Pendant quatre ans (1691-1695), Gaspard Chaussegros, le père de Gaspard-Joseph (Voir ch.I), a, sous les ordres de Vauban, effectué une partie importante des travaux relatifs aux fortifications d’Antibes. Ville méditerranéenne qui se caractérise par ses 25 km de côte, offrant des paysages d’une grande diversité.",
+        "characters": [
+            {
+                "lastname": "CAIRE (de)",
+                "firstname": "François",
+                "bio": "CAIRE (de), François. Ingénieur, officier. Né vers 1730. Fils de Joseph de Caire, chevalier et de Françoise de Bergier. Marié à MarieElisabeth Leber, à Trois-Rivières (Qc), le21-01-1760. Lieutenant au régiment de Picardie. Il rentre en France après la capitulation. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "ANTIBES (06600)"
+            },
+            {
+                "lastname": "GALLIOT dit Provençal",
+                "firstname": "Joseph",
+                "bio": "GALLIOT dit Provençal, Joseph. Soldat. Fils de Jean Galliot et de Catherine Citourot. Marié à Geneviève-Elisabeth Groleau, à Deschambault (Qc), le 06-02-1758. Décédé en 1804. Soldat des troupes de la Marine, compagnie de Renepont. (FG)",
+                "birthplace": "",
+                "deathplace": "1804",
+                "mainplace": "ANTIBES (06600)"
+            }
+        ]
+    },
+    {
+        "name": "CANNES",
+        "postcode": "06400",
+        "population": " 67 304 hab.",
+        "description": "Arrondissement de Grasse (20 km, par D562). Sous l’Ancien Régime, diocèse de Vence. Le site de la ville est occupé depuis le néolithique. Actuellement Cannes est surtout célèbre par ses luxueux hôtels et palaces, la Croisette et surtout par son festival du cinéma, fondé en 1946, et reconnu dans le monde entier. Mais on ne peut oublier son port de plaisance et de commerce, ses îles au large de la côte, son golf, son casino, et tout ce qui en fait une ville balnéaire et touristique de tout premier plan.",
+        "characters": [
+            {
+                "lastname": "GAULTIER dit Ciceron",
+                "firstname": "Pierre.",
+                "bio": "GAULTIER* dit Cicéron, Pierre. Soldat. Né le 14-11-1719. Fils de François Gauthier et de Françoise Maure (Mariés à Cannes le 05-05-1716). Marié à Pierrette Augueman, à Louisbourg (Nouvelle-Ecosse), le 18-08-1749. Soldat des troupes de la Marine, compagnie Villejouin. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CANNES (06400)"
+            },
+            {
+                "lastname": "LETORE",
+                "firstname": "Ambroise.",
+                "bio": "LETORE, Ambroise. Soldat. Fils de Antoine Letore et de Elizabeth Jobert. Marié à Adélaïde Maranda, à Montréal (Qc), en 1814. Six enfants. Soldat au régiment de Meuron. (FO)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CANNES (06400)"
+            }
+        ]
+    },
+    {
+        "name": "CHÂTEAUNEUF-GRASSE",
+        "postcode": "06740",
+        "population": " 2 968 hab.",
+        "description": "Arrondissement de Grasse (10 km, par N85 et D2085). Sous l’Ancien Régime, diocèse de Grasse. Village perché avec très belle vue sur la plaine. Vestiges de l’ancien village et demeure du 17ème siècle. Table d’orientation. Eglise Saint-Martin et chapelle Notre-Dame du Brusc. Pépinière et horticulture. Fête patronale le 1er dimanche après la Pentecôte et pèlerinage à Notre-Dame du Brusc à Pâques .",
+        "characters": [
+            {
+                "lastname": "FOUCARDE",
+                "firstname": "Marie",
+                "bio": "FOUCARDE, Marie. Marié à 1) Henry Pellegrin. 2) Charles Bonsergent dit Langevin, à La Nouvelle-Orléans (Louisiane) le 21-04-1727. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CHÂTEAUNEUF-GRASSE (06740)"
+            }
+        ]
+    },
+    {
+        "name": "GRASSE",
+        "postcode": "06130",
+        "population": " 43 874 hab.",
+        "description": "Chef lieu d’arrondissement. Sous l’Ancien Régime, diocèse suffragant d’Embrun. Ville médiévale construite sur le flanc des Plans de Provence. Ensemble de la vieille ville des 17ème et 18ème siècles très bien conservé. Nombreuses maisons et bâtiments anciens. Ancienne cathédrale NotreDame-du-Puy du 12ème siècle, chapelles et oratoires. Capitale mondiale de la parfumerie ; moulins à huile. Fête de Saint-Marc le 3ème dimanche d’avril et fête de la SaintJean.",
+        "characters": [
+            {
+                "lastname": "LION",
+                "firstname": "Joseph",
+                "bio": "LION, Joseph. Soldat. Né vers 1757. Fils de Jean-Baptiste Lion et de Barbe Landirory. Marié à Marie-Josèphe Leroux, à Montréal (Qc), vers 1789. Soldat, il part en Amérique avec Lafayette et Rochambeau lors de la guerre d’indépendance, puis va s’établir au Canada. (FG-FO)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "GRASSE (06130)"
+            },
+            {
+                "lastname": "RICORD ou RICAUX",
+                "firstname": "Charles",
+                "bio": "RICORD, Charles. Marchand, serrurier. Fils de Jean-Antoine Ricord ou Ricaux et de Honorate Raibaud. Marié à 1) Marthe Raibaud, à Grasse (Fr), le 23-11-1666. 2) Jeanne Dubordieu, à Plaisance (Nouvelle-Ecosse), en 1705. Contrat de mariage le 14-07-1705(greffe Barrat). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "GRASSE (06130)"
+            },
+            {
+                "lastname": "ROUX dit Lafleur",
+                "firstname": "Antoine",
+                "bio": "ROUX dit Lafleur, Antoine. Fils de Antoine Roux et de Bertholomette Rouchon. Marié à Marie Prêt, en Louisiane en 1736. Contrat de mariage le 03-11-1736 (greffe Nicolas Henry). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "GRASSE (06130)"
+            }
+        ]
+    },
+    {
+        "name": "LA-PENNE",
+        "postcode": "06260",
+        "population": " 164 hab.",
+        "description": "Arrondissement de Nice (75 km, par N7, N202 et D17). Sous l’Ancien Régime, diocèse de Glandevès. Village perché à flanc de colline, offrant un panorama exceptionnel sur la vallée du Var et de l’Esteron. Eglise paroissiale du 13ème siècle.",
+        "characters": [
+            {
+                "lastname": "BONNEFOY",
+                "firstname": "Honoré-Maure",
+                "bio": "BONNEFOY, Honoré-Maure. Médecin. Fils de Jean-Baptiste Bonnefoy et de Françoise Paulette. Marié à Louise Puolin, à SaintFrançois-de-Salle (Qc), en 1755. Contrat de mariage le 27-04-1755 (greffe Charles-François Coron). Décédé à Saint-François-de-Salle (Qc), le 23-12-1783. Mentionné pour la première fois à Montréal en 1750, il œuvre pendant 30 ans comme médecin à l’hôpital de Montréal. (FG-AD06)",
+                "birthplace": "",
+                "deathplace": "Saint-François-de-Salle (Qc)",
+                "mainplace": "LA-PENNE (06260)"
+            },
+            {
+                "lastname": "DAUTIER dit Saint-André",
+                "firstname": "François",
+                "bio": "DAUTIER dit Saint-André, François. Fils de Jean-Baptiste Dautier et de Jeanne-Louise Bonnefoy. Marié à Louise-Marie-Marguerite Loupe dite Rochelet, à Saint-Denis-surRichelieu (Qc), le 18-06-1781. (PRDH)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "LA-PENNE (06260)"
+            }
+        ]
+    },
+    {
+        "name": "LE-CANNET",
+        "postcode": "06110",
+        "population": " 42 158 hab.",
+        "description": "Arrondissement de Grasse (20 km, par N85). Sous l’Ancien Régime, diocèse de Grasse. Située à 2 km de la mer, la ville jouit d’une magnifique vue panoramique sur les îles de Lérins et le massif de l’Esterel. Elle est entourée d’une flore typiquement provençale, de pins, mimosas, eucalyptus et oliviers. On y cultive l’olivier pour son huile et l’oranger pour son parfum. Eglise Sainte-Catherine et chapelle NotreDame des Anges.",
+        "characters": [
+            {
+                "lastname": "DANIS dit Provençal",
+                "firstname": "Honoré-Martial",
+                "bio": "DANIS dit Provençal, HonoréMartial. Fils de Jean Danis et de Spirite Carbonel. Marié à Jeanne Callert, à Mobile (Alabama), le 11-11-1758. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "LE-CANNET (06110)"
+            }
+        ]
+    },
+    {
+        "name": "MENTON",
+        "postcode": "06500",
+        "population": " 28 812 hab.",
+        "description": "Arrondissement de Nice (20 km, par N7). Sous l’Ancien Régime diocèse de Vence. Cité des jardins, ville d’art et d’histoire, ville baroque par ses monuments Nisso-Ligures. Sa curieuse église russe. Le boulevard de Garavanet et l’hôtel d’Adhemar de Lantenac. Fête du citron du 2ème samedi de février au 1er mercredi de mars.",
+        "characters": [
+            {
+                "lastname": "ADHEMAR de LANTAGNAC",
+                "firstname": "Gaspard",
+                "bio": "ADHEMAR de LANTAGNAC*, Gaspard. Officier, entrepreneur. Né le 03-03-1681. Fils de Antoine Adhémar de Lantagnac et de Jeanne-Antoinette de Truchy. Marié à Geneviève-Françoise Martin de Lino, à Québec, le 07-03-1720. Décédé à Montréal (Qc), le 07-11-1756. Petit-neveu du gouverneur Rigaud de Vaudreuil, mais peu fortuné Gaspard s’embarque en 1712 pour le Canada. A l’âge de 39 ans et malgré la désapprobation de son grand-oncle, qui lui en tiendra rigueur, il épouse GenevièveFrançoise, avec l’assentiment de l’évêque. Il est sur le champ envoyé à l’Ile-Royale, sur ordre du gouverneur. Après un bref passage en France, et de retour au Canada, il demande l’assistance financière du roi, pour l’exploitation d’une fabrique de tuiles. Avant que son projet ne soit exécuté, il est envoyé en service au fort Chambly. Il y restera jusqu’en 1748 et y sera décoré de la croix de Saint-Louis. Son épouse décède en1742. A l’âge de 67 ans il est nommé major de Montréal (Qc), lieutenant du roi puis gouverneur par intérim de cette ville jusqu’en 1756, année ou il prend sa retraite. Il décède quelque temps plus tard à l’âge de 75 ans. (FG-DBC)",
+                "birthplace": "",
+                "deathplace": "Montréal (Qc)",
+                "mainplace": "MENTON (06500)"
+            },
+            {
+                "lastname": "GERBAULT",
+                "firstname": "Etienne",
+                "bio": "GERBAULT, Etienne. Né vers 1730. Fils de Jacques Gerbault et de Marie Berteau. Marié à Jeanne Rosse, à Louisbourg (Nouvelle-Ecosse) en 1755. Contrat de mariage le 05-11-1755 (greffe Guillaume Baquerisse). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "MENTON (06500)"
+            }
+        ]
+    },
+    {
+        "name": "SALLAGRIFFON",
+        "postcode": "06910",
+        "population": " 54 hab.",
+        "description": "Arrondissement de Grasse (102 km, par D2085, N7, N202, D17 et D2211A). Sous l’Ancien Régime, diocèse de Glandevès. Petit village du 13ème siècle, blotti contre une arrête rocheuse. Maison forte et église SainteMarguerite. Réserve de chasse.",
+        "characters": [
+            {
+                "lastname": "OLIVIER",
+                "firstname": "Jean",
+                "bio": "OLIVIER, Jean. Né vers 1631. Fils de Laurent Olivier et de Jeanne Mathurin. Marié à 1) Madeleine Duval, fille du roi, en 1671. Contrat de mariage annulé par la suite, le 25-10-1671 (greffe Romain Becquet). 2) Elisabeth Renaud, fille du roi, à Québec, en 1673. Contrat de mariage le 16-09-1673 (greffe Pierre Duguet). Trois enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "SALLAGRIFFON (06910)"
+            }
+        ]
+    },
+    {
+        "name": "VENCE",
+        "postcode": "06140",
+        "population": " 982 hab.",
+        "description": "Arrondissement de Grasse (33 km, par D2085 et D36). Sous l’Ancien Régime, diocèse suffragant d’Embrun. Ville médiévale de caractère qui possède un patrimoine architectural des plus intéressant.",
+        "characters": [
+            {
+                "lastname": "ARNOUX",
+                "firstname": "Alexandre-Joseph-Xavier",
+                "bio": "ARNOUX*, André. Chirurgien. Baptisé le 20-12-1720. Fils de Alexandre Arnoux, maître chirurgien et de Lucesse Musson. Marié à Suzanne Levret, à Toulon, le 17-06-1743. Un enfant. Inhumé à Montréal, le 22-08-1760. (FG-AD06-VOIR CHAPITRE 1)",
+                "birthplace": "",
+                "deathplace": "Montréal",
+                "mainplace": "VENCE (06140)"
+            },
+            {
+                "lastname": "ARNOUX",
+                "firstname": "André",
+                "bio": "ARNOUX*, AlexandreJoseph-Xavier. Apothicaire. Né le 20-12-1724. Fils de Alexandre Arnoux, maître chirurgien et de Lucesse Musson. Marié à Charlotte Soupiran, en 1764. Contrat de mariage le 08-12-1764 (greffe Jean-Claude Penet). Le couple est rentré en France en 1766. (FG-AD06-VOIR CHAPITRE 1)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "VENCE (06140)"
+            },
+            {
+                "lastname": "ARNOUX",
+                "firstname": "Blaise",
+                "bio": "ARNOUX*, Blaise. Chirurgien. Né le 04-07-1733. Fils de Alexandre Arnoux, maître chirurgien et de Lucesse Musson. (FG-AD06-VOIR CHAPITRE 1)",
+                "birthplace": "FG-AD06",
+                "deathplace": "",
+                "mainplace": "VENCE (06140)"
+            },
+            {
+                "lastname": "MARTIN",
+                "firstname": "Pierre",
+                "bio": "MARTIN, Pierre. Forgeron. Né vers 1730. Fils de Jean Martin et de Marguerite Suche (Mariés à Vence, le 06-02-1719). Marié à Anne Bernard, à Louisbourg (NouvelleEcosse), le 12-06-1752. Un enfant. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "VENCE (06140)"
+            },
+            {
+                "lastname": "REIBAUT dit Lajeunesse",
+                "firstname": "Lambert",
+                "bio": "REIBAUT dit Lajeunesse, Lambert. Fils de Etienne Reibaut et de Françoise Reigaut. Marié à Louise Marchand, à la Nouvelle-Orléans (Louisiane), le 09-02-1732. Un enfant. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "VENCE (06140)"
+            }
+        ]
+    },
+    {
+        "name": "SAINT-ETIENNE-DE-TINÉE",
+        "postcode": "06660",
+        "population": "1 528 hab.",
+        "description": "Arrondissement de Nice (90 km, par N7, N202 et D2205). Sous l’Ancien Régime, diocèse de Vence. Ancien village fortifié de la seigneurie de Glandevès. Ruines des remparts et nombreuses chapelles des 15ème, 16ème et 17ème siècles. Elevage bovin et coopérative laitière, station climatique, et sports d’hiver. Fêtes et marchés, fête patronale le dimanche qui suit le 3 août.",
+        "characters": [
+            {
+                "lastname": "PONCY",
+                "firstname": "François-Philippe",
+                "bio": "PONCY, François-Philippe. Fils de Jean-Pierre Poncy et de Bartholomée Ferrier. Marié à 1) Pélagie Lemaître dite Lamorille, à Québec, en 1745. Contrat de mariage le 22-08-1745 (greffe Jean-Claude Panet).Quatre enfants. 2) Angélique Larchevêque, à Québec, en 1764. Contrat de mariage le 09-09-1764 (greffe Antoine saillant dit Collegien).Un enfant. Inhumé à Québec, le 16-15-1769. (FG-PRDH)",
+                "birthplace": "",
+                "deathplace": "Québec",
+                "mainplace": "SAINT-ETIENNE-DE-TINÉE (06660)"
+            }
+        ]
+    }
+]

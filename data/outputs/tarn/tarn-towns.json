@@ -1,0 +1,626 @@
+[
+    {
+        "name": "ALBI",
+        "postcode": "81000",
+        "population": " 46284 hab.",
+        "description": "Chef-lieu du département et d’arrondissement. Sous l’Ancien Régime, archidiocèse. Petite cité gallo-romaine qui fut évangélisée au 3ème siècle par saint Clair, mais qui ne fut élevé en évêché qu’au début du 5ème siècle. Établissement d’une chambre consulaire au début du 13ème siècle, c’est à cette époque que de nombreux habitants adoptent le catharisme, peut être à l’origine du nom d’albigeoise donnée à la croisade menée par Simon de Montfort, qui toutefois épargna la ville grâce à l’habile négociation de l’évêque seigneur du lieu. La cathédrale SainteCécile et le palais épiscopal furent fortifi és et la ville entourée de remparts aux 13ème et 14ème siècles par crainte des hérétiques et des Anglais et fut déclarée « place forte de premier ordre, clef du royaume » en 1355. Capitale du pastel, qui fut au 15ème siècle, le moteur économique de toute la région. La ville fut élevée au rang d’archevêché à la fi n du 17ème siècle. La création du canal du Midi entraîne pour Albi une période de marasme économique et industriel, mais elle procède à de grands travaux pour détruire les fortifi cations et créer la rocade albigeoise du 18ème siècle ce qui va donner à la ville un nouvel essor. Ville d’art comportant un magnifi que secteur sauvegardé, nombreuses maisons des 15ème et 16ème siècles, ancien palais épiscopal et hôtel de ville, cloître du palais de justice, hôtels de Reynes, de Rochegude, Decazes, etc. Statue du navigateur-explorateur Lapérouse né à proximité d’Albi, au château de Gô. Cathédrale Sainte-Cécile et ancienne collégiale Saint-Salvy des 12ème, 13ème et 15ème siècles. Ancien couvent des carmes, cloîtres, chapelles et nombreuses églises font d’Albi une ville au patrimoine architectural civil et religieux exceptionnel. Pont vieux et pont du 22 août 1944. Polyculture et coopérative agricole, Vignobles et production de liqueurs, pisciculture et foie gras. Spécialité de gâteau « Le cathare et la Brique du vieil Albi ». Production de bouteilles en verre et centrale thermique. Musées Lapérouse et Toulouse-Lautrec originaires de la ville, musée de cire et maison du vieil Albi. Foires et marchés, animations diverses, expositions et spectacle son et lumière, fête communale le 14 juillet.",
+        "characters": [
+            {
+                "lastname": "ADHEMAR DE SAINT-MARTIN",
+                "firstname": "Antoine",
+                "bio": "ADHEMAR DE SAINT-MARTIN, Antoine. Soldat, notaire et greffi er seigneurial. Né vers 1634, 1639 ou 1640. Fils de Michel Adhémar et de Cécile Gasche. Marié à 1) Geneviève Sageot, à Québec, en 1667. Contrat de mariage le 09-10-1667 (greff e Gilles Rajotte). Quatre enfants. 2) Marie Sédilot, au Cap-de-la-Madeleine (Qc), en 1684. Contrat de mariage le 08-02-1684 (greff e Jean Cusson). Un enfant. 3) Michelle Cusson, au Cap-de-laMadeleine (Qc), en 1687. Contrat de mariage le 04-01-1687 (greff e Sévérin Ameau). Un enfant. Inhumé à Montréal (Qc), le 16-04-1714. Arrivé à Québec le 17-08-1665, comme soldat de la compagnie Sorel du régiment de Carignan. Successivement notaire seigneurial de Sorel, Cap-de-la-Madeleine, Batiscan, etc. Notaire et greffi er de la seigneurie de Montréal (Qc), greffi er de la prévôté. (FG-DBC)",
+                "birthplace": "",
+                "deathplace": "Montréal (Qc)",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "CANAC dit Lacouture",
+                "firstname": "Étienne",
+                "bio": "CANAC dit Lacouture, Etienne. Né vers 1731. Fils d’Etienne Canac et de Marie Janin. Marié à Marie-Josèphe Rouillard, à Montréal (Qc), en 1763. Contrat de mariage le 09-10-1763 (greff e François Simonnet). Inhumé à Montréal (Qc), le 04-08-1779. (FG)",
+                "birthplace": "",
+                "deathplace": "Montréal (Qc)",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "CHESNE dit Lagrave",
+                "firstname": "Raymond",
+                "bio": "CHESNE dit Lagrave, Raymond. Marié à 1) Rose Maillot, au Québec, en 1690. Quatre enfants. 2) Marguerite Locas, au Québec, en 1700. Cinq enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "DELISLE",
+                "firstname": "Jacques",
+                "bio": "DELISLE, Jacques. Fils de Bernard Delisle et de Marie Lachaise. Marié à Marie-Louise Girot, à Québec, en 1738. Contrat de mariage le 18-09-1738 (greff e Jacques-Nicolas Pinguet de Vaucour). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "DESPLAN ou LESPLAN",
+                "firstname": "Jean-Baptiste",
+                "bio": "DESPLAN ou LESPLAN, Jean-Baptiste. Fils de Jean-Baptiste Desplan ou Lesplan et de Marguerite Boun. Marié à Marie-Josèphe Rochereau, à TroisRivières (Qc), en 1755. Contrat de Mariage le 22-01-1755 (greff e Louis Pillard). Deux enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "GALAUP DE LAPÉROUSE (de)",
+                "firstname": "Jean-François",
+                "bio": "GALAUP DE LAPÉROUSE (de)*, Jean-François. Navigateur et explorateur, offi cier de Marine. Né le 23-08-1741, au château de Gô, baptisé paroisse Saint-Julien. Fils de VictorJoseph de Galaup et de Marguerite de Resseguier. Marié à Éléonore Boudou en 1783. Il participe à de nombreuses expéditions contre les Anglais en Nouvelle-France, jusqu’en 1783, puis est envoyé par Louis XVI autour du monde, avec deux bateaux, pour une expédition scientifi que dont il ne reviendra pas. (VOIR CHAPITRE 1)",
+                "birthplace": "Galaup de La Pérouse",
+                "deathplace": "",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "MICHEL dit Saint-Michel",
+                "firstname": "André",
+                "bio": "MICHEL dit Saint-Michel, André. Né vers 1674. Fils de Pierre André et de Catherine Tresole. Marié à MarieFrançoise Valade, à Montréal (Qc), en 1718. Contrat de mariage le 16-10-1718 (greff e Michel Lepailleur de la Ferté). Sept enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "MONTAGNE dit Sanschagrin",
+                "firstname": "Raymond",
+                "bio": "MONTAGNE* dit Sanschagrin, Raymond. Soldat. Baptisé le 10-09-1725. Fils de Bernard Montagne et de Pérette Joulier. Marié à Marie Léger dite Richelieu, à Québec, le 26-02-1759. Sergent au régiment du Berry, compagnie de Mougon. (FG-FO)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "ROUFIAT",
+                "firstname": "Joseph",
+                "bio": "ROUFIAT, Joseph. Fils de Jean-Pierre Roufi at et d’Anne Bernard. Marié à Marie ou Marie-Marguerite Pépin, à Charlesbourg (Qc), en 1758. Contrat de mariage le 26-12-1757 (greff e JeanBaptiste Decharney). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "ALBI (81000)"
+            },
+            {
+                "lastname": "TROUILLET",
+                "firstname": "Louis",
+                "bio": "TROUILLET, Louis. Né vers 1662. Fils de Antoine Trouillet et d’Antoinette Benoît. Marié à Louise Dubois, à Chambly (Qc), le 18-01-1712. Quatre enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "ALBI (81000)"
+            }
+        ]
+    },
+    {
+        "name": "AUSSAC",
+        "postcode": "81600",
+        "population": " 214 hab.",
+        "description": "Arrondissement d’Albi (15 km, par D13 et D30). Sous l’Ancien Régime, diocèse d’Albi. Village fortifi é fondé au 13ème siècle. Château féodal ; église Saint-Pierre du 15ème siècle. Polyculture, vignobles AOC Gaillac.",
+        "characters": [
+            {
+                "lastname": "DALMAS dit Larose et l’Albijois",
+                "firstname": "Raymond",
+                "bio": "DALMAS dit Larose et l’Albijois, Raymond. Né vers 1652. Fils de jean Dalmas et de Marguerite Darelle. Marié à Jeanne Guillemet, à Saint-Michel-dela-Durantaye (Qc), en 1702. Contrat de mariage le 26-06-1702, déposé le 07-07-1702 (greff e Michel Lepailleur de la Ferté). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "AUSSAC (81600)"
+            }
+        ]
+    },
+    {
+        "name": "BELCASTEL",
+        "postcode": "81500",
+        "population": " 178 hab.",
+        "description": "Arrondissement de Castres (49 km, par D112 et D39). Sous l’Ancien Régime, diocèse de Lavaur. Village construit autours de son château et de son église. Église Saint-Étienne et château reconstruit au 19ème siècle. Rives du Nadalou. Fête patronale le 26 décembre",
+        "characters": [
+            {
+                "lastname": "COLET dit Lajoie",
+                "firstname": "Antoine",
+                "bio": "COLET dit Lajoie, Antoine. Fils de François Colet et de Marie-Anne Debou. Marié à Louise Paris, à Cap-Santé (Qc), le 19-02-1759. (NR)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "BELCASTEL (81500)"
+            }
+        ]
+    },
+    {
+        "name": "BRIATEXTE",
+        "postcode": "81390",
+        "population": " 1662 hab.",
+        "description": "Arrondissement de Castres (45 km, par D631 et D612). Sous l’Ancien Régime, diocèse de Castres. Bastide fondée par le sénéchal de Carcassonne au 13ème siècle. Assiégée puis rasée par le duc de Vendôme au 17ème siècle. Rues en angle droit et place centrale à arcades, église NotreDame-de-Beaux-lieux du 19ème siècle et souterrains à salles multiples d’En-Galinier. Rives du Dadou. Polyculture et coopérative agricole. Foires et marchés, fête patronale le 15 août.",
+        "characters": [
+            {
+                "lastname": "GUARIGUE",
+                "firstname": "jean",
+                "bio": "GUARIGUE, Jean. Né vers 1681. Fils de Pierre Guarigue. Marié à MarieAnne Bourget, à Québec, le 29-01-1709. Quatre enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "BRIATEXTE (81390)"
+            }
+        ]
+    },
+    {
+        "name": "CASTRES",
+        "postcode": "81100",
+        "population": " 43496 hab.",
+        "description": "Chef-lieu d’arrondissement. Sous l’Ancien Régime, diocèse suff ragant d’Albi. Une communauté Wisigothique existait en rive gauche de l’Agout, qui est devenue le quartier de Villegoudou. Une abbaye bénédictine, dépendant de celle de SaintVictor de Marseille, est fondée au 9ème siècle et qui deviendra très vite une étape importante sur la route de Compostelle. Haut lieux cathare au 12ème siècle, mais Castre s’est rendue à Simon de Montfort. La ville passe alors à la couronne de France, puis est élevée au rang d’évêché et le restera jusqu’à la Révolution. La ville a encore à souff rir des épidémies de peste noire, des Anglais et des pillards pendant la guerre de Cent Ans. La ville connaît alors un certain déclin. Elle se range derrière les protestants, puis profi te de la contre réforme avec une période d’expansion économique importante au 17ème siècle. Le palais épiscopal, plusieurs couvents et églises sont reconstruits et Castres devient le siège de la Chambre d’Edit du parlement de Toulouse. La ville jugée modérée perds son évêché à la Révolution et connaît au 19ème siècle une expansion rapide grâce aux fi latures. Centre historique en bordure de L’Agout et autour de l’hôtel de ville. Ancien palais épiscopal avec ses magnifi ques jardins et ancienne cathédrale Saint-Benoît, reconstruits au 17ème siècle. Maison de maître et châteaux, églises des 14ème et 15ème siècles, dont il ne reste que les clochers d’origine, reconstruites au 17ème siècle. Anciennes maisons des tanneurs en bordure de l’Agout. Maraîchage et élevage, coopérative agricole. Carrières, brasseries et industries du textile et en particulier de la laine. Industrie pharmaceutique. Musées Goya, Jean Jaurès, Briguiboul et Archéopole. Foires et marchés, animations et fêtes thématiques, visites guidées et fête patronale le 21 mars.",
+        "characters": [
+            {
+                "lastname": "COIGNET",
+                "firstname": "Jean",
+                "bio": "COIGNET, Jean. Fils de Jean Coignet et de Catherine Gillon ou Guillot. Marié à Marie Durand, à Québec, en 1697. Contrat de mariage le 29-09-1697 (greff e Charles Rougeot de SaintLuc). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "CORBIN",
+                "firstname": "David",
+                "bio": "CORBIN, David. Fils de Jean Corbin et d’Anne Carmel. Marié à Marie Parent dite Rancourt, à Québec, en 1670. Contrat de mariage le 13-02-1670 (greff e Paul Vachon). Quatre enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "DAVID",
+                "firstname": "Jacques",
+                "bio": "DAVID, Jacques. Marchand, greffi er et notaire royal. Né le 10-05-1685. Fils de Paul David et de Marie Moutet. Marié à Marie-Louise Normandin dite Sauvage, à Québec, en 1715. Contrat de mariage le 12-09-1715 (greffe Florent de Lacetière). Trois enfants. Décédé à Montréal (Qc), le 17-10-1726. (FG-FO)",
+                "birthplace": "",
+                "deathplace": "Montréal (Qc)",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "DONNADIEU DE PELISSIER",
+                "firstname": "Louis-Joseph",
+                "bio": "DONNADIEU DE PELISSIER, Louis-Joseph. Fils de Marc-Antoine Donnadieu de Pelissier et de Susanne de Guery. Marié à Louise-Marguerite Vallée, à Louisbourg (Nouvelle-Écosse), en 1757. Contrat de mariage le 28-10-1757 (greffe Guillaume Baqurisse). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "DORGUES",
+                "firstname": "Joseph",
+                "bio": "DORGUES, Joseph. Fils d’Etienne Dorgues et de Catherine Mercadime. Marié à Marie-Louise Guétier, à Charlesbourg (Qc), le 31-01-1757. Un enfant. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "GRIMAND",
+                "firstname": "François",
+                "bio": "GRIMAND, François. Maître menuisier. Né vers 1705. Fils de Jacques Grimand et de Jeanne Lapierre. Marié à Luce Giraudeau ou Girardeau, à Louisbourg (Nouvelle-Écosse), le 09-11-1730. Un enfant. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "GUARIGUE dit Sanschagrin ou Laguérite",
+                "firstname": "Jean",
+                "bio": "GUARIGUE dit Sanschagrin ou Laguérite, Jean. Né vers 1731. Fils de Pierre Guarigue et de Marie-Anne Baron. Marié à Marie-Anne Dumas, à Montréal (Qc), le 01-03-1756. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "GUELOU",
+                "firstname": "Joseph",
+                "bio": "GUELOU, Joseph. Fils de Jacques Guelou et de Madeleine Gabault. Marié à Marie-Josèphe Demeule, à Québec, le 31-03-1761. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "GUINOT dit Larose",
+                "firstname": "Bernard",
+                "bio": "GUINOT dit Larose, Bernard. Fils de Jean Guinot et de Marie Andrau. Marié à Th érèse-Victoire Poulin, à Québec, le 27-04-1761. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "MASCARÈNE",
+                "firstname": "Paul",
+                "bio": "MASCARÈNE, Paul. Offi cier, administrateur de la Nouvelle-Écosse. Né vers 1684. Fils de Jean Mascarène et de Margaret de Salavy. Marié à Elisabeth Perry de Boston. Quatre enfants. Décédé à Boston, le 22-01-1760. (DBC)",
+                "birthplace": "",
+                "deathplace": "Boston",
+                "mainplace": "CASTRES (81100)"
+            },
+            {
+                "lastname": "SICARD DE CAUFFEL",
+                "firstname": "Jean",
+                "bio": "SICARD DE CARUFEL, Jean. Fils de Pierre Sicard de Carufel et de Marie de Fargues. Marié à Geneviève Raté, à Saint-Pierre (Qc), en 1694. Contrat de Mariage le 25-11-1694, déposé le 08-11-1695 (greff e Etienne Jacob-père). Neuf enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "CASTRES (81100)"
+            }
+        ]
+    },
+    {
+        "name": "CURVALLE",
+        "postcode": "81250",
+        "population": " 494 hab.",
+        "description": "Arrondissement d’Albi (39 km, par D999 et D95). Sous l’Ancien Régime, diocèse d’Albi. Village déjà connu par les Romains pour l’exploitation de mines de plomb. Château de Lugan et églises de Négremont, Villeneuve-sur-Tarn et Saint-Pierre d’Illergues. Mairie située au bourg de Villeneuve-sur-Tarn. Vignobles et élevage. Foire et fête patronale le 8 décembre.",
+        "characters": [
+            {
+                "lastname": "FABRE dit Laterrière",
+                "firstname": "Henri-Marie-Pascal",
+                "bio": "FABRE dit Laterrière dit Pascal, Henri-Marie-Pascal. Garde magasins du Roi en Guadeloupe. Baptisé le 12-04-1727, paroisse Saint-Jacques. Fils de Pierre Fabre dit Laterrière et de Jeanne Rustan. Marié à Catherine Aubuchon dite l’Espérance, à Longue-Pointe (Qc), en 1760. Contrat de mariage le 12-01-1760 (greff e François Simonnet). Décédé à Pointe-à-Pitre (Guadeloupe), le 14-01-1787. (FG)",
+                "birthplace": "",
+                "deathplace": "Pointe-à-Pitre (Guadeloupe)",
+                "mainplace": "CURVALLE (81250)"
+            }
+        ]
+    },
+    {
+        "name": "DOURGNE",
+        "postcode": "81110",
+        "population": " 1186 hab.",
+        "description": "Arrondissement de Castres (20 km, par D85). Sous l’Ancien Régime, diocèse de Lavaur. La ville fut prise et détruite par Simon de Montfort au 13ème siècle, reconstruite sous la forme d’une bastide par Philippe le Bel. Elle devint alors un centre manufacturier important. Les protestants incendièrent l’église au 16ème siècle. Enfi n une abbaye bénédictine y est fondée en 1895. Maisons à arcade, mairie du 18ème siècle, ruines du château féodal et château de Limatgé. Église saint-Pierre du 16ème siècle et abbayes Saint-Benoîtd’En-Calcat, pour les hommes, et SainteScholastique, pour les femmes. Élevages de bovins et de chevaux. Visite de fermes en calèche. Marbreries. Foires et marchés, station climatique d’été, fêtes folkloriques et fête communale le premier dimanche d’août.",
+        "characters": [
+            {
+                "lastname": "ESCANDRE DES PERONNELLES",
+                "firstname": "Marc-Antoine",
+                "bio": "ESCANDRE DES PERONNELLES*, Marc-Antoine. Offi cier. Baptisé le 15-01-1705. Fils de Louis Escandre des Peronnelles et d’Antoinette de Born. Marié à Marie-Charlotte Loubier, à Québec, en 1754. Contrat de mariage le 07-07-1754 (greff e Claude Barolet). Lieutenant au régiment d’Agenois (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "DOURGNE (81110)"
+            }
+        ]
+    },
+    {
+        "name": "FAUCH",
+        "postcode": "81120",
+        "population": " 392 hab.",
+        "description": "Arrondissement d’Albi (20 km, par D13, D74 et D612). Sous l’Ancien Régime, diocèse d’Albi. Le village fut assiégé et détruit pendant les guerres de religion. Église gothique Saint-Vincent, restaurée. Polyculture et élevage de chevaux. Fête communale le deuxième dimanche après le 15 août.",
+        "characters": [
+            {
+                "lastname": "BOISSONNIÈRE Pierre",
+                "firstname": "",
+                "bio": "BOISSONNIÈRE Pierre. Fils de Pierre Boissonnière et de Louise Boue. Marié à Hélène Loyer, à Repentigny (Qc), en 1715. Contrat de mariage le 26-12-1715 (greff e Jean-Baptiste Adhémar). Quatre enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "FAUCH (81120)"
+            }
+        ]
+    },
+    {
+        "name": "GAILLAC",
+        "postcode": "81600",
+        "population": " 11073 hab.",
+        "description": "Arrondissement d’Albi (22 km, par D13 et D988). Sous l’Ancien Régime, diocèse d’Albi. Déjà citée par les gallo-romain puis par les Wisigoths et les Francs pour la qualité de ses vins, la ville était au 7ème siècle la propriété des évêques de Cahors. Au 10ème siècle le comte de Toulouse y fonda un monastère et lui fi t don de la ville et des biens alentours. Puis la ville fut prise par Simon de Montfort au 13ème siècle, par les Anglais au 14ème siècle, ravagées par les guerres de religion au 16ème siècle. Pendant les périodes de paix elle faisait le commerce du vin sur le Tarn. Quartiers anciens de Saint-Michel et de Peyriac très bien conservés avec de nombreux Hôtels particuliers du 13ème au 18ème siècle, hôtel de ville, halle, hôpital Saint-André. Église Saint-Michel, partie de l’ancienne abbaye, Couvent des bénédictines, église gothique Saint-Pierre et chapelles. Rives du Tarn. Polyculture, élevage et vergers. Vignobles AOC Gaillac, maison de la vigne et du vin, distilleries. Ville fl eurie, foires et marchés fêtes thématiques et fêtes patronales les 29 juin et 29 septembre.",
+        "characters": [
+            {
+                "lastname": "THOERY dit Delormeau",
+                "firstname": "Roch",
+                "bio": "THOERY* dit Delormeau, Roch. Né vers 1630. Soldat. Fils de Jean Th oéry et de Th orenne de Cuignac. Marié à Marie-Rogère Lepage, à Québec, en 1667. Contrat de mariage le 04-12-1667 (greff e Romain Becquet). Enseigne au régiment de Carignan-Salières, compagnie de Dugué. (FG-FO)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "GAILLAC (81600)"
+            }
+        ]
+    },
+    {
+        "name": "GRAULHET",
+        "postcode": "81300",
+        "population": " 12663 hab.",
+        "description": "Arrondissement de Castres (30 km, par D83). Sous l’Ancien Régime, diocèse de Castre. Présence très ancienne de la ville son château est mentionné au 10ème siècle. Le quartier de Penessac était inclus dans le bourg. Ville de tannage des peaux depuis le Moyen Âge. Maisons anciennes des 15ème et 16ème siècles, Château de Lézignac, hostellerie du Lyon d’Or. Il ne reste rien des demeures des Taff anel de la Jonquière, seigneurs du lieu. Chapelle Notre-Dame-des-Vignes, église fortifi ée Saint-Pierre-de-Rozéde et église SaintPierre-des-Ports. Églises Notre-Damedu-Val-d’Amour et Saint-François du 19ème siècle. Rives du Dadou et lac de Nabeillou. Coopérative agricole et pisciculture. Mégisserie et maroquinerie, zone industrielle. Ville fl eurie, marchés et foires, quinzaine commerciale.",
+        "characters": [
+            {
+                "lastname": "TAFFANEL DE LA JONQUIÈRE (de)",
+                "firstname": "Pierre-Jacques",
+                "bio": "TAFFANEL DE LA JONQUIÈRE (de)*, Pierre-Jacques. Marquis, gouverneur de la Nouvelle-France. Né le 18-04-1685 à la Jonquière. Fils de Jean de Taff anel de la Jonquière et de Catherine de Bonne, marquise. Marié à Marie-Angélique de la Valette, à Toulouse (Fr.), le 03-06-1721. Décédé à Québec, le 17-03-1752. (H. Manavit- Voir Chapitre 1). (TO BE DELETED)",
+                "birthplace": "la Jonquière",
+                "deathplace": "Québec",
+                "mainplace": "GRAULHET (81300)"
+            }
+        ]
+    },
+    {
+        "name": "LACAUNE",
+        "postcode": "81230",
+        "population": " 2914 hab.",
+        "description": "Arrondissement de Castres (47 km, par D622). Sous l’Ancien Régime, diocèse de Castres. Déjà citée au Moyen Âge, la ville est surtout connue depuis le début du 17ème siècle comme station thermale et station climatique pour les enfants. Trente-cinq statues-menhirs environ. Château de Calmels, lavoirs et maisons du 16ème siècle. Église Notre-Dame et chapelle de Saint-Pierre des Vidals. Élevage et salaisons. Carrières, eaux minérales de Montroucous, exploitation forestière et fi lature. Ville fl eurie, foires et marches, concerts et visites guidées, fête patronale le 15 août.",
+        "characters": [
+            {
+                "lastname": "CANAC",
+                "firstname": "Marc-Antoine",
+                "bio": "CANAC* dit Marquis, Marc-Antoine. Soldat. Baptisé le 01-11-1661, paroisse Saint-Étienne. Fils d’Alexandre Canac et d’Anne de Costeplane. Marié à Jeanne Nourice, à Sainte-Famille (Qc), le 09-11-1688. Huit enfants. Inhumé à Sainte-Famille (Qc), le 14-12-1745. Soldat dans les troupes de la Marine. (FG)",
+                "birthplace": "",
+                "deathplace": "Sainte-Famille (Qc)",
+                "mainplace": "LACAUNE (81230)"
+            }
+        ]
+    },
+    {
+        "name": "LAVAUR",
+        "postcode": "81500",
+        "population": " 8537 hab.",
+        "description": "Arrondissement de Castres (39 km, par D612 et D112). Sous l’Ancien Régime, diocèse suff ragant de Toulouse. Presance d’une cité à l’époque gallo-romaine. À partir du 10ème siècle, château, églises et prieuré s’implantent dans la ville qui devient au début du 13ème siècle une puissant place forte albigeoise. Évêché suff ragant de l’archidiocèse de Toulouse, la ville résistât aux Anglais pendant la guerre de Cent Ans mais tomba aux mains des protestants. Elle fut le siège des états généraux du Languedoc à la fi n du 16e siècle. Vestiges des remparts et maisons anciennes dans la ville. Ancienne abbatiale devenue cathédrale SaintAlain du 14e siècle, église Saint-François de la même époque, chapelles et sanctuaire. Châteaux, fontaines, halle aux grains et pont Saint-Roch sur l’Agout du 18ème siècle. Pont du chemin de fer du 19ème siècle. Rives de l’Agout. Céréales et vergers, maraîchage. Confi serie, artisanat, tannerie et industrie de la laine. Musée du pays vaurais. Foires et marchés, commémoration de la prise de la ville par Simon de Montfort, fête locale le premier dimanche de septembre.",
+        "characters": [
+            {
+                "lastname": "GILES",
+                "firstname": "Jean",
+                "bio": "GILES, Jean. Soldat, compagnie le baron. Né vers 1740. Fils d’Antoine Giles et d’Anne Andevotte. Marié a Marguerite Robion, à Miquelon (Saint-Pierre et Miquelon), le 13-08-1764. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "LAVAUR (81500)"
+            }
+        ]
+    },
+    {
+        "name": "LE VERDIER",
+        "postcode": "81140",
+        "population": " 213 hab.",
+        "description": "Arrondissement d’Albi (35 km, par N88, D988, D964 et D15). Sous l’Ancien Régime, diocèse d’Albi. Petit village rural. Église gothique Saint-Pierre du 16ème siècle et maisons anciennes. Rives de la Vèvre. Vignes et élevage. Fête patronale le 20 juillet.",
+        "characters": [
+            {
+                "lastname": "PUEL",
+                "firstname": "Victor",
+                "bio": "PUEL, Victor. Fils de Barthélemy Puel et de Catherine Carelle. Marié à Agnès Sondaisse ou Freingist, à Pointe-Coupée (Louisiane), le 01-02-1763. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "LE VERDIER (81140)"
+            }
+        ]
+    },
+    {
+        "name": "MAILHOC",
+        "postcode": "81130",
+        "population": " 222 hab.",
+        "description": "Arrondissement d’Albi (15 km par D27 et D600). Sous l’Ancien Régime, diocèse d’Albi. Ancien village fortifi é. Vestiges de fortifi cations, château du 13ème siècle, églises Saint-Éloi et Saint-Jean le Froid. Habitat dispersé. Rives de la Vèvre. Polyculture, élevage et vignobles. Fête locale le deuxième dimanche de septembre.",
+        "characters": [
+            {
+                "lastname": "GIBERT",
+                "firstname": "Jean",
+                "bio": "GIBERT, Jean. Fils d’Armand Gibert et d’Anne Hospitalière ou Spitalier. Marié à Marie-Josèphe Favreau, à Boucherville (Qc), en 1759. Contrat de mariage le 18-02-1759 (greff e Antoine Loiseau dit Châlon). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "MAILHOC (81130)"
+            }
+        ]
+    },
+    {
+        "name": "MARSSAC-SUR-TARN",
+        "postcode": "81150",
+        "population": " 2392 hab.",
+        "description": "Arrondissement d’Albi (9 km, par D13). Sous l’Ancien Régime, diocèse d’Albi. Place forte au 12ème siècle, ravagée pendant les guerres de religion. Château du Bue, église et oratoire Notre-Damed’Olivèges. Pont sur le Tarn du 18ème siècle. Rives du Tarn. Polyculture et élevage. Distillerie, salaison et artisanat traditionnel. Fête communale le premier dimanche de mai.",
+        "characters": [
+            {
+                "lastname": "LAROCQUE dit Lafontaine",
+                "firstname": "Guillaume",
+                "bio": "LAROCQUE dit Lafontaine, Guillaume. Né vers 1682. Fils d’Antoine Larocque et d’Anne Morel. Marié à Jeanne Boivin, à Montréal (Qc), le 21-03-1717. Neuf enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "MARSSAC-SUR-TARN (81150)"
+            }
+        ]
+    },
+    {
+        "name": "MONTANS",
+        "postcode": "81600",
+        "population": " 1061 hab.",
+        "description": "Arrondissement d’Albi (27 km, par D13, D988 et D87). Sous l’Ancien Régime, diocèse d’Albi. Au Moyen Âge un important port de commerce sur le Tarn assure le développement de la ville qui au 10ème siècle s’étendait sur les deux rives de la rivière. Motte féodale de Fioles et souterrains de Babanel. Églises Saint-Martin du 15ème siècle et Saint-Martin-duTaur. Rives du Tarn. Polyculture et vignobles AOC Gaillac. Site archéologique et maison des Arts et du Terroir. Salon du livre en juin et fête patronale le dimanche avant le 11 novembre.",
+        "characters": [
+            {
+                "lastname": "BERTRAND",
+                "firstname": "Jean ou Jacques",
+                "bio": "BERTRAND*, Jean ou Jacques. Mar- chand. Baptisé le 19-10-1725. Fils de Georges Bertrand et de Cécile Bressole ou Vressole. Marié à Marie-Angélique Serre, à Montréal (Qc), le 27-10-1766. Décédé à Montréal (Qc), le 16-09-1796. (FG)",
+                "birthplace": "",
+                "deathplace": "Montréal (Qc)",
+                "mainplace": "MONTANS (81600)"
+            }
+        ]
+    },
+    {
+        "name": "MOUZENS",
+        "postcode": "81470",
+        "population": " 96 hab.",
+        "description": "Arrondissement de Castres (38 km, par N126 et D92). Sous l’Ancien Régime, diocèse de Lavaur. Petit village rural. Ruines du château, souterrain refuge et église de L’Assomption, ancienne dépendance du château. Polyculture. Fête patronale le 15 août.",
+        "characters": [
+            {
+                "lastname": "FOUCAUD (de)",
+                "firstname": "Jean",
+                "bio": "FOUCAUD (de)*, Jean. Chirurgien. Né vers 1681. Fils de Gabriel de Foucaud, sieur de Mouzens et de RoseGermaine-Elie de Villarsel. Marié à 1) Marguerite Prud’homme, à Montréal (Qc), en 1703. Contrat de mariage le 22-01-1703 (greff e Antoine Adhémar). 2) Jeanne Taillandier, à Montréal (Qc), en 1730. Contrat de mariage sous seing privé, déposé le 07-02-1730 (greff e Jean-Baptiste Adhémar). Décédé à Montréal (Qc), le 13-04-1749. (FG-FO)",
+                "birthplace": "",
+                "deathplace": "Montréal (Qc)",
+                "mainplace": "MOUZENS (81470)"
+            }
+        ]
+    },
+    {
+        "name": "PUYLAURENS",
+        "postcode": "81700",
+        "population": " 2792 hab.",
+        "description": "Arrondissement de Castres (22 km, par N126). Sous l’Ancien Régime, diocèse de Lavaur. Ville natale de Guillaume de Puylaurens, châtelain des comtes de Toulouse. Place forte des albigeois puis des calvinistes et siège d’une académie protestante jusqu’à la révocation de l’édit de Nantes. Vestiges des remparts et ruines du château, château d’En Pinel du 18ème siècle. Églises Notre-Dame-duLac, Saint-Jean-de-Tourtrac, de la Barthe et Saint Cyrice d’Ardialle du 17ème siècle. Polyculture, élevage et coopérative agricole. Élevage de lapins et de volailles. Foires et marchés thématiques, expositions et visites, fête patronale le dernier dimanche d’août.",
+        "characters": [
+            {
+                "lastname": "CÔTÉ",
+                "firstname": "François",
+                "bio": "CÔTÉ, François. Forgeron. Baptisé le 30-12-1717. Fils de Jean Côté et de Suzanne Jarlan. Marié à 1) Véronique ou Marie Rousset, à Petite-RivièreSaint-François (Qc), en 1761. Contrat de mariage le 20-08-1761 (greff e Antoine Crépin). 2) Josèphe Martin, à Boucherville (Qc), le 21-01-1782. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "PUYLAURENS (81700)"
+            },
+            {
+                "lastname": "JULIEN",
+                "firstname": "Jacques",
+                "bio": "JULIEN, Jacques. Né vers 1679. Fils de Louis Julien et de Marguerite Dufresne. Marié à Marie Barbe ou Marie-Anne Dupond, à Montréal (C), en 1709. Contrat de mariage le 20-05-1709 (greff e Antoine Adhémar). Quatre enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "PUYLAURENS (81700)"
+            },
+            {
+                "lastname": "LACOSTE",
+                "firstname": "Antoine",
+                "bio": "LACOSTE, Antoine. Né vers 1733. Fils de Jacques Lacoste et d’Anne Montmarquet. Marié à Marie-Josèphe Campagna, à Montréal (Qc), en 1758. Contrat de mariage le 27-04-1758 (greff e Pierre Mézière). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "PUYLAURENS (81700)"
+            }
+        ]
+    },
+    {
+        "name": "RABASTENS",
+        "postcode": "81800",
+        "population": " 4176 hab.",
+        "description": "Arrondissement d’Albi (37 km, par D13 et D988). Sous l’Ancien Régime, diocèse d’Albi. Place forte cathare, la ville dotée d’un prieuré depuis le 12ème siècle, fut prise et rasée par Simon de Montfort au début du 13ème siècle. Au 14ème siècle elle subit, entre autres calamités, la peste. Puis elle fut prise par les protestants, ravagée pendant les guerres de religion, pour ne retrouver le calme qu’après sa soumission à Henri IV à la fi n du 16ème siècle. Remparts dominant le Tarn, maisons anciennes des 15ème et 16ème siècles, hôtel de ville, hôtel de La Fite, Châteaux de Saint-Géry, de la Castagne et de Foncoussière. Église Notre-Dame-duBourg des 13ème et 14ème siècles, église Saint-Pierre dite des blancs, Chapelle Saint-Michel et nombreuses églises alentours. Rives du Tarn et observatoire de Saint-Caprais. Vignes et vergers, élevage et vignobles AOC Gaillac. Cave coopérative et coopérative agricole, industrie du meuble. Marchés et foires thématiques, fête locale le 15 août.",
+        "characters": [
+            {
+                "lastname": "GELLY",
+                "firstname": "Jean",
+                "bio": "GELLY, Jean. Fils de Jean Gelly et de Raymonde Robert. Marié à Ursule Turbar ou Th urbart, à Québec, en 1667. Contrat de mariage le 11-10-1667 (Greff e Romain Becquet). Sept enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "RABASTENS (81800)"
+            }
+        ]
+    },
+    {
+        "name": "SAINT-AMANS-VALTORET",
+        "postcode": "81240",
+        "population": " 966 hab.",
+        "description": "Arrondissement de Castres (28 km, par N112 et D612). Sous l’Ancien Régime, diocèse de Castres. Prieuré bénédictin, fondé au 8ème siècle, dont il ne reste qu’une tour. Ruine de l’ancien château, église fortifi ée, four banal du 17ème siècle et moulin de Saint-Pierre. Plan d’eau sur la rivière de Dadou, rives de l’Arn, du Th oré et gorges du Banquet. Pâturage et élevage, exploitation du talc et tanneries. Base nautique, foires et fête communale le 4 août.",
+        "characters": [
+            {
+                "lastname": "ABEROUX dit Larose",
+                "firstname": "Pierre",
+                "bio": "ABEROUX dit Larose, Pierre. Né vers 1623 ou 1627. Fils de Jean Abéroux et de Jeanne ou Anne Rigaud. Marié à 1) Anne Mery, fi lle du Roy, en 1669. Contrat de mariage le 23-10-1669 (greff e Pierre Duquet). 2) Marie-Anne Despernay, à Pointe-aux-Trembles (Qc), en 1675. Contrat de mariage le 12-04-1675 (greff e Th omas Frérot). Quatre enfants. Inhumé à Boucherville (Qc), le 05-12-1742. (FG)",
+                "birthplace": "",
+                "deathplace": "Boucherville (Qc)",
+                "mainplace": "SAINT-AMANS-VALTORET (81240)"
+            }
+        ]
+    },
+    {
+        "name": "SAINT-BENOÎT-DE-CARMAUX",
+        "postcode": "81400",
+        "population": " 2265 hab.",
+        "description": "Arrondissement d’Albi (16 km, par N88). Sous l’Ancien Régime, diocèse d’Albi. La ville s’est construite autours de ses mines de charbon, et développement industriel engendré par cette industrie. Église gothique du 13ème siècle très remaniée au cours des restaurations successives. Cokeries et industrie du plastique.",
+        "characters": [
+            {
+                "lastname": "JOBIN dit Boisvert",
+                "firstname": "Jean",
+                "bio": "JOBIN dit Boisvert, Jean. Fils de Benigne Jobin et de Jeanne Rivos. Marié à Françoise Renaud dite Locas, à Grondine (Qc), le 02-05-1694. Six enfants. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "SAINT-BENOÎT-DE-CARMAUX (81400)"
+            }
+        ]
+    },
+    {
+        "name": "SAINT-GERMIER",
+        "postcode": "81210",
+        "population": " 120 hab.",
+        "description": "Arrondissement de Castres (10 km, par D612). Sous l’Ancien Régime, diocèse de Lavaur. Château de Saint-Germier et église du 19ème siècle. Polyculture. Fête patronale le 16 mai.",
+        "characters": [
+            {
+                "lastname": "DANDEGAUD DE LAPIVRANE",
+                "firstname": "Pierre",
+                "bio": "DANDEGAUD DE LAPIVRANE, Pierre. Né vers 1726. Fils de Simon Dandegaud de Lapivrane et d’AnneSylvie Delapelterie. Marié à Françoise Parent, à Montréal (Qc), le 18-10-1758. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "SAINT-GERMIER (81210)"
+            }
+        ]
+    },
+    {
+        "name": "SAINT-JEAN-DE-VALS",
+        "postcode": "81210",
+        "population": " 54 hab.",
+        "description": "Arrondissement de Castres (13 km, par D612 et D30). Sous l’Ancien Régime, diocèse de Castres. Présence des Wisigoths. Église Saint-Jean-Baptiste des 18ème et 19ème siècles. Polyculture et élevage. Fête patronale le 24 juin.",
+        "characters": [
+            {
+                "lastname": "CAZE DE LAFERRIÈRE dit Cambise",
+                "firstname": "Etienne",
+                "bio": "CAZE DE LAFERRIÈRE dit Cambise, Etienne. Fils de Jean-Louis Caze de Laferrière et de Charlotte de Foncebranne. Marié à 1) Ursule Rouillard, à Québec, en 1759. Contrat de mariage le 06-01-1759 (greff e Claude Barolet). 2) Marie-Anne Voyer, à Québec, le 20-12-1767. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "SAINT-JEAN-DE-VALS (81210)"
+            }
+        ]
+    },
+    {
+        "name": "SAINT-PIERRE-DE-TRIVISY",
+        "postcode": "81330",
+        "population": " 609 hab.",
+        "description": "Arrondissement de Castres (35 km, par D89, D55 et D53). Sous l’Ancien Régime, diocèse de Castres. Le village s’appelait autrefois Sénégas-de-Trivisy et l’on retrouve les ruines de l’ancien château de Sénégas. Église Saint-Pierre et chapelle Notre-dame-de-Tournadous du 19ème siècle. Temple protestant. Rives du Gijou et du Dadounet. Polyculture, élevage, salaisons et fromage de Roquefort. Foires et marchés, parc aquatique, station verte, fête patronale le 29 juin.",
+        "characters": [
+            {
+                "lastname": "BERTHOUMIEU",
+                "firstname": "François",
+                "bio": "BERTHOUMIEU, François. Fils de Jacques Berthoumieu et de Marguerite Lacour. Marié à Angélique Reguindau, à Boucherville (Qc), en 1757. Contrat de mariage le 01-02-1757 (greff e Antoine Loiseau dit Châlon). (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "SAINT-PIERRE-DE-TRIVISY (81330)"
+            }
+        ]
+    },
+    {
+        "name": "SOUAL",
+        "postcode": "81580",
+        "population": " 1987 hab.",
+        "description": "Arrondissement de Castres (13 km, par N126). Sous l’Ancien Régime, diocèse de Lavaur. Petite ville au pied de la montagne noire, au croisement des routes Toulouse-Bezier et Castes-Castelnaudary. Citée au 12ème siècle. Ses remparts furent rasés au 16ème siècle. Châteaux et église Sainte-Sigolène des 14ème et 15ème siècles. Rives du Sor et du Sant. Polyculture, élevage, pâturages et vignobles. Coopérative agricole, distilleries, ébénisterie d’art. Foires et fête patronale le dernier dimanche de juillet.",
+        "characters": [
+            {
+                "lastname": "PERIEUX",
+                "firstname": "Jacques",
+                "bio": "PERIEUX, Jacques. Fils de Jean Perieux et de Jeanne Martin. Marié à Anne Barbay, à Saint-Charles-des-Allemands (Louisiane), le 08-05-1753. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "SOUAL (81580)"
+            }
+        ]
+    },
+    {
+        "name": "TONNAC",
+        "postcode": "81170",
+        "population": " 136 hab.",
+        "description": "Arrondissement d’Albi (34 km, par D600 et D91). Sous l’Ancien Régime, diocèse d’Albi. Village fondé au 13ème siècle. Le château a disparu. On y trouve quelques belles maisons du 16ème siècle. Église gothique de Saint-Pierre-de-Tonnac du 16ème siècle. Élevage et vignobles AOC Gaillac. Foires et fête patronale le 29 juin.",
+        "characters": [
+            {
+                "lastname": "DELPÊCHE ou DALPEC dit Bélair",
+                "firstname": "Bernard",
+                "bio": "DELPÊCHE ou DALPEC dit Bélair, Bernard. Né vers 1641 ou 1644. Fils de Jean Delpêche ou Dalpec et de Jeanne Tisseran. Marié à 1) Marguerite Levigneux ou Levaigneur, fi lle du Roy, en 1667. Contrat de mariage le 25-10-1667, annulé le 22-11-1667 (greff e Bénigne Basset dit Deslauriers). 2) Marguerite Jourdain, à Montréal (Qc), en 1667. Contrat de mariage le 23-11-1667 (greff e Bénigne Basset dit Deslauriers). Six enfants. Inhumé à Repentigny (Qc), le 10-12-1687. (FG)",
+                "birthplace": "",
+                "deathplace": "Repentigny (Qc)",
+                "mainplace": "TONNAC (81170)"
+            },
+            {
+                "lastname": "SABATÉ",
+                "firstname": "Jean",
+                "bio": "SABATÉ, Jean. Fils de Bernard Sabaté et de Marie Bernèche. Marié à Marie Coutan, à Québec, en 1751. Contrat de mariage le 21-02-1751 (greff e Simon Sanguinet). Un enfant. (FG)",
+                "birthplace": "",
+                "deathplace": "",
+                "mainplace": "TONNAC (81170)"
+            }
+        ]
+    },
+    {
+        "name": "VILLEFRANCHE-D’ALBIGEOIS",
+        "postcode": "81430",
+        "population": " 957 hab.",
+        "description": "Arrondissement d’Albi (14 km, par D999). Sous l’Ancien Régime, diocèse d’Albi. Bastide fondée par Philippe de Montfort au 13ème siècle. Vestiges de fossés médiévaux et églises Notre-Dame-duBon-Secours du 17ème siècle et SaintBarthélemy-de-Fabas du 19ème siècle. Rives du Tarn et de l’Assou. Polyculture, élevage et arbres fruitiers. Exploitation forestière. Foire et fête patronale le 8 septembre.",
+        "characters": [
+            {
+                "lastname": "RAUQUE ou ROQUES",
+                "firstname": "Jacques",
+                "bio": "RAUQUE ou ROQUES* dit Lalancette, Jacques. Baptisé le 27-09-1733. Fils de Jacques Rauque ou Roques, chirurgien et de Marie-Anne Tessier. Marié à Agathe Depin dite Giguère, à Yamaska (Qc), en 1763. Contrat de mariage le 25-09-1763 (greff e PierreFrançois Rigaud). Un enfant. Décédé à Yamaska (Qc), le 31-03-1810. (FG)",
+                "birthplace": "",
+                "deathplace": "Yamaska (Qc)",
+                "mainplace": "VILLEFRANCHE-D’ALBIGEOIS (81430)"
+            }
+        ]
+    },
+    {
+        "name": "VIVIERS-LÈS-MONTAGNES",
+        "postcode": "81290",
+        "population": " 1693 hab.",
+        "description": "Arrondissement de Castres (18 km par N126 et D50). Sous l’Ancien Régime, diocèse de Lavaur. Construction du château de Viviers au 13ème siècle intégré dans les fortifi cations de la bastide fondée au 14ème siècle. La ville fut dévastée à plusieurs reprises par les huguenots au 16ème siècle. Église gothique SaintMartin du 15ème siècle remaniée à plusieurs reprises. Rives du Bernazobre. Élevage et pâturage, coopérative agricole et exploitation forestière. Fête patronale le 16 août.",
+        "characters": [
+            {
+                "lastname": "BONNE DE MISSÉGLE (de)",
+                "firstname": "Louis",
+                "bio": "BONNE DE MISSÈGLE* (de), Louis. Chevalier, capitaine de fusiliers. Baptisé le 15-01-1717. Fils de Louis-Joseph de Bonne de Missègle et de Marie de Villeneuve. Marié à Marie-Louise Prud’homme, à Montréal (Qc), en 1751. Contrat de Mariage le 10-07-1751 (greff e Louis-Claude Danré de Blanzy). Un enfant. Inhumé à l’hôpital Général de Québec, le 29-04-1760. (FG-Les morts de la guerre de sept ans). (TO BE DELETED)",
+                "birthplace": "",
+                "deathplace": "Hôpital Général de Québec",
+                "mainplace": "VIVIERS-LÈS-MONTAGNES (81290)"
+            }
+        ]
+    }
+]

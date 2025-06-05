@@ -2,7 +2,7 @@
 
 # IMPORTANT : EDIT greff e -> greffe, offi -> officel (ou autre) and remove (TO BE DELETED)
 
-## Departement traités
+## Departements traités
 
 - Poitou - Charentes (n11)
 

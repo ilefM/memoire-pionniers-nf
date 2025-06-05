@@ -4,9 +4,7 @@ import pandas as pd
 from typing import List
 from characters import Character, extract_characters
 from towns import Town, extract_towns
-from mistral import extract_information_bio
-
-# En attente de AI seulement 2: gironde, landes, lot-et-garonne, pyrenees-atlantiques, ariege, aveyron, haute-garonne, gers, lot, hautes-pyrenees, tarn, tarn-et-garonne
+from mistral import extract_birthplace, extract_deathplace
 
 # En attente de AI 9: alpes-haute-provence, hautes-alpes, alpes-maritimes, bouches-du-rhone, var, vaucluse, aude, gard, herault, lazere, pyrenees-orientales
 
@@ -14,9 +12,9 @@ from mistral import extract_information_bio
 
 # En attente de AI 10: loire-atlantique, maine-et-loire, mayenne, sarthe, vendee 
 
-# En attente de AI 12: ain, ardeche, drome, isere
+# En attente de AI 12: ain, ardeche, drome, isere~
 
-DEPARTMENT = "isere"
+DEPARTMENT = "var"
 
 def read_file(department):
     dataLines = []
@@ -47,6 +45,13 @@ def main():
         
         characters_partial = extract_characters(town["characters_text"], town["known_characters"], town["name"])
         for char in characters_partial:
+            
+            birthplace = extract_birthplace(char['bio'])
+            char['birthplace'] = birthplace
+
+            deathplace = extract_deathplace(char['bio'])
+            char['deathplace'] = deathplace
+            
             # data = extract_information_bio(char["bio"])
             # data_list = list(data.values())
             # char["birthplace"] = data_list[0]
