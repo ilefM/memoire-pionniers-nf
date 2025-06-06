@@ -1,0 +1,50 @@
+[
+    {
+        "lastname": "COMBES",
+        "firstname": "Jean-Baptiste",
+        "bio": "COMBES, Jean-Baptiste. Fils de Barthélemy Combes et de Anne Darzilaute de Terrerouge. Marié à Marguerite Beaumont, à Louisbourg (N.E), en 1756. Contrat de mariage le 21-02-1756 (greffe Guillaume Bacquerisse). (FG)",
+        "birthplace": "",
+        "deathplace": "",
+        "mainplace": "BÉDOUÈS (48400)"
+    },
+    {
+        "lastname": "COTE dit Lafleur",
+        "firstname": "Jean",
+        "bio": "COTE dit Lafleur, Jean. Né vers 1729. Fils de Antoine Côté et de Elisabeth Lafleur. Marié à 1) Marie-Françoise Lefebvre, à SaintConstant (Qc), en 1768. Contrat de mariage le 04-06-1768 (greffe Pierre Lalanne). 2) Thérèse Pouliot, à Laprairie (Qc), en 1772. Contrat de Mariage le 13-06-1772 (greffe Pierre Lalanne). Deux enfants. Inhumé à Saint-Constant (Qc), le 20-10-1789. (NR-FG-PRDH)",
+        "birthplace": "",
+        "deathplace": "Saint-Constant (Qc)",
+        "mainplace": "GRÈZES (48100)"
+    },
+    {
+        "lastname": "COULON dit Belair",
+        "firstname": "Ferréol",
+        "bio": "COULON dit Belair, Ferréol. Né vers 1730. Fils de Jean Coulon et de Marie-Anne Bourgeat ou Bougade. Marié à 1) Marie-Louise Boudier, à Montréal (Qc), le 13-07-1761. 2) Marie-Catherine Maurice dite Lafantaisie à Montréal (Qc), en 1764. Contrat de mariage le 20-01-1764 (greffe André Souste). Un enfant. Inhumé à Montréal (Qc), le 25-05-1772. (FG-PRDH)",
+        "birthplace": "",
+        "deathplace": "Montréal (Qc)",
+        "mainplace": "MENDE (48000)"
+    },
+    {
+        "lastname": "CREPIN dit Beausoleil",
+        "firstname": "Jean",
+        "bio": "CREPIN dit Beausoleil, Jean. Soldat. Né vers 1733. Soldat. Fils de Pierre Crépin et de Marie Froment. Marié à Marie-Joséphe Métayer dite Saintonge, à l’Ange-Gardien (Qc), en 1758. Contrat de mariage le 06-01-1758 (greffe Nicolas Huot). Quatre enfants. Inhumé à Chateaugay (Qc), le 27-05-1801. Soldat au régiment de la Reine, compagnie Hébécourt. (FG-FO)",
+        "birthplace": "",
+        "deathplace": "Chateaugay (Qc)",
+        "mainplace": "LE-MONASTIER-PIN-MORIES (48100)"
+    },
+    {
+        "lastname": "SOULIER ou SOULIERES dit Beaufleury",
+        "firstname": "Jacques",
+        "bio": "SOULIER* ou SOULIERES dit Beaufleury, Jacques. Soldat. Né le 09-09-1730. Fils de Antoine Soulier et Jeanne Rouel. Marié à Marie-Elisabeth Raymond dite Passecampagne, à Sainte-Annede-Bellevue (Qc), le 07-07 1760. Inhumé à Les-Cèdres (Qc), le 03-06-1811. Soldat des troupes de la Marine, compagnie de Maziére. (FG-FO-PRDH)",
+        "birthplace": "",
+        "deathplace": "Les-Cèdres (Qc)",
+        "mainplace": "GABRIAS (48100)"
+    },
+    {
+        "lastname": "SYLVESTRE dit Beausoleil",
+        "firstname": "Simon",
+        "bio": "SYLVESTRE dit Beausoleil, JeanSimon. Fils de Simon Sylvestre et de Marie Forninque. Marié à Marguerite Baillargeon dite Bocage, à Sorel (Qc), en 1763. Contrat de Mariage déposé le 04-11-1763 (greffe François Simonnet). Deux enfants. Inhumé à Berthier-le-Haut (Qc), le 10-11-1797. (FG-PRDH)",
+        "birthplace": "",
+        "deathplace": "Berthier-le-Haut (Qc)",
+        "mainplace": "CHIRAC (48100)"
+    }
+]

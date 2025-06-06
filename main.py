@@ -6,15 +6,11 @@ from characters import Character, extract_characters
 from towns import Town, extract_towns
 from mistral import extract_birthplace, extract_deathplace
 
-# En attente de AI 9: alpes-haute-provence, hautes-alpes, alpes-maritimes, bouches-du-rhone, var, vaucluse, aude, gard, herault, lazere, pyrenees-orientales
-
-# En attente de AI 3: calvados, manche, orne, eure, seine-maritime,
-
 # En attente de AI 10: loire-atlantique, maine-et-loire, mayenne, sarthe, vendee 
 
 # En attente de AI 12: ain, ardeche, drome, isere~
 
-DEPARTMENT = "var"
+DEPARTMENT = "vendee"
 
 def read_file(department):
     dataLines = []
