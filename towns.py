@@ -71,7 +71,7 @@ def extract_towns(data_lines, characters_index):
         if len(current_town_characters) == 0:
             print(name)
             raise Exception("no characters found, verify the txt files")
-        first_character = current_town_characters[0].split()[0].replace(",", "");
+        first_character = current_town_characters[0].split()[0].replace(",", "")
 
         
         i = 2

@@ -2,15 +2,6 @@
 
 # IMPORTANT : EDIT greff e -> greffe, offi -> officel (ou autre) and remove (TO BE DELETED)
 
-## Departements traités
-
-- Poitou - Charentes (n11)
-
-  - Charente
-  - Charente-maritime
-  - Deux-sèvres
-  - Vienne
-
 - Aquitaine - Midi-Pyrénées (n2)
 
   - Dordogne TODO:
@@ -123,3 +114,9 @@
   - ain
 
     - PICQUET, François - Bourg-en-Bresse et Verjon (jai mis le personnage dasn deux lignes dindex (deux villes pour le meme village))
+
+  - bas-rhin
+
+    - strarbourg p116 differente sous lieu principal comme paroisse
+
+- le personnage Anne, Godard a deux histoires differentes

@@ -4,13 +4,16 @@ import pandas as pd
 from typing import List
 from characters import Character, extract_characters
 from towns import Town, extract_towns
-from mistral import extract_birthplace, extract_deathplace
+from mistral import extract_birthplace, extract_deathplace 
 
-# En attente de AI 10: loire-atlantique, maine-et-loire, mayenne, sarthe, vendee 
+# En attente de AI 12: ain, ardeche, drome, isere, allier, cantal, drome, haute-loire, haute-savoie, loire, puy-de-dome, rhone, savoie, correze, creuse, haute-vienne
+# 1: ardennes, aube, marne, haute-marne, bas-rhin, haut-rhin, meurthe-et-moiselle, meuse, moselle, vosges
 
-# En attente de AI 12: ain, ardeche, drome, isere~
+# 4: cote-dor, nievre, saone-et-loire, yonne, doubs, jura, haute-saone, territoire-de-belfort
 
-DEPARTMENT = "vendee"
+# 8: nord, pas-de-calais
+
+DEPARTMENT = "nord"
 
 def read_file(department):
     dataLines = []
@@ -42,11 +45,11 @@ def main():
         characters_partial = extract_characters(town["characters_text"], town["known_characters"], town["name"])
         for char in characters_partial:
             
-            birthplace = extract_birthplace(char['bio'])
-            char['birthplace'] = birthplace
+            # birthplace = extract_birthplace(char['bio'])
+            # char['birthplace'] = birthplace
 
-            deathplace = extract_deathplace(char['bio'])
-            char['deathplace'] = deathplace
+            # deathplace = extract_deathplace(char['bio'])
+            # char['deathplace'] = deathplace
             
             # data = extract_information_bio(char["bio"])
             # data_list = list(data.values())

@@ -39,8 +39,7 @@ ou Métivier, à Québec, le 24-11-1732.
 2) Marie-Louise Parent, à Beauport
 (Qc), le 20-01-1738. (FG)
 ECULLY
-(69130)
-18 171 hab.
+(69130) - 18 171 hab.
 À la porte de Lyon-Vaise. À
 la Renaissance, des peintres,
 des échevins, de riches
@@ -237,7 +236,7 @@ qu’un catéchisme et un livre de prière
 en cette langue. Jusqu’à sa mort en
 1712, il s’est dévoué à cette mission
 de Kahnawake. (DBC-Archives de la
-Gironde)
+Gironde). (TO BE DELETED)
 BRY DE BROSSE (de), Jean. Fils
 d’Emmanuel de Bry de Brosse, maître
 des fi nances royales de la ville de Lyon,
@@ -365,8 +364,7 @@ DUFOURNEL*, Louis-Gaspard. Prêtre.
 Né le 15-09-1662. Fils de Guillaume
 Dufournel, avocat au parlement et à la
 cour de Lyon. Décédé le 30-03-1757
-à l’Ange-Gardien (Qc). (DBC-Voir
-Chapitre 1)
+à l’Ange-Gardien (Qc). (DBC-VOIR CHAPITRE 1)
 DUHON, Jean. Né paroisse Saint-
 Nizier. Fils de Jean-Louis Duhon et
 de Jeanne Clémenson. Marié à Agnès
@@ -453,7 +451,7 @@ pour retourner à Lyon, sa ville natale. Il
 décède après le 6 septembre 1658. (Les
 Compagnons Jésuites en Nouvelle-
 France de Denise Bordeleau Pépin,
-éditions du Long-Sault).
+éditions du Long-Sault). (TO BE DELETED)
 FUSELIER, Gabriel. Né paroisse
 Saint-Nizier. Fils de Pierre Fuselier et
 de Lugdevine Chaufouroux. Marié à
@@ -749,7 +747,7 @@ homme de métier doublé d’un
 esprit éclairé au sens du 18ème
 siècle. (DBC-Voir Livre N°9 :
 Provence-Alpes-Côte d’Azur-
-Chapitre 1)
+Chapitre 1). (TO BE DELETED)
 MICHELON, Michel. Fils
 de Michel Michelon et de
 Clémence Cornelier. Marié à
@@ -1116,7 +1114,7 @@ Musée : Drapeau de la
 Révolution (1848), à
 la mairie, avec la devise
 « La Liberté ou la Mort ».
-BOURGEOIS,Pierre. Fils de Maurice
+BOURGEOIS, Pierre. Fils de Maurice
 Bourgeois et de
 Catherine Meunier.
 Marié à Catherine
